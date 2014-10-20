@@ -1,0 +1,11 @@
+# Site settings
+title: chaospott
+email: info@chaospott.de
+description: Blog des CCC Essen Chaospott
+baseurl: "" 
+#url: "http://chaospott.de"
+twitter_username: foobarev
+github_username: chaospott
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
