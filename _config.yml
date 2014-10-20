@@ -3,7 +3,7 @@ title: chaospott
 email: info@chaospott.de
 description: Blog des CCC Essen Chaospott
 baseurl: "" 
-#url: "http://chaospott.de"
+url: "http://chaospott.de"
 twitter_username: foobarev
 github_username: chaospott
 # Build settings
