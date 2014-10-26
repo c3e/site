@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+{% if forloop.first == false %}
+<hr>
+{% endif %}
+<div class="container" id="posts">
+  <div class="row">
+    <div class="col-md-12">
+      <h2>{{ post.title }}</h2>
+      <p>
+       {{ post.content | truncatewords:200 }}
+      </p>
+      {% assign wordcount = post.content | number_of_words %}
+      {% if wordcount > 200 %}
+        <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" role="button">&gt; Weiterlesen</a></p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% endfor %}

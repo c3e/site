@@ -1,0 +1,96 @@
+* {
+  background-color:transparent;
+  font-family: 'Share Tech', sans-serif;
+}
+
+#large-header {
+  padding:0;
+  margin:0;
+}
+
+body, .jumbotron {
+  background-color:#d2d4bc;
+}
+
+.jumbotron h1 {
+  font-size:26px;
+  font-weight:bold;
+  margin-top:50px;
+}
+
+.navbar {
+/* background-color:#350505; */
+background-color:#d2d4bc;
+border:none;
+opacity: 0.9;
+}
+
+ul.navbar-nav li {
+  border-right:1px red solid;
+}
+
+ul.navbar-nav li:last-child {
+  border-right:0;
+}
+
+ul.navbar-nav li a {
+  color:red !important;
+}
+
+.btn-default {
+  border:0;
+  background-color:transparent;
+  color:red;
+}
+
+a {
+  color:red;
+}
+
+a:visited {
+  color:#800032;
+}
+
+.row {
+  padding:50px 0px;
+}
+
+.jumbotron {
+  margin:0;
+  padding:0;
+}
+
+
+#large-header {
+  background-color:#222;
+  height:500px;
+  margin-bottom:160px;
+}
+
+#large-header img {
+  position:relative;
+  top:75px;
+}
+
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+ul.nav>li>a {
+  color:red;
+}
+
+.jumbotron>hr {
+  background-color:black;
+  height:1px;
+  border: 3px #333 solid;
+  width:300px;
+}
