@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Chaospott 2.0"
+date:   2014-10-17 17:58:29
+categories: space update
+---
+Zusätzlich zu den Kellerräumen ist seit dem 1. Juni 2014 ein Büro in der 
+ersten Etage angemietet. Die angestiegende Anzahl der aktiven Entitäten und das 
+gewachsene Interesse an der Vortragsreihe "Petitfoo" sorgten vor allem während des Chaostreffs für Platzmangel und stickige Luft. 
+
+Da sich der Chaospott im Hofgebäude der Sibyllastraße 9 wohl fühlt, kam das 
+Angebot für das Büro im 1.OG sehr gelegen. Auf den ca. 130 qm hat sich in den 
+letzten Monaten vieles getan. Die Sofalandschaft ist zusammen mit der 
+Bespaßungtechnik für Auge und Ohr in das OG umgezogen. Der freigewordene Raum 
+im Keller wurde gestrichen und dank einer Spende haben drei Laborschränke den 
+Weg in selbigen gefunden. Das Netzwerk hat auch das Level 2.0 erreicht, dazu 
+wurde ein Rack für Server und Router sowie leistungsstarke Access Points angeschafft und teilweise mit Lichtwellenleitern verbunden. Damit man auch die zweite Tür elektronisch öffnen und schließen kann, wird an einer Erweiterung der foodoor gebastelt. Ein RaspberryPi steuert über die Erweiterungsplatine "PiFaceDigital" diverse Taster, den Summer und die Schließelektronik an. Nach einer lustigen Diskussion auf diversen Kanälen wurde der kleinste Raum Bällebad getauft, welches in naher Zukunft neben der Bibliothek auch einen 3D-Drucker beherbergen wird. Da Bilder mehr als 1216 Zeichen (ohne Leerzeichen inklu. Überschrift) sagen, gibt es an dieser Stelle ein paar Bilder.
+![Freifunk Graph]({{ site.url }}/media/2014-10-17/DSC07745.jpg)
+![Freifunk Graph]({{ site.url }}/media/2014-10-17/IMG_0458.JPG)
+![Freifunk Graph]({{ site.url }}/media/2014-10-17/IMG_0460.JPG)
