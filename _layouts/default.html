@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
   <body>
-
     {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <div class="jumbotron">
+	    <div class="container-fluid large-header" id="large-header">
+        <canvas id="demo-canvas" style="position:absolute;"></canvas>
+	      <div class="row row-centered">
+	        <div class="col-centered">
+	          <img src="{{ "/images/logo.png" | prepend: site.baseurl }}" alt="Chaospott Logo" />
+	        </div>
+	      </div>
+	    </div>
+	    <hr>
+      {{ content }}
+      {% include footer.html %}
     </div>
-
-    {% include footer.html %}
-
+    <script src="{{ "/js/TweenLite.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/EasePack.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/rAF.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/eyecandy.js" | prepend: site.baseurl }}"></script>
   </body>
-
 </html>

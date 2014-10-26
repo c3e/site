@@ -2,22 +2,30 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+<div class="container" id="posts">
+  <div class="row">
+    {% for post in site.posts limit:4 %}
+    <div class="col-md-3">
+      <h2>{{ post.title }}</h2>
+      <p>
+       {{ post.content | truncatewords:20 }}
+      </p>
+      {% assign wordcount = post.content | number_of_words %}
+      {% if wordcount > 20 %}
+        <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" role="button">&gt; Weiterlesen</a></p>
+      {% endif %}
+    </div>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  </div>
+</div>
+<hr>
+<div class="container" id="about">
+  <div class="row">
+    <div class="col-md-12">
+      <p>
+        Wir sind der örtliche Erfa-Kreis des Chaos Computer Clubs in Essen. Unsere Gesprächsthemen und Projekte reichen von Soft- und Hardware zu Datenschutz und Netzpolitik. <br><br>
+        Alle Interessierten sind herzlich zu unserem Treff, <a href="https://wiki.die-foobar.de/wiki/Termine/2012">Mittwochs ab 19 Uhr</a>, eingeladen.
+      </p>
+    </div>
+  </div>
 </div>
