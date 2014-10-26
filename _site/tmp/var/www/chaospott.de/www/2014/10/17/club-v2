@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="/style.css" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Chaospott 2.0 &ndash; Chaospott     — Wir sind da wat am Hacken dran...
+    </title>
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
+	</head>
+	<body>
+		
+		<div id="content">
+			<div id="wrap">
+				<div id="header" class="left">
+					<a href="/" title="Chaospott"><img src="/logo.png" alt="Chaostreff Essen" width="350px" height="350px"></a>
+				</div>
+			</div>
+			<div class="article">
+				                          <div class="layout">
+                <h2 class="news-title">
+                    <a href="/2014/10/17/club-v2">Chaospott 2.0</a>
+                                    </h2>
+                <p class="date">
+                    October 17, 2014                </p>
+                <p>Zusätzlich zu den Kellerräumen ist seit dem 1. Juni 2014 ein Büro in der 
+ersten Etage angemietet. Die angestiegende Anzahl der aktiven Entitäten und das 
+gewachsene Interesse an der Vortragsreihe &#8220;Petitfoo&#8221; sorgten vor allem während des Chaostreffs für Platzmangel und stickige Luft.</p>
+
+<p>Da sich der Chaospott im Hofgebäude der Sibyllastraße 9 wohl fühlt, kam das 
+Angebot für das Büro im 1.OG sehr gelegen. Auf den ca. 130 qm hat sich in den 
+letzten Monaten vieles getan. Die Sofalandschaft ist zusammen mit der 
+Bespaßungtechnik für Auge und Ohr in das OG umgezogen. Der freigewordene Raum 
+im Keller wurde gestrichen und dank einer Spende haben drei Laborschränke den 
+Weg in selbigen gefunden. Das Netzwerk hat auch das Level 2.0 erreicht, dazu 
+wurde ein Rack für Server und Router sowie leistungsstarke Access Points angeschafft und teilweise mit Lichtwellenleitern verbunden. Damit man auch die zweite Tür elektronisch öffnen und schließen kann, wird an einer Erweiterung der foodoor gebastelt. Ein RaspberryPi steuert über die Erweiterungsplatine &#8220;PiFaceDigital&#8221; diverse Taster, den Summer und die Schließelektronik an. Nach einer lustigen Diskussion auf diversen Kanälen wurde der kleinste Raum Bällebad getauft, welches in naher Zukunft neben der Bibliothek auch einen 3D-Drucker beherbergen wird. Da Bilder mehr als 1216 Zeichen (ohne Leerzeichen inklu. Überschrift) sagen, gibt es an dieser Stelle ein paar Bilder.
+<a class="news-picture" href="/media/2014-10-17/DSC07745.jpg"><img src="/media/2014-10-17//DSC07745_small.jpg" /></a>
+<a class="news-picture" href="/media/2014-10-17/IMG_0458.JPG"><img src="/media/2014-10-17//IMG_0458.JPG_small.jpg" /></a>
+<a class="news-picture" href="/media/2014-10-17/IMG_0460.JPG"><img src="/media/2014-10-17//IMG_0460.JPG_small.jpg" /></a></p>
+              </div>
+                            
+                        <h3 class="archive">Archives</h3>
+                <div class="archive-layout">
+                                                        </div>
+            <div>
+        		</div>
+			</div>
+			<div id="footer">
+				<span>October 2014</span>
+				<!--<a href="impressum.html">Impressum</a>-->
+			</div>
+	</body>
+</html>
