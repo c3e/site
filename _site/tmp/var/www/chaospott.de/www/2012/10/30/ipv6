@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="/style.css" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>IPv6  &ndash; Chaospott     — Wir sind da wat am Hacken dran...
+    </title>
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
+	</head>
+	<body>
+		
+		<div id="content">
+			<div id="wrap">
+				<div id="header" class="left">
+					<a href="/" title="Chaospott"><img src="/logo.png" alt="Chaostreff Essen" width="350px" height="350px"></a>
+				</div>
+			</div>
+			<div class="article">
+				                          <div class="layout">
+                <h2 class="news-title">
+                    <a href="/2012/10/30/ipv6">IPv6 </a>
+                                    </h2>
+                <p class="date">
+                    October 30, 2012                </p>
+                <p>Die Homepage des Chaospotts ist per IPv6 erreichbar. Falls ihr kein natives 
+IPv6 von eurem Provider bekommt, schaut mal bei <a href="https://www.sixxs.net/">SixXS</a> 
+oder anderen Tunnelanbietern vorbei.</p>
+
+<p>Einen interessanten Podcast zu Thema bietet <a href="http://cre.fm/cre197">CRE 197</a>.</p>
+              </div>
+                            
+                        <h3 class="archive">Archives</h3>
+                <div class="archive-layout">
+                                                        </div>
+            <div>
+        		</div>
+			</div>
+			<div id="footer">
+				<span>September 2014</span>
+				<!--<a href="impressum.html">Impressum</a>-->
+			</div>
+	</body>
+</html>
