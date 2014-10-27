@@ -58,9 +58,9 @@ a:visited {
 #large-header {
   background-color:#222;
   height:300px;
-  /* margin-bottom:160px; */
   margin:0;
   padding:0;
+  margin-bottom:30px;
 }
 
 #large-header img {
