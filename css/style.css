@@ -3,11 +3,6 @@
   font-family: 'Share Tech', sans-serif;
 }
 
-#large-header {
-  padding:0;
-  margin:0;
-}
-
 body, .jumbotron {
   background-color:#d2d4bc;
 }
@@ -63,13 +58,15 @@ a:visited {
 
 #large-header {
   background-color:#222;
-  height:500px;
-  margin-bottom:160px;
+  height:300px;
+  /* margin-bottom:160px; */
+  margin:0;
+  padding:0;
 }
 
 #large-header img {
   position:relative;
-  top:75px;
+  top:30px;
 }
 
 .row-centered {
