@@ -1,0 +1,40 @@
+{
+    "state": {
+        "lastchange": 1414569015, 
+        "open": false, 
+        "icons": {
+            "open": "http://foobarstatus.nomoketo.de/open.png", 
+            "closed": "http://foobarstatus.nomoketo.de/closed.png"
+        }
+    }, 
+    "api": "0.13", 
+    "location": {
+        "lat": 51.438476, 
+        "lon": 7.024991, 
+        "address": "Sibyllastr. 9, 45136 Essen, Germany"
+    }, 
+    "space": "Die foobar", 
+    "url": "http://die-foobar.de", 
+    "logo": "http://wiki.die-foobar.de/skins/common/images/foobar-logo-new-wiki.png", 
+    "feeds": {
+        "blog": {
+            "url": "http://chaospott.de/rss.xml", 
+            "type": "rss"
+        }
+    }, 
+    "issue_report_channels": [
+        "twitter"
+    ], 
+    "projects": [
+        "https://wiki.die-foobar.de/wiki/Kategorie:Projekt"
+    ], 
+    "contact": {
+        "ml": "chaostreff-essen@lists.cccmz.de", 
+        "twitter": "@foobarEv", 
+        "phone": "+49 201 75915275", 
+        "foursquare": "4f41445ce4b0c868de54bb9f", 
+        "facebook": "https://www.facebook.com/pages/foobar-eV/127246337351928", 
+        "irc": "irc://irc.hackint.org/#chaospott", 
+        "email": "info@die-foobar.de"
+    }
+}
