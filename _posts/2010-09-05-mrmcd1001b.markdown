@@ -11,11 +11,11 @@ Eine zweieinhalb stündige Autofahrt die ist lustig, eine zweieinhalb stündige 
 
 Beim ersten Rundblick ist natürlich sofort der 3D-Drucker aufgefallen, der scheinbar ununterbrochen rote Gegenstände ausgedruckt hat, die sich Hasi erst mal näher anschaute. Neben einem Drachenkopf konnte auch eine Dose mit funktionsfähigem Gewinde gedruckt werden.
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7842.jpg"><img src="/media/2010-09-05/CIMG7842_small.jpg" /></a>
+![Bild 2]({{ site.url }}/media/2010-09-05/CIMG7842.jpg)
 
 Wieder zurück auf den MRMCD haben wir unser Equipment ausgebreitet und die DECT-Telefone beim [POC](http://www.eventphone.de) einrichten lassen.
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7830.jpg"><img src="/media/2010-09-05/CIMG7830_small.jpg" /></a>
+![Bild 3]({{ site.url }}/media/2010-09-05/CIMG7830.jpg)
 
 Abends, gegen 21 Uhr, besuchten wir den Vortrag **DMX for SoHo**, der sich mit der Entwicklung von DMX-Geräten auf AVR-Basis beschäftigte. Der Vortrag zeigte, dass man schon mit wenig Aufwand schöne Lichteffekte erzeugen kann. Im Anschluss haben wir noch das herrliche Wetter, bei einem matehaltigen Getränk und guter Musik genossen.
 
@@ -23,9 +23,9 @@ Tag 2
 -------------
 Am nächsten Tag gab es erst mal ein ordentliches Frühstück inklusive Kaffeeflatrate. 
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7803.jpg"><img src="/media/2010-09-05/CIMG7803_small.jpg" /></a>
+![Bild 4]({{ site.url }}/media/2010-09-05/CIMG7803.jpg)
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7804.jpg"><img src="/media/2010-09-05/CIMG7804_small.jpg" /></a>
+![Bild 5]({{ site.url }}/media/2010-09-05/CIMG7804.jpg)
 
 Um 13 Uhr begann der Vortrag **Power to the people** der von Stromnetzen und intelligenten Stromzählern handelte.
 
@@ -36,13 +36,13 @@ Der Vortrag war jedoch nicht nur theoretisch. Alle bekamen drei
 Bälle und konnten versuchen, sie in der Luft zu halten (oder ihrem
 Tischnachbarn um die Ohren zu hauen).
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7816.jpg"><img src="/media/2010-09-05/CIMG7816_small.jpg" /></a>
+![Bild 6]({{ site.url }}/media/2010-09-05/CIMG7816.jpg)
 
 Um 18 Uhr haben wir uns **Das dreckige (halbe) Dutzend** angehört. Dort ging es primär um kleine Crawler, die über einen längeren Zeitraum Informationen abgegriffen haben. Die Visualisierungen ergaben interessante und lustige Ergebnisse. Nach dem Vortrag wurden die Lötkolben angeheizt und Fnordlichter zusammengebaut. Nach einiger Zeit konnte die Fnordlichkette dann um zwei weitere Module ergänzt werden.
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7810.jpg"><img src="/media/2010-09-05/CIMG7810_small.jpg" /></a>
+![Bild 7]({{ site.url }}/media/2010-09-05/CIMG7810.jpg)
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7811.jpg"><img src="/media/2010-09-05/CIMG7811_small.jpg" /></a>
+![Bild 8]({{ site.url }}/media/2010-09-05/CIMG7811.jpg)
 
 Um 22 Uhr gab es dann noch einen gemütlichen Vortrag namens **Low-level bit-fucking with AtTiny**. 
 Diesen Vortrag hat [Willi](https://twitter.com/#!/Willi_D) gehalten, welcher zeigte, wie man auf dem kleinsten AtTiny ein Moodlight implementiert. 
@@ -51,9 +51,9 @@ Tag 3
 -------------
 Neuer Tag, neues Glück. Wieder gab es ein ausgewogenes Frühstück. Den Rest des Tages haben wir mit Basteln und Gesprächen verbracht. 
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7835.jpg"><img src="/media/2010-09-05/CIMG7835_small.jpg" /></a>
+![Bild 9]({{ site.url }}/media/2010-09-05/CIMG7835.jpg)
 
-<a class="news-picture" href="/media/2010-09-05/CIMG7838.jpg"><img src="/media/2010-09-05/CIMG7838_small.jpg" /></a>
+![Bild 10]{{ site.url }}/media/2010-09-05/CIMG7838.jpg)
 
 Fazit
 -------------
