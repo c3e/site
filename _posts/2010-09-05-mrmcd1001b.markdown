@@ -53,7 +53,7 @@ Neuer Tag, neues Glück. Wieder gab es ein ausgewogenes Frühstück. Den Rest de
 
 ![Bild 9]({{ site.url }}/media/2010-09-05/CIMG7835.jpg)
 
-![Bild 10]{{ site.url }}/media/2010-09-05/CIMG7838.jpg)
+![Bild 10]({{ site.url }}/media/2010-09-05/CIMG7838.jpg)
 
 Fazit
 -------------
