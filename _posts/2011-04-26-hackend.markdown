@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Easterhegg 11"
-date:	2011-04-26 22:24:39   
-categories: easterhegg
+title:  "Hackerspace"
+date:	2011-04-26 22:24:39
+categories: space update
 ---
 Lange war es still auf der Homepage. Der Treff wächst und
 gedeiht jedoch. Wir sind derzeit ca. 20 Chaoten, von denen sich

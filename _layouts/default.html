@@ -4,14 +4,14 @@
   <body>
     {% include header.html %}
     <div class="jumbotron">
-	    <div class="container-fluid large-header" id="large-header">
+      <div class="container-fluid large-header" id="large-header">
         <canvas id="demo-canvas" style="position:absolute;width:100%;"></canvas>
-	      <div class="row row-centered" style="margin-left:0px;margin-right:0px;">
-	        <div class="col-centered">
-	          <img src="{{ "/images/logo.png" | prepend: site.baseurl }}" alt="Chaospott Logo" />
-	        </div>
-	      </div>
-	    </div>
+	<div class="row row-centered">
+	  <div class="col-centered">
+	    <img src="{{ "/images/logo.png" | prepend: site.baseurl }}" alt="Chaospott Logo" />
+	  </div>
+	</div>
+      </div>
       {{ content }}
       {% include footer.html %}
     </div>
