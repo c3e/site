@@ -16,10 +16,24 @@
         <li><a href="#contact">Kontakt</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li>
-	        <a href="#">
+        <script>
+          $.getJSON("js/status.json").done(function(data) {
+            if(data.state.open) {
+              document.getElementById('status_open').style.display='block';
+            } else {
+              document.getElementById('status_closed').style.display='block';
+	    }
+          });
+        </script>
+        <li id="status_open" style="display:none;">
+          <a href="#" style="color:#00ff00;">
+            Raum: offen
+          </a>
+        </li>
+        <li id="status_closed" style="display:none;">
+          <a href="#" style="color:#ff0000;">
             Raum: geschlossen
-	        </a>
+          </a>
         </li>
       </ul>
     </div>
