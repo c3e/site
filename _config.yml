@@ -5,7 +5,7 @@ description: >
   Wir sind der örtliche Erfa-Kreis des Chaos Computer Clubs in Essen. Unsere Gesprächsthemen und Projekte reichen von Soft- und Hardware zu Datenschutz und Netzpolitik. 
   Alle Interessierten sind herzlich zu unserem Treff eingeladen.
 baseurl: "" 
-url: "http://dohms.chaospott.de"
+url: "http://chaospott.de"
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title
