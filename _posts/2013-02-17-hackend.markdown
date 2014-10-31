@@ -5,13 +5,13 @@ date: 2013-02-17 22:24:39
 ---
 Die Hardware des Schließsystems lässt sich mit einer angepassten OpenWRT-Firmware bespielen und die GPIO-Pins des [Carambola](http://www.8devices.com/product/3/carambola) über das Sysfs steuern.
 
-![Hackend({{ site.url }}/media/2013-02-17/schliesssystem.jpg)
+![Hackend]({{ site.url }}/media/2013-02-17/schliesssystem.jpg)
 
 Auf dem Infoscreen wurde eine simple Uhr mit OpenGL ES umgesetzt und erfolgreich die Portierung des [info-beamer](http://info-beamer.org/pi/) auf das RaspberryPi getestet. Ein Platz, an dem der Infoscreen befestigt wird, ist schon gefunden.
 
-![Hackend({{ site.url }}/media/2013-02-17/uhr.jpg)
+![Hackend]({{ site.url }}/media/2013-02-17/uhr.jpg)
 
 Außerdem wurde der DrachenSchlumpf, eine Kamerahalterung, die unter einem Drachen befestigt werden kann, in einer ersten Version fertiggestellt. Die Kamerahalterung ist aus einer Alu-Schiene gefertig, lässt sich um die x- und y-Achse bewegen und ist mit zwei 
 Servomotoren ausgestattet. Ein Servo ist so angebracht, dass automatisiert Fotos gemacht werden können. Der andere dreht das Gestell um seine y-Achse, so dass ggf. Panoramabilder erstellt werden können. Die Motoren werden mit einem atmega8 angesteuert, dessen Software mit der Arduino-IDE entwickelt wurde.
 
-![Hackend({{ site.url }}/media/2013-02-17/drachenschlumpf.jpg)
+![Hackend]({{ site.url }}/media/2013-02-17/drachenschlumpf.jpg)
