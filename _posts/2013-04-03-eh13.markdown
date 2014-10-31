@@ -2,7 +2,8 @@
 layout: post
 title: "Easterhegg 13"
 date: 2013-04-03 15:47:38
-
+categorie: Essen auf Rädern
+---
 Der [C3PB](https://c3pb.de) hatte zum 29. März zur viertägigen Easterhegg nach Paderborn eingeladen, der ca. 250 Hacker gefolgt sind.
 
 ![EH 13]({{ site.url }}/media/2013-04-03/bild01.JPG)
