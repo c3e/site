@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hackerspace"
-date:	2011-04-26 22:24:39
+title:  "Esterhegg 2011"
+date:	2011-04-26 23:42:00
 categories: space update
 ---
 Lange war es still auf der Homepage. Der Treff wächst und
