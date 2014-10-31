@@ -1,8 +1,9 @@
-Essen auf Rädern - Besuch in Aachen
-====================================
-Published: 2013-02-10 05:34:01pm
-
-
+---
+layout: post
+title: "Essen auf Rädern - Besuch in Aachen"
+date: 2013-02-10 17:34:01
+categorie: Essen auf Rädern
+---
 #### Das Versprechen
 Bereits beim Regiotreffen in Göttingen haben wir zwei Vertreter des
 [CCCAC](https://aachen.ccc.de) kennen gelernt und uns auf Anhieb gut
