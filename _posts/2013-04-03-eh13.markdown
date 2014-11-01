@@ -12,7 +12,7 @@ Die Kulturwerkstatt bot ausreichend Platz für ein großes Hackcenter, Vortrags 
 
 ![EH 13]({{ site.url }}/media/2013-04-03/bild02.JPG)
 
-Ein Highlight war die Besichtigung des [Heinz Nixdorf-Museums](http://www.hnf.de/), auf der zum Beispiel eine funktionsfähige Vermittlungsstelle zu bestaunen war. An mehreren Fernsprechtischapparaten ([FeTAp](http://de.wikipedia.org/wiki/Fernsprechtischapparat)) konnte die obsolete Technik ausprobiert werden, da auf den FeTaps die jeweilige Nummer zu lesen war. Für die Gesprächsvermittlung sorgt sowohl ein Wählsystem S&nbsp;50 (Heb-Dreh-Wähler), als auch ein S&nbsp;55, welches auf Edelmetall-Motor-Drehwählern basiert. Außerdem wurden auf insgesamt zwei Etagen viele anderen Exponate ausgestellt, unter anderem eine [ENIAC](http://de.wikipedia.org/wiki/ENIAC), eine Enigma oder alte Datenträger.
+Ein Highlight war die Besichtigung des [Heinz Nixdorf-Museums](https://www.hnf.de/), auf der zum Beispiel eine funktionsfähige Vermittlungsstelle zu bestaunen war. An mehreren Fernsprechtischapparaten ([FeTAp](https://de.wikipedia.org/wiki/Fernsprechtischapparat)) konnte die obsolete Technik ausprobiert werden, da auf den FeTaps die jeweilige Nummer zu lesen war. Für die Gesprächsvermittlung sorgt sowohl ein Wählsystem S&nbsp;50 (Heb-Dreh-Wähler), als auch ein S&nbsp;55, welches auf Edelmetall-Motor-Drehwählern basiert. Außerdem wurden auf insgesamt zwei Etagen viele anderen Exponate ausgestellt, unter anderem eine [ENIAC](https://de.wikipedia.org/wiki/ENIAC), eine Enigma oder alte Datenträger.
 
 ![EH 13]({{ site.url }}/media/2013-04-03/bild03.JPG)
 
