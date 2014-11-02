@@ -1,0 +1,15 @@
+---
+layout: post
+title: "GPN 12"
+date: 2012-09-10 13:37:11
+categories: Essen auf Rädern
+---
+Am 7. Juni ist der Chaospott der Einladung des Entropia zur Gulachprogrammiernacht gefolgt und hat sich auf die Reise nach Karsruhe begeben. Die GPN fand auch dieses Jahr im Zentrum für Kunst und Medientechnologie, einem denkmalgeschützten Industriebau, einer ehemaligen Munitionsfabrik statt. 
+
+![Quelle: Atarifrosch]({{ site.url }}/media/2012-09-10/GPN12-atarifrosch-20120609-038.jpg)
+
+Über zwei Infobeamer wurden während der Veranstaltung aktuelle Informationen, sowie der Fahrplan und das aktuelle Wetter angezeigt und im weiteren Verlauf durch Bilder, genutzte Bandbreite und diverse Webcamaufnahmen erweitert. Das Programm bot interessante Vorträge sowie Workshops und wurde durch die Projekte der Teilnehmer ergänzt.
+
+![GPN]({{ site.url }}/media/2012-09-10/800px-595262475.jpg)
+
+Zum Beispiel wurde während der Veranstaltung ein alter Nadeldrucker in Betrieb genommen oder ein Höhenmodell, mit Hilfe der Kinect auf einen Sandkasten projeziert. Insgesamt hatten wir viel Spaß und freuen uns schon auf die GPN13.

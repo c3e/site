@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Hackerspace - Erste Impressionen"
-date:   2012-02-18 05:41:54
+title: "Hackerspace - Erste Impressionen"
+date: 2012-02-18 05:41:54
 categories: space update
 ---
 *Eine erste Tour in Bildern.*
 
-Wir sind in einen Hackerspace eingezogen und sind dabei ihn einzurichten.
+Wir haben unseren Hackerspace bezogen und sind dabei ihn einzurichten.
 
 ![Raum]({{ site.url }}/media/2012-02-18/Raum.jpg)
 

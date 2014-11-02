@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Mate, Sitzsäcke und ein wenig Licht"
-date:   2012-03-09 10:18:29
+title: "Mate, Sitzsäcke und ein wenig Licht"
+date: 2012-03-09 10:18:29
 categories: space update
 ---
-
-Die ersten Wochen sind vorrüber, in der foobar hat sich also einiges getan. Wir haben zwei Sitzsäcke und ein zweites Sofa, über dessen Bezug noch diskutiert wird, bekommen.Regale und einige Tische haben sich auch eingefunden und warten noch auf ihren endgültigen Platz.
+Die ersten Wochen sind vorrüber, in den Clubräumen hat sich einiges getan. Wir haben zwei Sitzsäcke und ein zweites Sofa, über dessen Bezug noch diskutiert wird, bekommen. Regale und einige Tische haben sich auch eingefunden und warten noch auf ihren endgültigen Platz.
 
 ![Raum 2]({{ site.url }}/media/2012-03-09/Raum_2.jpg)
 
@@ -13,7 +12,7 @@ Ein Telefon- und Netzwerksetup befindet sich in der Testphase. Wenn es sich eign
 
 ![Telekom]({{ site.url }}/media/2012-03-09/Telecom.jpg)
 
-Zur Verbesserung des Raumklimas, haben $anzahl Pflanzen auf der Fensterbank ihre neue Heimat gefunden. Wir brauchen also eine Bewässerungsanlage!
+Zur Verbesserung des Raumklimas, haben $Anzahl Pflanzen auf der Fensterbank ihre neue Heimat gefunden. Wir brauchen also eine Bewässerungsanlage!
 
 ![Pflanzen]({{ site.url }}/media/2012-03-09/Pflanzen.jpg)
 

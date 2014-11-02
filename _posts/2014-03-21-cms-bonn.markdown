@@ -6,7 +6,7 @@ categories: CmS
 ---
 ![CMS Bonn]({{ site.url }}/media/2014-03-21/Bild_BF_Uebergangsversion.jpg)
 
-Am 25.02.2014 waren die CMS-Teams des Chaospott und des [CCCAC](http://aachen.ccc.de/) gemeinsam an Bonns Fünfter Gesamtschule zu Gast.
+Am 25.02.2014 waren die CMS-Teams des Chaospott und des [CCCAC](https://aachen.ccc.de/) gemeinsam an Bonns Fünfter Gesamtschule zu Gast.
 
 Dort sprachen wir, erstmals nach der Übernahme von WhatsApp durch Facebook, mit 40 Schülerinnen und Schülern der Jahrgangsstufe 7 über die Gefahren und Chancen der Nutzung von sozialen Netzwerken anhand des Beispiels Facebook.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Chaos Communication Camp 2011"
-date:   2011-08-08 05:41:54
-categories: cccamp
+title: "Chaos Communication Camp 2011"
+date: 2011-08-08 05:41:54
+categories: Essen auf Rädern
 ---
 
 Eine Delegation des Chaostreff Essen ist am Montag nach Finowfurt gereist, um ihre Zelte auf dem CCCamp11 aufzuschlagen.

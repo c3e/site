@@ -2,9 +2,9 @@
 layout: post
 title: "Freifunktag im Niemandsland"
 date: 2013-05-26 20:38:52
-categorie: Essen auf Rädern
+categories: Essen auf Rädern
 ---
-Am Towelday des Jahres 2013 fand im [Niemandsland](http://www.niemandsland.org/blog/) ein größeres Freifunk-Treffen statt, das vom [Freifunk Rheinland e.V](https://www.freifunk-rheinland.net/) organisiert wurde. Da wir in der Umgebung unserer Clubräume ein Freifunknetz planen, bot das Treffen eine gute Möglichkeit um grundlegende Informationen über geeignete Hard- bzw. Software zu sammeln und rechtliche Fragen zu klären, die der Betrieb eines freien Netzes aufwirft.
+Am Towelday des Jahres 2013 fand im [„Niemandsland“](http://www.niemandsland.org/blog/) ein größeres Freifunk-Treffen statt, das vom [Freifunk Rheinland e.V](https://www.freifunk-rheinland.net/) organisiert wurde. Da wir in der Umgebung unserer Clubräume ein Freifunknetz planen, bot das Treffen eine gute Möglichkeit um grundlegende Informationen über geeignete Hard- bzw. Software zu sammeln und rechtliche Fragen zu klären, die der Betrieb eines freien Netzes aufwirft.
 
 ![space foto 1]({{ site.url }}/media/2013-05-26/Freifunk-Router-fixt.jpg)
 
