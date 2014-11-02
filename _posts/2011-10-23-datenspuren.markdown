@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Datenspuren 2011"
-date:   2011-10-23 05:41:54
-categories: datenspuren, event
+title: "Datenspuren 2011"
+date: 2011-10-23 05:41:54
+categories: Essen auf Rädern
 ---
 Bei bester Herbstsonne fanden die diesjährigen Datenspuren am 15. und 16 Oktober im Dresdener Kulturzentrum ["Scheune"](http://www.scheune.org) statt.
 

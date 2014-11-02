@@ -2,7 +2,7 @@
 layout: post
 title: "OpenRheinRuhr 2013"
 date: 2013-11-11 17:25:58
-categorie: Essen auf Rädern
+categories: Essen auf Rädern
 ---
 Auf der diesjährigen [OpenRheinRuhr](https://www.openrheinruhr.de) hat der Chaospott zusammen mit dem [Chaosdorf](https://chaosdorf.de) und dem [fNordeingang](https://fnordeingang.de) für den passenden Hackercharme gesorgt. In der Hackecke konnten technikinteressierte Menschen zusammen an Projekten arbeiten oder die Projekte anderer bestaunen. Zu sehen gab es einen Infoscreen, auf dem Zugabfahrtszeiten, Chatlogs, das Wetter und Windgeschwindigkeiten abgelesen werden konnten. Für analog Orientierte gab es den Service, den Chatlog ausgedruckt mit nach Hause zu nehmen. 
 

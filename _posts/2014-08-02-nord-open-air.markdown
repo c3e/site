@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Freifunk versorgt Nord Open Air mit Internet"
+title: "Freifunk versorgt Nord Open Air mit Internet"
 date:   2014-08-02 16:31:19
 categories: Freifunk
 ---

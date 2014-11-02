@@ -2,9 +2,9 @@
 layout: post
 title:	"MRMCD1001b"
 date:	2010-09-05 05:41:54
+categories: Essen auf Rädern
 ---
-Tag 1
--------------
+### Tag 1
 Eine zweieinhalb stündige Autofahrt die ist lustig, eine zweieinhalb stündige Autofahrt die ist schöööön... Nur die unglaublich guten Rosinenwitze grenzten an Folter! Als wir endlich an der Technischen Universität in Darmstadt angekommen sind, haben wir uns mit den QR-Eintrittskarten eingecheckt und unsere Badges bekommen.
 
 ![Bild 1]({{ site.url }}/media/2010-09-05/CIMG7775.jpg)
@@ -13,14 +13,13 @@ Beim ersten Rundblick ist natürlich sofort der 3D-Drucker aufgefallen, der sche
 
 ![Bild 2]({{ site.url }}/media/2010-09-05/CIMG7842.jpg)
 
-Wieder zurück auf den MRMCD haben wir unser Equipment ausgebreitet und die DECT-Telefone beim [POC](http://www.eventphone.de) einrichten lassen.
+Wieder zurück auf den MRMCD haben wir unser Equipment ausgebreitet und die DECT-Telefone beim [POC](https://www.eventphone.de) einrichten lassen.
 
 ![Bild 3]({{ site.url }}/media/2010-09-05/CIMG7830.jpg)
 
 Abends, gegen 21 Uhr, besuchten wir den Vortrag **DMX for SoHo**, der sich mit der Entwicklung von DMX-Geräten auf AVR-Basis beschäftigte. Der Vortrag zeigte, dass man schon mit wenig Aufwand schöne Lichteffekte erzeugen kann. Im Anschluss haben wir noch das herrliche Wetter, bei einem matehaltigen Getränk und guter Musik genossen.
 
-Tag 2
--------------
+### Tag 2
 Am nächsten Tag gab es erst mal ein ordentliches Frühstück inklusive Kaffeeflatrate. 
 
 ![Bild 4]({{ site.url }}/media/2010-09-05/CIMG7803.jpg)
@@ -29,12 +28,7 @@ Am nächsten Tag gab es erst mal ein ordentliches Frühstück inklusive Kaffeefl
 
 Um 13 Uhr begann der Vortrag **Power to the people** der von Stromnetzen und intelligenten Stromzählern handelte.
 
-Um 15 Uhr folgete der Vortrag **Jonglieren für Nerds**.  Uns wurde näher gebracht, dass Jonglieren nicht nur
-(ent)spannend, sondern auch mathematisch beschreibbar und damit
-hackerkompatibel ist. 
-Der Vortrag war jedoch nicht nur theoretisch. Alle bekamen drei
-Bälle und konnten versuchen, sie in der Luft zu halten (oder ihrem
-Tischnachbarn um die Ohren zu hauen).
+Um 15 Uhr folgete der Vortrag **Jonglieren für Nerds**.  Uns wurde näher gebracht, dass Jonglieren nicht nur (ent)spannend, sondern auch mathematisch beschreibbar und damit hackerkompatibel ist. Der Vortrag war jedoch nicht nur theoretisch. Alle bekamen drei Bälle und konnten versuchen, sie in der Luft zu halten (oder ihrem Tischnachbarn um die Ohren zu hauen).
 
 ![Bild 6]({{ site.url }}/media/2010-09-05/CIMG7816.jpg)
 
@@ -47,14 +41,12 @@ Um 18 Uhr haben wir uns **Das dreckige (halbe) Dutzend** angehört. Dort ging es
 Um 22 Uhr gab es dann noch einen gemütlichen Vortrag namens **Low-level bit-fucking with AtTiny**. 
 Diesen Vortrag hat [Willi](https://twitter.com/#!/Willi_D) gehalten, welcher zeigte, wie man auf dem kleinsten AtTiny ein Moodlight implementiert. 
 
-Tag 3
--------------
+### Tag 3
 Neuer Tag, neues Glück. Wieder gab es ein ausgewogenes Frühstück. Den Rest des Tages haben wir mit Basteln und Gesprächen verbracht. 
 
 ![Bild 9]({{ site.url }}/media/2010-09-05/CIMG7835.jpg)
 
 ![Bild 10]({{ site.url }}/media/2010-09-05/CIMG7838.jpg)
 
-Fazit
--------------
+### Fazit
 Interessante Vorträge und eine familiäre Atmosphäre machen die MRMCD zu einer empfehlenswerten Veranstaltung.

@@ -10,6 +10,8 @@ Die Baustellen der nächsten Jahre wurden in den Räumen BER und S21 vorgestellt
 
 Im Hackcenter flupperte die (schon von der Easterhegg bekannte) Pixelflut über den Projektor. Unbekannt ist, ob die bunte Pixelflut für einen Engpass der IP-Adressen sorgte. Insgesamt verzeichnete das NOC 450 Geräte, die über die Veranstaltung eine größere Menge Daten versendeten als empfingen. Sendungsbewusstsein erfüllt!
 
+![Quelle: Chaospott]({{ site.url }}/media/2014-09-22/lounge.jpg)
+
 Die Verpflegung wurde über die Großkantine abgewickelt. Neben dem Frühstück wurden auch Waffel und Hotdogs zur Stärkung angeboten.Bar und Lounge führten den Besuchern das nötige Maß an Entspannung und Heiterkeit zu.
 
 Unser Dank gilt der Baustellenleitung für ein chaotisches Wochenende.

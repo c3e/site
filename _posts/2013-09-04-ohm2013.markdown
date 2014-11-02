@@ -2,7 +2,7 @@
 layout: post
 title: "Observe, Hack, Make"
 date: 2013-09-04 18:50:50
-categorie: Essen auf Rädern
+categories: Essen auf Rädern
 ---
 Vom 29. Juli bis zum 4. August schlugen wir zusammen mit dem [CCCMz](https://www.cccmz.de/) und anderen Entitäten aus Stuttgart und Wuppertal unsere Zelte in Geestmerambacht auf, um gemeinsam mit 3000 Hackern aus der ganzen Welt ein fünftägiges Outdoorfest zu feiern, die OHM.
 

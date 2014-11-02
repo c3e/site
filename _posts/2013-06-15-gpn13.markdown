@@ -2,7 +2,7 @@
 layout: post
 title: "Gulaschprogrammiernacht 2013"
 date: 2013-06-15 13:37:42
-categorie: Essen auf Rädern
+categories: Essen auf Rädern
 ---
 Die [GPN](https://entropia.de/GPN13) fand vom 30. Mai bis zum 2. Juni statt und zog in seiner 12. Iteration noch mehr technikaffine Entitäten an als in den Vorjahren. So fanden sich ca. 450 Programmierer, Elektronikbastler, Lockpicker und andere Hacker in der [HFG Karlsruhe](http://www.hfg-karlsruhe.de) ein.
 

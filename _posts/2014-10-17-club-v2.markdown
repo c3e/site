@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chaospott 2.0"
-date:   2014-10-17 17:58:29
+title: "Chaospott 2.0"
+date: 2014-10-17 17:58:29
 categories: space update
 ---
 Zusätzlich zu den Kellerräumen ist seit dem 1. Juni 2014 ein Büro in der ersten Etage angemietet. Die angestiegende Anzahl der aktiven Entitäten und das gewachsene Interesse an der Vortragsreihe „Petitfoo” sorgten vor allem während des Chaostreffs für Platzmangel und stickige Luft. 

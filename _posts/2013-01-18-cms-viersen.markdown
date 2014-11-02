@@ -2,7 +2,7 @@
 layout: post
 title: "Chaos macht Schule - Anne-Frank-Gesamtschule Viersen"
 date: 2013-01-18 17:51:17
-categorie: CmS
+categories: CmS
 ---
 Im Rahmen des [Chaos macht Schule](https://ccc.de/schule/) Projektes waren wir an der [Anne-Frank-Gesamtschule](http://www.afg-vie.de) in Viersen zu Gast.
 
@@ -30,7 +30,7 @@ Gegen Ende des ersten Teils hatten wir noch Gelegenheit Fragen der Schüler zu b
 
 ![CMS]({{ site.url }}/media/2013-01-18/meldung.jpg)
 
-Im weiterführenden Vortrag, der sich mit dem Aufbau des weltweiten Datennetzes beschäftigte, zeigten wir den Jugendlichen, wie Client-Server-Kommunikation im Internet funktioniert, warum diese immer als potentiell unsicher zu betrachten ist und wie Verschlüsselung diesem Umstand entgegenwirken kann. Zudem erklärten wir, warum kostenfreie, öffentliche Nachrichtendienste wie der Facebook-Chat und WhatsApp bewusst auf Verschlüsselungsmechanismen verzichten und welche realen Risiken der Versand unverschlüsselter Nachrichten für die Nutzer birgt. Hierbei gaben wir Ratschläge, wie sich private Kommunikation ohne großen Aufwand ausreichend gegen unbefugtes Mitlesen Dritter schützen lässt und wie sich durch die Nutzung des "Inkognito Modus" moderner Browser der Erfolg der Sammelwut des Like-Buttons einschränken lässt.
+Im weiterführenden Vortrag, der sich mit dem Aufbau des weltweiten Datennetzes beschäftigte, zeigten wir den Jugendlichen, wie Client-Server-Kommunikation im Internet funktioniert, warum diese immer als potentiell unsicher zu betrachten ist und wie Verschlüsselung diesem Umstand entgegenwirken kann. Zudem erklärten wir, warum kostenfreie, öffentliche Nachrichtendienste wie der Facebook-Chat und WhatsApp bewusst auf Verschlüsselungsmechanismen verzichten und welche realen Risiken der Versand unverschlüsselter Nachrichten für die Nutzer birgt. Hierbei gaben wir Ratschläge, wie sich private Kommunikation ohne großen Aufwand ausreichend gegen unbefugtes Mitlesen Dritter schützen lässt und wie sich durch die Nutzung des „Inkognito Modus“ moderner Browser der Erfolg der Sammelwut des Like-Buttons einschränken lässt.
 
 Nach Abschluss der Veranstaltung hatten wir noch Gelegenheit uns mit einigen Lehrern der Jahrgangsstufe auszutauschen, dabei bekamen wir nicht nur Lob, sondern auch hilfreiches, kritisches Feedback, das wir zur Verbesserung unserer Arbeit nutzen können.
 

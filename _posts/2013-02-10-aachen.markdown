@@ -2,7 +2,7 @@
 layout: post
 title: "Essen auf Rädern - Besuch in Aachen"
 date: 2013-02-10 17:34:01
-categorie: Essen auf Rädern
+categories: Essen auf Rädern
 ---
 #### Das Versprechen
 Bereits beim Regiotreffen in Göttingen haben wir zwei Vertreter des [CCCAC](https://aachen.ccc.de) kennen gelernt und uns auf Anhieb gut verstanden. Wir wurden eingeladen, ihren Hackerspace zu besuchen. Auf den [MRMCD 2012](https://mrmcd.net/) trafen wir sie wieder, ebenso auf dem [29C3](https://events.ccc.de/congress/2012/wiki/Main_Page). Jedes mal beteuerten wir, dass wir sie besuchen werden und diesmal haben wir ernst gemacht. 10 unserer Leute haben sich auf 3 Autos verteilt gen Aachen gemacht.
