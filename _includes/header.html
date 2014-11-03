@@ -17,7 +17,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <script>
-          $.getJSON("js/status.json").done(function(data) {
+          $.getJSON("http://status.chaospott.de/status.json").done(function(data) {
             if(data.state.open) {
               document.getElementById('status_open').style.display='block';
             } else {
