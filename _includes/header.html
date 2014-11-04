@@ -1,5 +1,5 @@
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <hr id="status_bar" style="margin:0; border-width:4px 0px;">
+  <hr id="status_bar">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -12,30 +12,35 @@
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li><a href="/">Home</a></li>
+        <li class="divider-vertical"></li>
         <li><a href="/blog.html">Logbuch</a></li>
+        <li class="divider-vertical"></li>
         <li><a href="/#about">&Uuml;ber uns</a></li>
+        <li class="divider-vertical"></li>
         <li><a href="#contact">Kontakt</a></li>
+        <li class="divider-vertical"></li>
+        <li><a href="http://wiki.chaospott.de">Wiki</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <script>
           $.getJSON("http://status.chaospott.de/status.json").done(function(data) {
             if(data.state.open) {
-              document.getElementById('status_open').style.display='block';
-              document.getElementById('status_bar').style.borderColor='#00ff00';
+              $( "#status_open" ).css( "display", "block" );
+              $( "#status_bar" ).css( "borderColor", "#00ff00" );
             } else {
-              document.getElementById('status_closed').style.display='block';
-              document.getElementById('status_bar').style.borderColor='#ff0000';
+              $( "#status_closed" ).css( "display", "block" );
+              $( "#status_bar" ).css( "borderColor", "#ff0000" );
 	          }
           });
         </script>
-        <li id="status_open" style="display:none; border-right:0;">
+        <li id="status_open">
           <a href="#" style="color:#00ff00 !important;">
-            Raum: offen
+            Raum offen
           </a>
         </li>
-        <li id="status_closed" style="display:none;">
-          <a href="#" style="color:#ff0000;">
-            Raum: geschlossen
+        <li id="status_closed">
+          <a href="#">
+            Raum geschlossen
           </a>
         </li>
       </ul>
