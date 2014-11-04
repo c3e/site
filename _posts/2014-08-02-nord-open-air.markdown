@@ -2,6 +2,7 @@
 layout: post
 title: "Freifunk versorgt Nord Open Air mit Internet"
 date:   2014-08-02 16:31:19
+author: Julian
 categories: Freifunk
 ---
 Alles begann mit einer Anfrage des Nord Open Air Veranstalters: 
