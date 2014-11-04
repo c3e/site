@@ -9,7 +9,7 @@ jekyll + bootstrap
 
 ### Blogeinträge
 
-### Bilder
+### Media
 Bilder für Blogeinträge werden unterhalb von Media in einem eigenen Verzeichnis (Jahr-MM-TT) abgelegt. 
 
 * exiftool --all= $Bild
