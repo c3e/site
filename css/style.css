@@ -116,8 +116,8 @@ ul.nav>li>a {
 .navbar .divider-vertical {
 height: 20px;
 margin: 14px 9px;
-border-right: 1px solid #ff0000;
-border-left: 1px solid #ff0000;
+border-right: 1px solid #800032;
+border-left: 1px solid #800032;
 }
 
 .navbar-inverse .divider-vertical {
