@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cryptoparty"
-date: 2014-07-04 12:29:37
+title: "Cryptoparty 8. Nov."
+date: 2014-11-05 23:42:00
 categories: Cryptoparty
 ---
 ![CryptoParty]({{ site.url }}/media/2014-07-04/web_800px.png)
