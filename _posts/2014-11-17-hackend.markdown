@@ -18,7 +18,3 @@ Top Hacker, gerne wieder!
 ![Quelle: Chaospott]({{ site.url }}/media/2014-11-17/hackend-03.JPG)
 
 ![Quelle: Chaospott]({{ site.url }}/media/2014-11-17/hackend-04.JPG)
-
-![Quelle: Chaospott]({{ site.url }}/media/2014-11-17/hackend-05.JPG)
-
-![Quelle: Chaospott]({{ site.url }}/media/2014-11-17/hackend-06.JPG)
