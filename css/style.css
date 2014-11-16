@@ -27,17 +27,17 @@ border:none;
 }
 
 ul.navbar-nav li a {
-  color:red !important;
+  color:#800032 !important;
 }
 
 .btn-default {
   border:0;
   background-color:transparent;
-  color:red;
+  color:#800032;
 }
 
 a {
-  color:red;
+  color:#800032;
 }
 
 a:visited {
@@ -79,7 +79,7 @@ a:visited {
 }
 
 ul.nav>li>a {
-  color:red;
+  color:#800032;
 }
 
 .jumbotron>hr {
@@ -116,8 +116,8 @@ ul.nav>li>a {
 .navbar .divider-vertical {
 height: 20px;
 margin: 14px 9px;
-border-right: 1px solid #ff0000;
-border-left: 1px solid #ff0000;
+border-right: 1px solid #800032;
+border-left: 1px solid #800032;
 }
 
 .navbar-inverse .divider-vertical {

@@ -26,7 +26,7 @@
           $.getJSON("http://status.chaospott.de/status.json").done(function(data) {
             if(data.state.open) {
               $( "#status_open" ).css( "display", "block" );
-              $( "#status_bar" ).css( "borderColor", "#00ff00" );
+              $( "#status_bar" ).css( "borderColor", "#32AB3C" );
             } else {
               $( "#status_closed" ).css( "display", "block" );
               $( "#status_bar" ).css( "borderColor", "#ff0000" );
@@ -34,7 +34,7 @@
           });
         </script>
         <li id="status_open">
-          <a href="#" style="color:#00ff00 !important;">
+          <a href="#" style="color:#32AB3C !important;">
             Raum offen
           </a>
         </li>
