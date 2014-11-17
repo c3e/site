@@ -8,7 +8,7 @@ Um den [Chaospott 2.0](https://www.chaospott.de/2014/10/17/club-v2/) auszubauen 
 
 ![Quelle: Chaospott]({{ site.url }}/media/2014-11-17/hackend-01.JPG)
 
-Unsere Netzwerkhardware (Router und AP) wohnt jetzt zusammen mit Emil in einem Schrank mit 24 Höheneinheiten. Alle Zuleitungen verlaufen nun unter der abgehängten Decke oder in Kabelkanälen. Die Löcher der alten Kabelführung sind  verspachtelt und weil sich die Gelegenheit bot, hat das Elektroniklabor einen neuen Anstrich bekommen. Danach wurde begonnen, im Nebenraum das [Fablab](http://wiki.chaospott.de/index.php?title=Fablab) einzurichten. Dazu wurden Brüstungskanäle an die Wand montiert und eine große Areitsfläche eingerichtet, auf der unser [3D-Drucker](http://wiki.chaospott.de/index.php?title=3D-Drucker) fleißig seinem Job nachgeht. Regale zum Lagern von Filament und anderen Verbrauchsmaterialen werden in den nächsten Tagen montiert.
+Unsere Netzwerkhardware (Router und AP) wohnt jetzt zusammen mit Emil in einem Schrank mit 24 Höheneinheiten. Alle Zuleitungen verlaufen nun unter der abgehängten Decke oder in Kabelkanälen. Die Löcher der alten Kabelführung sind  verspachtelt und weil sich die Gelegenheit bot, hat das Elektroniklabor einen neuen Anstrich bekommen. Danach wurde begonnen, im Nebenraum das [Fablab](http://wiki.chaospott.de/index.php?title=Fablab) einzurichten. Dazu wurden Brüstungskanäle an die Wand befestigt und eine große Areitsfläche eingerichtet, auf der unser [3D-Drucker](http://wiki.chaospott.de/index.php?title=3D-Drucker) fleißig seinem Job nachgeht. Regale zum Lagern von Filament und anderen Verbrauchsmaterialen werden in den nächsten Tagen montiert.
 
 Top Hacker, gerne wieder!
 
