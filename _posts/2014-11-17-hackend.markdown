@@ -4,7 +4,7 @@ title: "Hackend"
 date: 2014-11-17 13:37:00
 categories: Hackend
 ---
-Um den [Chaospott 2.0]({{ site.url }}/2014/10/17/club-v2/) auszubauen wurde das letzte Wochenende zum Werken genutzt. Die meiste Energie wurde zur Reduzierung der Entropie in den Kellerräumen aufgewändet.
+Um den [Chaospott 2.0]({{ site.url }}/2014/10/17/club-v2/) auszubauen wurde das letzte Wochenende zum Werken genutzt. Die meiste Energie wurde zur Reduzierung der Entropie in den Kellerräumen aufgewendet.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2014-11-17/hackend-01.JPG)
 
