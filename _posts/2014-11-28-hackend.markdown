@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Bastelwochenende"
+date: 2014-11-28 22:45:00
+categories: Hackend
+---
+Gäste aus Berlin und Aachen schlugen im Chaospott auf, um bei uns ein bisschen zu Basteln.  Unser Ultimaker 2 lief im Dauerbetrieb und wurde zur Realisierung mehrerer Geheimprojekte verwendet.
+
+![Quelle: Chaospott]({{ site.url }}/media/2014-11-28/ultimaker_ll8.jpg)
+
+... wird fortgesetzt ...
