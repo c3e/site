@@ -5,7 +5,7 @@ date: 2009-10-21 23:42:00
 ---
 Am Dienstag, den 03.11., findet statt im Zuge des Chaostreffs im UpH das erste Koordinierungstreffen zur geplanten Hackerspacegründung statt. Los geht es um 20 Uhr.
 
-Wer noch nicht weiß, was ein Hackerspace ist und wo man welche findet, kann sich auf [hackerspaces.org](https://hackerspaces.org/)(in Englisch) informieren.
+Wer noch nicht weiß, was ein Hackerspace ist und wo man welche findet, kann sich auf [hackerspaces.org](https://hackerspaces.org/) (in Englisch) informieren.
 
 Die bisher an dem Projekt interessierten Lebensformen stammen keineswegs nur aus dem Chaostreff, sondern aus mehreren technisch interessierten Gruppen. Es soll dazu dienen, sich kennenzulernen und die nächsten Schritte zu besprechen.
 
