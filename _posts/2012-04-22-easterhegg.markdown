@@ -6,7 +6,7 @@ categories: Essen auf Rädern
 ---
 ![Easterhegg12]({{ site.url }}/media/2012-04-22/flagge.jpg)
 
-Vom 6. bis 9. April fand das diesjährige Easterhegg in Basel statt. Nach einer mehrstündigen Autofahrt war das Congresscenter in Basel schnell gefunden. Als Unterkunft diente uns der [Bunker](http://www.rettung.bs.ch/vermietungen-dienstleistungen/vermietungen-anlagenvermietung.htm) in der Riehenstrasse 59, welcher sich direkt unter dem Congress Center befindet und ausreichend Platz bietet. Um in die Zivilschutzanlage zu gelangen, mussten wir eine Treppe und zwei lange Rampen hinabwandern, ehe uns ein großes Schild in der Anlage Willkommen hieß. 
+Vom 6. bis 9. April fand das diesjährige Easterhegg in Basel statt. Nach einer mehrstündigen Autofahrt war das Congresscenter in Basel schnell gefunden. Als Unterkunft diente uns der [Bunker](https://easterhegg.ch/accommodation) in der Riehenstrasse 59, welcher sich direkt unter dem Congress Center befindet und ausreichend Platz bietet. Um in die Zivilschutzanlage zu gelangen, mussten wir eine Treppe und zwei lange Rampen hinabwandern, ehe uns ein großes Schild in der Anlage Willkommen hieß.
 
 ![Easterhegg12]({{ site.url }}/media/2012-04-22/zivil-schutz-bunker.jpg)
 
@@ -18,7 +18,7 @@ Auf dem [CMS](https://ccc.de/schule)-Vortrag wurde der Stand des Projektes in di
 
 Im Kontext des [ChaosVPN](http://wiki.hamburg.ccc.de/ChaosVPN)-Vortrags kam auch ins Gespräch, dass die foobar im ChaosVPN erreichbar sein sollte. Daran wird nach der Heimkehr (aktiv und ernsthaft) gearbeitet.
 
-Die [Schräge Runde](http://schraegerunde.blogspot.de/) hat einen [Circit Bending](https://de.wikipedia.org/wiki/Circuit_bending)-Vortrag und -Workshop (fast durchgehend) veranstaltet, wo Musikinstrumente durch das kreative Verändern diverser Elektronik gebaut wurden. Mit Hilfe derartiger Musikinstrumente und eines modifizierten Videosynthesizer fand am vorletzten Abend eine Liveperformance statt.
+Die [Schräge Runde](http://schraegerunde.blogspot.de/) hat einen [Circuit Bending](https://de.wikipedia.org/wiki/Circuit_bending)-Vortrag und -Workshop (fast durchgehend) veranstaltet, wo Musikinstrumente durch das kreative Verändern diverser Elektronik gebaut wurden. Mit Hilfe derartiger Musikinstrumente und eines modifizierten Videosynthesizer fand am vorletzten Abend eine Liveperformance statt.
 
 Außerdem konnten wir mit der Buttonpresse der Schrägen Runde (Danke!) reichlich Chaospott-Buttons pressen.
 
