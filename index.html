@@ -6,7 +6,7 @@ layout: default
   Alle Interessierten sind herzlich zu unserem Treff, Mittwochs ab 19 Uhr, eingeladen.
 </p>
 <ul>
-{% for post in site.posts %}
+{% for post in site.posts limit:4 %}
   <li>
     <b>{{ post.title }}</b>
      {{ post.content }}
