@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
-
-{% for post in site.posts %}
-  <h2>{{ post.title }}</h2>
-  <p>
-   {{ post.content }}
-  </p>
-{% endfor %}
-<hr>
 <p>
   Wir sind der örtliche Erfa-Kreis des Chaos Computer Clubs in Essen. Unsere Gesprächsthemen und Projekte reichen von Soft- und Hardware zu Datenschutz und Netzpolitik. <br><br>
   Alle Interessierten sind herzlich zu unserem Treff, <a href="https://wiki.die-foobar.de/wiki/Termine/2012">Mittwochs ab 19 Uhr</a>, eingeladen.
 </p>
+<ul>
+{% for post in site.posts %}
+  <li>
+    <b>{{ post.title }}</b>
+     {{ post.content }}
+  </li>
+{% endfor %}
+</ul>
+<hr>
