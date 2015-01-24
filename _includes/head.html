@@ -4,14 +4,5 @@
     {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
   </title>
   <meta name="description" content="{{ site.description }}">
-  <meta name="viewport" content="width=device-width initial-scale=1" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <script src="{{ "/bootstrap/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-  <script src="{{ "/bootstrap/js/bootstrap.js" | prepend: site.baseurl }}" type="text/javascript"></script>
-  <link rel="stylesheet" type="text/css" href="{{ "/bootstrap/css/bootstrap.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" type="text/css" href="{{ "/css/style.css" | prepend: site.baseurl }}">
-  <link href="{{ "/css/font-awesome.min.css" | prepend: site.baseurl }}" rel="stylesheet">
-  <link rel="alternate" type="application/rss+xml" href="feed.xml">
 </head>

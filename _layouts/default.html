@@ -3,21 +3,7 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    <div class="jumbotron">
-      <div class="container-fluid large-header" id="large-header">
-        <canvas id="demo-canvas" style="position:absolute;width:100%;"></canvas>
-	<div class="row row-centered">
-	  <div class="col-centered">
-	    <img src="{{ "/images/logo.svg" | prepend: site.baseurl }}" alt="Chaospott Logo" style="width:300px;" />
-	  </div>
-	</div>
-      </div>
-      {{ content }}
-      {% include footer.html %}
-    </div>
-    <script src="{{ "/js/TweenLite.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/EasePack.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/rAF.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/eyecandy.js" | prepend: site.baseurl }}"></script>
+    {{ content }}
+    {% include footer.html %}
   </body>
 </html>
