@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Bastelwochenende"
+date: 2014-11-28 22:45:00
+categories: Hackend
+---
+Gäste aus Berlin und Aachen schlugen im Chaospott auf, um bei uns ein bisschen zu Basteln. Unser Ultimaker 2 lief im Dauerbetrieb und wurde zur Realisierung mehrerer Geheimprojekte verwendet.
+
+![Quelle: Chaospott]({{ site.url }}/media/2014-11-28/bastelwochenende01.jpg)
+
+Während der Drucker seiner Arbeit nachging, wurde die Zeit genutzt um den Blog mit weiteren Einträgen zu versorgen. Unter dem Motto „Besser spät als nie“ oder „Gut Ding will Weile haben“ wurden die Ereignisse unseres sommerlichen Ausfluges zur [ICMP7]({{ site.url }}/2014/11/20/icmp7/) zusammengefasst. Wer wissen möchte, was unser Hauptstadtkorrespondent in der [Chaosradio Folge 207]({{ site.url }}/2014/11/27/chaosradio/) zum Thema „Chaos macht Schule & Jugend hackt“ beigetragen hat, kann sich den Podcast anhören.
+
+![Quelle: Chaospott]({{ site.url }}/media/2014-11-28/bastelwochenende02.jpg)
+
+Sonntag verlegte Bastelwochenende seinen Standort zum CCCAC, um dort ausgedruckte Plätzenformen zu testen. Aus Butter, Eiern und Mehl wurden formschöne Tuxplätzchen gezaubert.

@@ -8,7 +8,7 @@ Im Rahmen des [Chaos macht Schule](https://ccc.de/schule/) Projektes waren wir a
 
 ![CMS]({{ site.url }}/media/2013-01-18/kickoff.jpg)
 
-Dort hielten wir vor den ca. 180 Schülern der 7. Jahrgangsstufe Vorträge zu den Themen [„Soziale Netzwerke - Spuren im Netz“](http://www.afg-vie.de/index.php?option=com_content&view=article&id=285:chaos-macht-schule&catid=43:projekte&Itemid=72)" und „Wie funktioniert das Internet“. Dabei erarbeiteten wir gemeinsam mit den Jugendlichen, wie die Geschäftsmodelle sozialer Netzwerke funktionieren und wie diese das Recht auf informationelle Selbstbestimmung gefährden können. Als Beispiel diente uns hier, wie so oft, der Platzhirsch der Branche - Facebook.
+Dort hielten wir vor den ca. 180 Schülern der 7. Jahrgangsstufe Vorträge zu den Themen [„Soziale Netzwerke - Spuren im Netz“](http://www.afg-vie.de/index.php?option=com_content&view=article&id=285:chaos-macht-schule&catid=43:projekte&Itemid=72) und „Wie funktioniert das Internet“. Dabei erarbeiteten wir gemeinsam mit den Jugendlichen, wie die Geschäftsmodelle sozialer Netzwerke funktionieren und wie diese das Recht auf informationelle Selbstbestimmung gefährden können. Als Beispiel diente uns hier, wie so oft, der Platzhirsch der Branche - Facebook.
 
 Besonders erfreulich war, dass die meisten Jugendlichen gar nicht so sorglos mit Facebook und anderen Portalen umgingen, wie wir im Vorfeld der Veranstaltung vermutet hatten. Viele waren sich letztendlich bewusst, dass die Nutzung sozialer Netzwerke sehr wohl etwas kostet, auch wenn deren Betreiber selten Geld dafür verlangen.
 
