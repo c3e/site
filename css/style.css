@@ -130,3 +130,8 @@ border-left-color: #111111;
     display: none;
   }
 }
+
+rect.bordered {
+  stroke: #D2D4BC;
+  stroke-width:1px;   
+}
