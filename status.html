@@ -2,3 +2,226 @@
 layout: default
 ---
 
+<script>
+    var timeFormat = '%Y-%m-%d %H:%M:%S';
+    function toHHMMSS (sec_num) {
+        var hours   = Math.floor(sec_num / 3600);
+        var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+        var seconds = sec_num - (hours * 3600) - (minutes * 60);
+
+        if (hours   < 10) {hours   = "0"+hours;}
+        if (minutes < 10) {minutes = "0"+minutes;}
+        if (seconds < 10) {seconds = "0"+seconds;}
+        var time    = hours+':'+minutes+':'+seconds;
+        return time;
+    }
+    
+    function sortArrayTimeNumber(a,b) {
+      return a[0] - b[0];
+    }
+    
+    $.getJSON("http://status.chaospott.de/history.json").done(function(dataContainer) {
+      var overallTrue = 0, overallFalse = 0, lastTrue = 0, lastFalse = 0;
+      var openTimeArray = [];
+      var closedTimeArray = [];
+      var data = dataContainer.rows;
+      
+      for(i=0;i < data.length; i++) {
+        if(data[i].value.open == true) {
+          lastTrue = data[i].value.lastchange;
+          
+          if(lastFalse != 0) {
+            closedTimeArray[closedTimeArray.length] = [lastTrue - lastFalse, lastFalse, lastTrue];
+            overallFalse += lastTrue - lastFalse;
+          }
+          
+        } else {
+          lastFalse = data[i].value.lastchange;
+          
+          if(lastTrue != 0) {
+            openTimeArray[openTimeArray.length] = [lastFalse - lastTrue, lastTrue, lastFalse];               
+            overallTrue += lastFalse - lastTrue;
+          }
+        }
+      }
+      
+      var timeComplete = Math.floor(Date.now() / 1000) - data[0].value.lastchange;
+      
+      percentOpen = Math.round((overallTrue * 100) / timeComplete);
+      percentClosed = Math.round((overallFalse * 100) / timeComplete);
+      
+      openTimeArray.sort(sortArrayTimeNumber);
+      closedTimeArray.sort(sortArrayTimeNumber);
+      
+      $( "#space_open_percent" ).html(percentOpen + '% open');
+      $( "#space_open_percent" ).width(percentOpen + '%');
+      $( "#space_closed_percent" ).html(percentClosed + '% closed');
+      $( "#space_closed_percent" ).width(percentClosed + '%');
+      
+      if(openTimeArray.length > 0) {
+        longestTimeOpenStart = new Date(openTimeArray[Math.floor(openTimeArray.length - 1)][1] * 1000);
+        longestTimeOpenEnd = new Date(openTimeArray[Math.floor(openTimeArray.length - 1)][2] * 1000); 
+        $( "#longest_time_open td:last" ).html(toHHMMSS(openTimeArray[openTimeArray.length - 1][0]) + "h (" + longestTimeOpenStart.toLocaleFormat(timeFormat) + " - " + longestTimeOpenEnd.toLocaleFormat(timeFormat) + ")");
+        
+        if(openTimeArray.length % 2 !== 0)
+          $( "#median_time_open td:last" ).html(toHHMMSS(openTimeArray[Math.floor(openTimeArray.length / 2)][0]) + "h");
+        else
+          $( "#median_time_open td:last" ).html(toHHMMSS((openTimeArray[(openTimeArray.length / 2) - 1][0] + openTimeArray[(openTimeArray.length / 2) + 1][0]) / 2) + "h");
+      }
+      
+      if(closedTimeArray.length > 0) {
+        longestTimeClosedStart = new Date(closedTimeArray[Math.floor(closedTimeArray.length - 1)][1] * 1000);
+        longestTimeClosedEnd = new Date(closedTimeArray[Math.floor(closedTimeArray.length - 1)][2] * 1000); 
+        $( "#longest_time_closed td:last" ).html(toHHMMSS(closedTimeArray[closedTimeArray.length - 1][0]) + "h (" + longestTimeClosedStart.toLocaleFormat(timeFormat) + " - " + longestTimeClosedEnd.toLocaleFormat(timeFormat) + ")");
+        
+        if(closedTimeArray.length % 2 !== 0)
+          $( "#median_time_closed td:last" ).html(toHHMMSS(closedTimeArray[Math.floor(closedTimeArray.length / 2)][0]) + "h");
+        else
+          $( "#median_time_closed td:last" ).html(toHHMMSS((closedTimeArray[(closedTimeArray.length / 2) - 1][0] + closedTimeArray[(closedTimeArray.length / 2) + 1][0]) / 2) + "h");
+      }
+    });
+</script>
+<script>
+  $.getJSON("http://status.chaospott.de/status.json").done(function(data) {
+    
+    var d = new Date(data.state.lastchange * 1000);
+    
+    var currentStreak = Math.floor(Date.now() / 1000) - data.state.lastchange;
+    
+    if(data.state.open) {
+      $( "#status td:last" ).html("open");
+      $( "#status" ).addClass( 'success' );
+    } else {
+      $( "#status td:last" ).html("closed");
+      $( "#status" ).addClass('danger');
+    }
+    
+    $( "#current_status_since td:last" ).html(d.toLocaleFormat(timeFormat));
+    $( "#current_status_time td:last" ).html(toHHMMSS(currentStreak) + 'h');
+    
+    var doorArray = data.sensors.door_locked;
+    for(i = 0; i < doorArray.length; i++) {
+      if(doorArray[i].value) {
+        $('#door_' + doorArray[i].location).addClass( 'danger' );
+        $('#door_' + doorArray[i].location + " td:last" ).html('locked');
+      } else{
+        $('#door_' + doorArray[i].location).addClass( 'success' );
+        $('#door_' + doorArray[i].location + " td:last" ).html('unlocked');
+      } 
+    }
+    
+  });
+</script>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <table class="table table-condensed table-hover">
+        <tr id="status">
+          <td class="col-md-4 col-xs-4">
+            space status
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr id="door_aerie">
+          <td>
+            aerie door
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr id="door_cellar">
+          <td>
+            cellar door
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+      </table>
+      <table class="table table-condensed table-hover">
+        <tr id="current_status_since">
+          <td class="col-md-4 col-xs-4">
+            current status since
+          </td>
+          <td>
+            unknown  
+          </td>
+        </tr>
+        <tr id="current_status_time">
+          <td>
+            current status time
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+      </table>
+      <table class="table table-condensed table-hover">
+        <tr id="longest_time_open">
+          <td class="col-md-4 col-xs-4">
+            longest time open
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr id="median_time_open">
+          <td>
+            median time open
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr id="longest_time_closed">
+          <td>
+            longest time closed
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr id="median_time_closed">
+          <td>
+            median time closed
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr>
+          <td>
+            consecutive days open
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr>
+          <td>
+            consecutive days open (highest streak)
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr>
+          <td>
+            open / closed ratio
+          </td>
+          <td>
+            <div class="progress">
+              <div id="space_open_percent" class="progress-bar progress-bar-success">    
+              </div>
+              <div id="space_closed_percent" class="progress-bar progress-bar-danger">          
+              </div>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
