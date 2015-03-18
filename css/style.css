@@ -100,11 +100,11 @@ ul.nav>li>a {
 }
 
 #status_open a {
-  color:#00ff00 !important;
+  color:#5CB85C !important;
 }
 
 #status_closed a {
-  color:#ff0000 !important;
+  color:#D9534F !important;
 }
 
 #status_bar {
