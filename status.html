@@ -211,7 +211,12 @@ layout: default
     }
     
     $( "#current_status_since td:last" ).html(d.toLocaleFormat(timeFormat));
-    $( "#current_status_time td:last" ).html(toHHMMSS(currentStreak) + 'h');
+    
+    setInterval(function(){ 
+      currentStreak = Math.floor(Date.now() / 1000) - data.state.lastchange;
+      if(currentStreak >= 0)
+        $( "#current_status_time td:last" ).html(toHHMMSS(currentStreak) + 'h'); 
+    }, 1000);
     
     var doorArray = data.sensors.door_locked;
     for(i = 0; i < doorArray.length; i++) {
