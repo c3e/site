@@ -54,14 +54,14 @@ layout: default
       var hourArray = [];
       while(hourStart < moment()) {
 
-        if(hourArray[hourStart.weekday()] === undefined)
-            hourArray[hourStart.weekday()] = [];
+        if(hourArray[hourStart.isoWeekday()] === undefined)
+            hourArray[hourStart.isoWeekday()] = [];
 
-        if(hourArray[hourStart.weekday()][hourStart.hour()] === undefined)
-          hourArray[hourStart.weekday()][hourStart.hour()] = 0;
+        if(hourArray[hourStart.isoWeekday()][hourStart.hour()] === undefined)
+          hourArray[hourStart.isoWeekday()][hourStart.hour()] = 0;
 
         if(moment.unix(openTimeArray[openTimeArrayIndex][1]) < hourStart && moment.unix(openTimeArray[openTimeArrayIndex][2]) > hourStart) {    
-          hourArray[hourStart.weekday()][hourStart.hour()]++;
+          hourArray[hourStart.isoWeekday()][hourStart.hour()]++;
         }
 
         if(moment.unix(openTimeArray[openTimeArrayIndex][2]) < hourStart && openTimeArray.length > openTimeArrayIndex + 1)
@@ -71,9 +71,9 @@ layout: default
       }
 
       hourObjectArray = [];
-      for(i=0;i<hourArray.length;i++) {
+      for(i=1;i<hourArray.length;i++) {
           for(j=0;j<hourArray[i].length;j++) {
-            hourObjectArray[hourObjectArray.length] = {day:i,hour:j,value:hourArray[i][j]};
+            hourObjectArray[hourObjectArray.length] = {day:i-1,hour:j,value:hourArray[i][j]};
           }
       }
       //end DA FOO!!
