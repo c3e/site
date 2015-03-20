@@ -4,6 +4,7 @@ layout: default
 <script src="js/moment.js"></script>
 <script src="js/d3.min.js"></script>
 <script>
+    var timeFormat = '%Y-%m-%d %H:%M:%S';
     function toHHMMSS (sec_num) {
         var hours   = Math.floor(sec_num / 3600);
         var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
@@ -91,9 +92,9 @@ layout: default
       $( "#space_closed_percent" ).width(percentClosed + '%');
       
       if(openTimeArray.length > 0) {
-        longestTimeOpenStart = new Date(openTimeArray[Math.floor(openTimeArray.length - 1)][1] * 1000);
-        longestTimeOpenEnd = new Date(openTimeArray[Math.floor(openTimeArray.length - 1)][2] * 1000); 
-        $( "#longest_time_open td:last" ).html(toHHMMSS(openTimeArray[openTimeArray.length - 1][0]) + "h (" + longestTimeOpenStart.toLocaleFormat('%Y-%m-%d %H:%M:%S') + " - " + longestTimeOpenEnd.toLocaleFormat('%Y-%m-%d %H:%M:%S') + ")");
+        longestTimeOpenStart = moment.unix(openTimeArray[Math.floor(openTimeArray.length - 1)][1]);
+        longestTimeOpenEnd = moment.unix(openTimeArray[Math.floor(openTimeArray.length - 1)][2]); 
+        $( "#longest_time_open td:last" ).html(toHHMMSS(openTimeArray[openTimeArray.length - 1][0]) + "h (" + longestTimeOpenStart.format(timeFormat) + " - " + longestTimeOpenEnd.format(timeFormat) + ")");
         
         if(openTimeArray.length % 2 !== 0)
           $( "#median_time_open td:last" ).html(toHHMMSS(openTimeArray[Math.floor(openTimeArray.length / 2)][0]) + "h");
@@ -102,9 +103,9 @@ layout: default
       }
       
       if(closedTimeArray.length > 0) {
-        longestTimeClosedStart = new Date(closedTimeArray[Math.floor(closedTimeArray.length - 1)][1] * 1000);
-        longestTimeClosedEnd = new Date(closedTimeArray[Math.floor(closedTimeArray.length - 1)][2] * 1000); 
-        $( "#longest_time_closed td:last" ).html(toHHMMSS(closedTimeArray[closedTimeArray.length - 1][0]) + "h (" + longestTimeClosedStart.toLocaleFormat('%Y-%m-%d %H:%M:%S') + " - " + longestTimeClosedEnd.toLocaleFormat('%Y-%m-%d %H:%M:%S') + ")");
+        longestTimeClosedStart = moment.unix(closedTimeArray[Math.floor(closedTimeArray.length - 1)][1]);
+        longestTimeClosedEnd = moment.unix(closedTimeArray[Math.floor(closedTimeArray.length - 1)][2]); 
+        $( "#longest_time_closed td:last" ).html(toHHMMSS(closedTimeArray[closedTimeArray.length - 1][0]) + "h (" + longestTimeClosedStart.format(timeFormat) + " - " + longestTimeClosedEnd.format(timeFormat) + ")");
         
         if(closedTimeArray.length % 2 !== 0)
           $( "#median_time_closed td:last" ).html(toHHMMSS(closedTimeArray[Math.floor(closedTimeArray.length / 2)][0]) + "h");
@@ -197,7 +198,7 @@ layout: default
 <script>
   $.getJSON("http://status.chaospott.de/status.json").done(function(data) {
     
-    var d = new Date(data.state.lastchange * 1000);
+    var d = moment.unix(data.state.lastchange);
     
     var currentStreak = Math.floor(Date.now() / 1000) - data.state.lastchange;
     
@@ -209,7 +210,7 @@ layout: default
       $( "#status" ).addClass('danger');
     }
     
-    $( "#current_status_since td:last" ).html(d.toLocaleFormat('%Y-%m-%d %H:%M:%S'));
+    $( "#current_status_since td:last" ).html(d.format(timeFormat));
     
     setInterval(function(){ 
       currentStreak = Math.floor(Date.now() / 1000) - data.state.lastchange;
