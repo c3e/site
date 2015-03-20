@@ -4,7 +4,6 @@ layout: default
 <script src="js/moment.js"></script>
 <script src="js/d3.min.js"></script>
 <script>
-    var timeFormat = '%Y-%m-%d %H:%M:%S';
     function toHHMMSS (sec_num) {
         var hours   = Math.floor(sec_num / 3600);
         var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
@@ -94,7 +93,7 @@ layout: default
       if(openTimeArray.length > 0) {
         longestTimeOpenStart = new Date(openTimeArray[Math.floor(openTimeArray.length - 1)][1] * 1000);
         longestTimeOpenEnd = new Date(openTimeArray[Math.floor(openTimeArray.length - 1)][2] * 1000); 
-        $( "#longest_time_open td:last" ).html(toHHMMSS(openTimeArray[openTimeArray.length - 1][0]) + "h (" + longestTimeOpenStart.toLocaleFormat(timeFormat) + " - " + longestTimeOpenEnd.toLocaleFormat(timeFormat) + ")");
+        $( "#longest_time_open td:last" ).html(toHHMMSS(openTimeArray[openTimeArray.length - 1][0]) + "h (" + longestTimeOpenStart.toLocaleFormat('%Y-%m-%d %H:%M:%S') + " - " + longestTimeOpenEnd.toLocaleFormat('%Y-%m-%d %H:%M:%S') + ")");
         
         if(openTimeArray.length % 2 !== 0)
           $( "#median_time_open td:last" ).html(toHHMMSS(openTimeArray[Math.floor(openTimeArray.length / 2)][0]) + "h");
@@ -105,7 +104,7 @@ layout: default
       if(closedTimeArray.length > 0) {
         longestTimeClosedStart = new Date(closedTimeArray[Math.floor(closedTimeArray.length - 1)][1] * 1000);
         longestTimeClosedEnd = new Date(closedTimeArray[Math.floor(closedTimeArray.length - 1)][2] * 1000); 
-        $( "#longest_time_closed td:last" ).html(toHHMMSS(closedTimeArray[closedTimeArray.length - 1][0]) + "h (" + longestTimeClosedStart.toLocaleFormat(timeFormat) + " - " + longestTimeClosedEnd.toLocaleFormat(timeFormat) + ")");
+        $( "#longest_time_closed td:last" ).html(toHHMMSS(closedTimeArray[closedTimeArray.length - 1][0]) + "h (" + longestTimeClosedStart.toLocaleFormat('%Y-%m-%d %H:%M:%S') + " - " + longestTimeClosedEnd.toLocaleFormat('%Y-%m-%d %H:%M:%S') + ")");
         
         if(closedTimeArray.length % 2 !== 0)
           $( "#median_time_closed td:last" ).html(toHHMMSS(closedTimeArray[Math.floor(closedTimeArray.length / 2)][0]) + "h");
@@ -210,7 +209,7 @@ layout: default
       $( "#status" ).addClass('danger');
     }
     
-    $( "#current_status_since td:last" ).html(d.toLocaleFormat(timeFormat));
+    $( "#current_status_since td:last" ).html(d.toLocaleFormat('%Y-%m-%d %H:%M:%S'));
     
     setInterval(function(){ 
       currentStreak = Math.floor(Date.now() / 1000) - data.state.lastchange;
