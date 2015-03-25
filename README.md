@@ -35,3 +35,8 @@ Ggf. muss das Bild gedreht werden, wenn es ohne die Metatags auf dem Kopf steht 
 Der letzte Schritt setzt die Bilder auf eine einheitliche Breite.
 <pre><code>mogrify -resize "1140>" $Bild
 </code></pre>
+
+Wenn das Bild in der korrekten Größe und Ausrichtung vorliegt, kann es wie Folgt eingebunden werden.
+<pre><code>
+![Quelle: Chaospott]({{ site.url }}/media/Jahr-MM-TT/$Bild.jpg)
+</code></pre>
