@@ -45,7 +45,7 @@ a:visited {
 }
 
 .row {
-  padding:50px 0px;
+  padding:50px 0;
 }
 
 .jumbotron {
@@ -83,7 +83,7 @@ ul.nav>li>a {
 }
 
 .jumbotron>hr {
-  background-color:black;
+  background-color:#333;
   height:1px;
   border: 3px #333 solid;
   width:300px;
@@ -109,7 +109,7 @@ ul.nav>li>a {
 
 #status_bar {
   margin:0; 
-  border-width:2px 0px;
+  border-width:2px 0;
   border-color:transparent;
 }
 
@@ -134,4 +134,10 @@ border-left-color: #111111;
 rect.bordered {
   stroke: #D2D4BC;
   stroke-width:1px;   
+}
+
+#posts div div p img {
+    max-width: 123px;
+    float:left;
+    margin-right: 5px;
 }
