@@ -5,7 +5,9 @@ layout: default
 <script src="js/d3.min.js"></script>
 <script>
     var timeFormat = 'YYYY-MM-DD HH:mm:ss';
+    var dateFormat = 'YYYY-MM-DD';
     function toHHMMSS (sec_num) {
+        sec_num = parseInt(sec_num);
         var hours   = Math.floor(sec_num / 3600);
         var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
         var seconds = sec_num - (hours * 3600) - (minutes * 60);
@@ -52,7 +54,35 @@ layout: default
       var hourStart = moment.unix(data[0].value.lastchange)
       var openTimeArrayIndex = 0;
       var hourArray = [];
+      var dayCountHigh = 0;
+      var dayCountHighStart = dayStart.clone();
+      var dayCountHighEnd = dayStart.clone();
+      var dayCountCurrent = 0;
+      var dayCountCurrentStart = dayStart.clone();
+      var dayCountCurrentEnd = dayStart.clone();
+      var wasOpen = null;
       while(hourStart < moment()) {
+
+        if(hourStart.date() != dayStart.date()) {
+          dayStart.add(1, 'day');
+          dayCountCurrentEnd = dayStart.clone();
+
+          if(wasOpen == true) {
+            dayCountCurrent++;
+
+            if(dayCountCurrent > dayCountHigh) {
+              dayCountHigh = dayCountCurrent;
+              dayCountHighStart = dayCountCurrentStart.clone();
+              dayCountHighEnd = dayCountCurrentEnd.clone();
+            }
+
+          } else {
+            dayCountCurrent = 0;
+            dayCountCurrentStart = dayStart.clone();
+          }
+
+          wasOpen = false;
+        }
 
         if(hourArray[hourStart.isoWeekday()] === undefined)
             hourArray[hourStart.isoWeekday()] = [];
@@ -62,6 +92,7 @@ layout: default
 
         if(moment.unix(openTimeArray[openTimeArrayIndex][1]) < hourStart && moment.unix(openTimeArray[openTimeArrayIndex][2]) > hourStart) {    
           hourArray[hourStart.isoWeekday()][hourStart.hour()]++;
+          wasOpen = true;
         }
 
         if(moment.unix(openTimeArray[openTimeArrayIndex][2]) < hourStart && openTimeArray.length > openTimeArrayIndex + 1)
@@ -85,6 +116,25 @@ layout: default
       
       openTimeArray.sort(sortArrayTimeNumber);
       closedTimeArray.sort(sortArrayTimeNumber);
+
+      var dayCountCurrentText = "";
+      var dayCountHighText = "";
+
+      if(dayCountCurrent > 1)
+        dayCountCurrentText = dayCountCurrent + " days (" + dayCountCurrentStart.format(dateFormat) + " - " + dayCountCurrentEnd.format(dateFormat) + ")";
+      else
+        dayCountCurrentText = dayCountCurrent + " day (" + dayCountCurrentStart.format(dateFormat) + ")";
+
+      if(dayCountHigh > 1)
+        dayCountHighText = dayCountHigh + " days (" + dayCountHighStart.format(dateFormat) + " - " + dayCountHighEnd.format(dateFormat) + ")";
+      else
+        dayCountHighText = dayCountHigh + " day (" + dayCountHighStart.format(dateFormat) + ")";
+
+
+      var dayCountHighText = dayCountHigh + ' days (' + dayCountHighStart.format(dateFormat) + " - " + dayCountHighEnd.format(dateFormat) + ")";
+
+      $( "#days_open_current td:last" ).html(dayCountCurrentText);
+      $( "#days_open_high td:last" ).html(dayCountHighText);
       
       $( "#space_open_percent" ).html(percentOpen + '% open');
       $( "#space_open_percent" ).width(percentOpen + '%');
@@ -311,7 +361,7 @@ layout: default
             unknown
           </td>
         </tr>
-        <tr>
+        <tr id="days_open_current">
           <td>
             consecutive days open
           </td>
@@ -319,7 +369,7 @@ layout: default
             unknown
           </td>
         </tr>
-        <tr>
+        <tr id="days_open_high">
           <td>
             consecutive days open (highest streak)
           </td>
