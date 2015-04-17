@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Easterhegg 15"
+date: 2015-04-08 17:00:23
+categories: Essen auf Rädern
+---
+In diesem Jahr fand die Osterveranstaltung des CCC in Braunschweig statt. Vom 3. bis zum 6. April veranstalteten die Hackerspaces [Stratum0](https://www.stratum0.org) und [Netz39](http://www.netz39.de/) die Easterhegg 2015 im Kinder- und Jugendzentrum Mühle. Das Motto der Veranstaltung lautete „We don't kEHr!“. Neben der alten Mühle wurden auch die Räumlichkeiten des angrenzenden CVJM-Hotels genutzt. Der große Saal des Gebäudes wurde für die Vorträge genutzt, welche durch das VOC aufgezeichnet wurden. Wer es nicht zur Easterhegg geschafft hat, kann sich die Vorträge im [C3TV](https://media.ccc.de/browse/conferences/eh2015/) anschauen.
+
+Der Vorhof wurde zum Bau einer geodätischen Kuppel genutzt, der nach zwei Tagen abgeschlossen war und zu dem es auch einen [Vortrag](http://media.ccc.de/browse/conferences/eh2015/eh15_-_29_-_de_-_saal_-_201504051200_-_geodatische_kuppeln_-_andrelf.html) gibt, der die technischen Details erläutert. Insgesamt besteht der Dome aus 555 Balken, die mit Hilfe von 196 Verbindern eine Kuppel bilden, welche ca. 1000 kg auf die Waage bringt. Besonders bei Nacht war die beleuchtete Kuppel ein beliebtes Fotomotiv. Weitere [Bilder](https://twitter.com/thewoodendome) und Infos sind über das Datentransfernetz erreichbar. Die kleine Brücke des Mühlenbaches verband beide Gebäude und verkürzte den Weg um ein paar Meter.
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-04-08/eh-15-001.jpg)
+
+In der alten Mühle gab es Frühstück und in der oberen Etage befand sich das Heggcenter, welches über die Veranstaltung hinweg gut gefüllt war. Nicht zu groß und nicht zu klein, um ca. 400 Hacker und ihren Bastelfoo unterzubringen. Auch dieses Jahr beschäftigten sich viele Leute mit der Pixelflut und zauberten bunte Bilder in das Heggcenter. Über ein IP-Pakete ließen sich die Pixel über ein X-Y-Koordinatenpaar setzen und abfragen. Aus dem letzten Jahr gibt es ein [Screencast](https://vimeo.com/92827556) und auch dieses Jahr wurde das Treiben auf der Pixelflut [dokumentiert](https://media.ccc.de/browse/conferences/eh2015/pixelflut-eh15.html). Neben einigen 3D-Druckern und einer Popcornmaschine wurde auch ein alter Amiga 600 gesichtet, der mit einer mordernen SSD ausgestattet war und alte Demos abspielte. Leider waren spontan keine Lautsprecher aufzutreiben, um dem alten 8-Bit Sound zu hören. Wer selber nichts zum Basteln mitgebracht hatte, konnte sich insgesamt 24 Vorträge anhören oder an einem der 13 Workshops teilnehmen. Für die Entitäten, die im weltweiten Datentransfernetz unterwegs waren, standen 700 Mbits Bandbreite zur Verfügung. Nach 4 Tagen wurde über die Richtfunkanbindung 1,24 TB gesendet und 4,06 TB empfangen. Das Engelsystem zählte ca. 100 kEHrtaker, welche die Orga an der Bar, am Einlass oder in der Küche unterstüzten. Der Chaospott hat zusammen 35 Stunden geengelt und war unter anderem am Einlass, in der Küche und im VOC tätig.
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-04-08/eh-15-002.jpg)
+
+Am dritten Tag haben einige Mitglieder das Angebot einer Führung zum Stratum0 angenommen, den örtlichen Hackerspace besichtigt und den nächsten Stempel im Hackerpass gesammelt. Nach 4 Tagen mit viel Spaß und wenig Schlaf ging die Eeasterhegg mit der Abschlussveranstaltung zu Ende. Wir bedanken uns an dieser Stelle bei den Organisatoren und freuen uns auf die nächste Veranstaltung in Salzburg.
