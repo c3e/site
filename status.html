@@ -51,7 +51,8 @@ layout: default
       //DA FOO!!
       //needs to be refactored! soon!
       //smells like the shit this one guy took that forced british airways to fly back home.
-      var hourStart = moment.unix(data[0].value.lastchange)
+      var hourStart = moment.unix(data[0].value.lastchange);
+      var dayStart = moment.unix(data[0].value.lastchange);
       var openTimeArrayIndex = 0;
       var hourArray = [];
       var dayCountHigh = 0;
@@ -101,7 +102,7 @@ layout: default
         hourStart.add(1, 'hour');
       }
 
-      hourObjectArray = [];
+      var hourObjectArray = [];
       for(i=1;i<hourArray.length;i++) {
           for(j=0;j<hourArray[i].length;j++) {
             hourObjectArray[hourObjectArray.length] = {day:i-1,hour:j,value:hourArray[i][j]};
@@ -111,8 +112,8 @@ layout: default
       
       var timeComplete = Math.floor(Date.now() / 1000) - data[0].value.lastchange;
       
-      percentOpen = Math.round((overallTrue * 100) / timeComplete);
-      percentClosed = Math.round((overallFalse * 100) / timeComplete);
+      var percentOpen = Math.round((overallTrue * 100) / timeComplete);
+      var percentClosed = Math.round((overallFalse * 100) / timeComplete);
       
       openTimeArray.sort(sortArrayTimeNumber);
       closedTimeArray.sort(sortArrayTimeNumber);
@@ -139,8 +140,8 @@ layout: default
       $( "#space_closed_percent" ).width(percentClosed + '%');
       
       if(openTimeArray.length > 0) {
-        longestTimeOpenStart = moment.unix(openTimeArray[Math.floor(openTimeArray.length - 1)][1]);
-        longestTimeOpenEnd = moment.unix(openTimeArray[Math.floor(openTimeArray.length - 1)][2]); 
+        var longestTimeOpenStart = moment.unix(openTimeArray[Math.floor(openTimeArray.length - 1)][1]);
+        var longestTimeOpenEnd = moment.unix(openTimeArray[Math.floor(openTimeArray.length - 1)][2]);
         $( "#longest_time_open td:last" ).html(toHHMMSS(openTimeArray[openTimeArray.length - 1][0]) + "h (" + longestTimeOpenStart.format(timeFormat) + " - " + longestTimeOpenEnd.format(timeFormat) + ")");
         
         if(openTimeArray.length % 2 !== 0)
@@ -150,8 +151,8 @@ layout: default
       }
       
       if(closedTimeArray.length > 0) {
-        longestTimeClosedStart = moment.unix(closedTimeArray[Math.floor(closedTimeArray.length - 1)][1]);
-        longestTimeClosedEnd = moment.unix(closedTimeArray[Math.floor(closedTimeArray.length - 1)][2]); 
+        var longestTimeClosedStart = moment.unix(closedTimeArray[Math.floor(closedTimeArray.length - 1)][1]);
+        var longestTimeClosedEnd = moment.unix(closedTimeArray[Math.floor(closedTimeArray.length - 1)][2]);
         $( "#longest_time_closed td:last" ).html(toHHMMSS(closedTimeArray[closedTimeArray.length - 1][0]) + "h (" + longestTimeClosedStart.format(timeFormat) + " - " + longestTimeClosedEnd.format(timeFormat) + ")");
         
         if(closedTimeArray.length % 2 !== 0)
