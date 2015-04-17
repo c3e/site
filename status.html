@@ -51,6 +51,7 @@ layout: default
       //DA FOO!!
       //needs to be refactored! soon!
       //smells like the shit this one guy took that forced british airways to fly back home.
+      var statisticSince = moment.unix(data[0].value.lastchange);
       var hourStart = moment.unix(data[0].value.lastchange);
       var dayStart = moment.unix(data[0].value.lastchange);
       var openTimeArrayIndex = 0;
@@ -61,6 +62,7 @@ layout: default
       var dayCountCurrent = 0;
       var dayCountCurrentStart = dayStart.clone();
       var dayCountCurrentEnd = dayStart.clone();
+      var dayCountClosed = 0;
       var wasOpen = null;
       while(hourStart < moment()) {
 
@@ -80,6 +82,7 @@ layout: default
           } else {
             dayCountCurrent = 0;
             dayCountCurrentStart = dayStart.clone();
+            dayCountClosed++;
           }
 
           wasOpen = false;
@@ -133,6 +136,7 @@ layout: default
 
       $( "#days_open_current td:last" ).html(dayCountCurrentText);
       $( "#days_open_high td:last" ).html(dayCountHighText);
+      $( "#days_closed td:last" ).html(dayCountClosed + " since " + statisticSince.format(dateFormat));
       
       $( "#space_open_percent" ).html(percentOpen + '% open');
       $( "#space_open_percent" ).width(percentOpen + '%');
@@ -370,6 +374,14 @@ layout: default
         <tr id="days_open_high">
           <td>
             consecutive days open (highest streak)
+          </td>
+          <td>
+            unknown
+          </td>
+        </tr>
+        <tr id="days_closed">
+          <td>
+            days closed
           </td>
           <td>
             unknown
