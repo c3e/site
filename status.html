@@ -130,9 +130,6 @@ layout: default
       else
         dayCountHighText = dayCountHigh + " day (" + dayCountHighStart.format(dateFormat) + ")";
 
-
-      var dayCountHighText = dayCountHigh + ' days (' + dayCountHighStart.format(dateFormat) + " - " + dayCountHighEnd.format(dateFormat) + ")";
-
       $( "#days_open_current td:last" ).html(dayCountCurrentText);
       $( "#days_open_high td:last" ).html(dayCountHighText);
       
