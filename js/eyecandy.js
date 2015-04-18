@@ -100,6 +100,8 @@
         var element = document.getElementById('demo-canvas');
         if(element.style.display != 'none') {
             animateHeader = false;
+        } else {
+            animateHeader = true;
         }
 
         width = window.innerWidth;
