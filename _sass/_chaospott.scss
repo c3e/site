@@ -132,6 +132,14 @@ ul.nav>li>a {
     display: none;
   }
 
+  .navbar-header {
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+  }
+
+  #posts {
+    margin-top:50px;
+  }
+
   .navbar-collapse .nav > .divider-vertical {
     display: none;
   }

@@ -2,17 +2,10 @@
 
     var width, height, largeHeader, canvas, ctx, points, target, animateHeader = true;
 
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-      var element = document.getElementById('demo-canvas');
-      element.style.backgroundImage="url('images/gekruessel.png')";
-      element.style.backgroundPosition="center center";
-      element.style.height="300px";
-    } else { 
-      // Main
-      initHeader();
-      initAnimation();
-      addListeners();
-    }
+    // Main
+    initHeader();
+    initAnimation();
+    addListeners();
     
     function initHeader() {
         width = window.innerWidth;
@@ -104,6 +97,11 @@
     }
 
     function resize() {
+        var element = document.getElementById('demo-canvas');
+        if(element.style.display != 'none') {
+            animateHeader = false;
+        }
+
         width = window.innerWidth;
         height = 300;
         largeHeader.style.height = height+'px';
