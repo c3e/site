@@ -74,6 +74,7 @@ a {
 
 #large-header {
   background-color:#222;
+  background-image:('/images/logowall.svg');
   height:300px;
   margin:0;
   padding:0;
@@ -160,8 +161,12 @@ rect.bordered {
   stroke-width:1px;
 }
 
-#posts div div p img {
-  max-width: 123px;
-  float:left;
-  margin-right: 5px;
+
+#posts {
+  margin-top:70px;
+  div div p img {
+    max-width: 123px;
+    float:left;
+    margin-right: 5px;
+  }
 }
