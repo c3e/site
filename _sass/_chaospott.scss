@@ -1,0 +1,149 @@
+@font-face {
+  font-family: 'Share Tech';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Share Tech'), local('ShareTech-Regular'), url(/fonts/ShareTech-Regular.ttf);
+}
+
+* {
+  background-color:transparent;
+  font-family: $base-font-family;
+}
+
+body, .jumbotron {
+  background-color:$background-color;
+}
+
+.jumbotron {
+  margin:0;
+  padding:0;
+
+  h1 {
+    font-size:26px;
+    font-weight:bold;
+    margin-top:50px;
+  }
+
+  &>hr {
+    background-color:#333;
+    height:1px;
+    border: 3px #333 solid;
+    width:300px;
+  }
+}
+
+.navbar {
+  background-color:$background-color;
+  border:none;
+
+  .divider-vertical {
+    height: 20px;
+    margin: 14px 9px;
+    border-right: 1px solid $nav-link-color;
+    border-left: 1px solid $nav-link-color;
+  }
+}
+
+ul.navbar-nav li a {
+  color:$nav-link-color !important;
+}
+
+.btn-default {
+  border:0;
+  background-color:transparent;
+  color: $nav-link-color;
+}
+
+a {
+  color:$nav-link-color;
+
+  &:visited {
+    color:$nav-link-color;
+  }
+}
+
+
+.row {
+  padding:50px 0;
+
+  &-centered {
+    text-align: center;
+    margin: 0;
+  }
+}
+
+#large-header {
+  background-color:#222;
+  height:300px;
+  margin:0;
+  padding:0;
+  margin-bottom:30px;
+
+  img {
+    position:relative;
+    top:30px;
+    width: 300px;
+  }
+}
+
+.col-centered {
+  display:inline-block;
+  float:none;
+  text-align:left;
+  margin-right:-4px;
+}
+
+ul.nav>li>a {
+  color:$nav-link-color;
+}
+
+.post-content img {
+  display: block;
+  margin:auto;
+}
+
+#status_open, #status_closed {
+  display:none;
+  border:0;
+}
+
+#status_open a {
+  color:#5CB85C !important;
+}
+
+#status_closed a {
+  color:#D9534F !important;
+}
+
+#status_bar {
+  margin:0;
+  border-width:2px 0;
+  border-color:transparent;
+}
+
+
+.navbar-inverse .divider-vertical {
+  border-right-color: #222222;
+  border-left-color: #111111;
+}
+
+@media (max-width: 767px) {
+  #large-header {
+    display: none;
+  }
+
+  .navbar-collapse .nav > .divider-vertical {
+    display: none;
+  }
+}
+
+rect.bordered {
+  stroke: $background-color;
+  stroke-width:1px;
+}
+
+#posts div div p img {
+  max-width: 123px;
+  float:left;
+  margin-right: 5px;
+}
