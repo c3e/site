@@ -140,7 +140,17 @@ ul.nav>li>a {
     margin-top:50px;
   }
 
+  .navbar-brand {
+    display: block;
+  }
+
   .navbar-collapse .nav > .divider-vertical {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-brand {
     display: none;
   }
 }
