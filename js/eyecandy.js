@@ -98,7 +98,7 @@
 
     function resize() {
         var element = document.getElementById('demo-canvas');
-        if(element.style.display != 'none') {
+        if(element.style.display == 'none') {
             animateHeader = false;
         } else {
             animateHeader = true;
