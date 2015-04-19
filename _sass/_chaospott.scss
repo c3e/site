@@ -77,14 +77,10 @@ a {
 }
 
 #large-header {
-  background-color:#222;
-  background-image:url('/images/logowall.svg');
-  //background-size: 200px;
-  background-position: center top;
+  background-color:#222 url('/images/logowall.svg') center top;
   height:300px;
-  margin:0;
+  margin:0 0 100px 0;
   padding:0;
-  margin-bottom:30px;
 
   img {
     position:relative;
@@ -165,7 +161,6 @@ rect.bordered {
 
 
 #posts {
-  margin-top:70px;
   div div p img {
     max-width: 123px;
     float:left;
