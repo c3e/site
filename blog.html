@@ -28,16 +28,15 @@ layout: default
 </div>
 <div id="elevator-button{{ forloop.index0 }}" class="elevator-button"><i class="fa fa-arrow-up"></i></div>
 
-//unfortunatly elevator dosnt support a list of elements yet, hotfix for now, should be removed asap
+
 <script>
-window.onload = function() {
+//unfortunatly elevator dosnt support a list of elements yet, hotfix for now, should be removed asap
 // Elevator script: https://github.com/tholman/elevator.js
-  var elevator = new Elevator({
+  var elevator{{ forloop.index0 }} = new Elevator({
     element: document.querySelector('#elevator-button{{ forloop.index0 }}'),
     mainAudio: '/media/elevator-music.mp3', // Music from http://www.bensound.com/
     endAudio: '/media/ding.mp3' // Music from http://www.bensound.com/
   });
-}
 </script>
 {% endfor %}
 
