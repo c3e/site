@@ -35,7 +35,8 @@ layout: default
   var elevator{{ forloop.index0 }} = new Elevator({
     element: document.querySelector('#elevator-button{{ forloop.index0 }}'),
     mainAudio: '/media/elevator-music.mp3', // Music from http://www.bensound.com/
-    endAudio: '/media/ding.mp3' // Music from http://www.bensound.com/
+    endAudio: '/media/ding.mp3', // Music from http://www.bensound.com/
+    duration: {{ forloop.index * 1000 }}
   });
 </script>
 {% endfor %}
