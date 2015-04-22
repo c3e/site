@@ -2,14 +2,6 @@
 layout: default
 ---
 <script src="js/elevator.js"></script>
-<script>
-// Elevator script: https://github.com/tholman/elevator.js
-  var elevator = new Elevator({
-    mainAudio: '/media/elevator-music.mp3', // Music from http://www.bensound.com/
-    endAudio: '/media/ding.mp3', // Music from http://www.bensound.com/
-    duration: 20000 // milliseconds
-  });
-</script>
 {% for post in site.posts %}
 {% if forloop.first == false %}
 <hr>
@@ -34,5 +26,20 @@ layout: default
     </div>
   </div>
 </div>
-<div class="elevator-button" onclick="elevator.elevate();"><i class="fa fa-arrow-up"></i></div>
+<div id="elevator-button{{ forloop.index0 }}" class="elevator-button"><i class="fa fa-arrow-up"></i></div>
+
+//unfortunatly elevator dosnt support a list of elements yet, hotfix for now, should be removed asap
+<script>
+window.onload = function() {
+// Elevator script: https://github.com/tholman/elevator.js
+  var elevator = new Elevator({
+    element: document.querySelector('#elevator-button{{ forloop.index0 }}'),
+    mainAudio: '/media/elevator-music.mp3', // Music from http://www.bensound.com/
+    endAudio: '/media/ding.mp3' // Music from http://www.bensound.com/
+  });
+}
+</script>
 {% endfor %}
+
+
+
