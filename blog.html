@@ -4,13 +4,11 @@ layout: default
 <script src="js/elevator.min.js"></script>
 <script>
 // Elevator script: https://github.com/tholman/elevator.js
-window.onload = function() {
   var elevator = new Elevator({
     mainAudio: '/media/elevator-music.mp3', // Music from http://www.bensound.com/
     endAudio: '/media/ding.mp3', // Music from http://www.bensound.com/
     duration: 20000 // milliseconds
   });
-}
 </script>
 {% for post in site.posts %}
 {% if forloop.first == false %}
