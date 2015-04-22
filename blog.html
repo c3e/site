@@ -36,7 +36,7 @@ layout: default
     element: document.querySelector('#elevator-button{{ forloop.index0 }}'),
     mainAudio: '/media/elevator-music.mp3', // Music from http://www.bensound.com/
     endAudio: '/media/ding.mp3', // Music from http://www.bensound.com/
-    duration: {{ forloop.index * 1000 }}
+    duration: {{ forloop.index | times: 1000 }}
   });
 </script>
 {% endfor %}
