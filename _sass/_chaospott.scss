@@ -167,3 +167,10 @@ rect.bordered {
     margin-right: 5px;
   }
 }
+
+.elevator-button {
+  text-align: center; 
+  margin: auto; 
+  cursor: pointer;
+  color: $nav-link-color;
+}
