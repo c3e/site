@@ -26,7 +26,7 @@ layout: default
     </div>
   </div>
 </div>
-<div class="elevator-button"><i class="fa fa-arrow-up"></i></div>
+<div class="elevator-button" onclick="elevator.elevate();"><i class="fa fa-arrow-up"></i></div>
 {% endfor %}
 
 <script src="js/elevator.min.js"></script>
@@ -34,7 +34,6 @@ layout: default
 // Elevator script: https://github.com/tholman/elevator.js
 window.onload = function() {
   var elevator = new Elevator({
-    element: document.querySelector('.elevator-button'),
     mainAudio: '/media/elevator-music.mp3', // Music from http://www.bensound.com/
     endAudio: '/media/ding.mp3', // Music from http://www.bensound.com/
     duration: 20000 // milliseconds
