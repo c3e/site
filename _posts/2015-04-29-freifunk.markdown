@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Vortrag an der VHS"
+date: 2015-04-29 23:42:23
+---
+Am 6. Mai 2015 ab 19:00 Uhr findet in unseren Clubräumen ein Treffen des [Freifunk Ruhrgebiet](https://freifunk-ruhrgebiet.de/) statt. Dieses wird in Zukunft immer am ersten Mittwoch im Monat stattfinden.
+
+Ziel ist es Freifunk in Essen weiter zu entwickeln und größere Gebäude zu erschließen. Wir stehen schon in Kontakt zu verschiedenen Kirchen.
+
+Wenn ihr Interesse habt an Freifunk mitzuwirken kommt einfach vorbei!
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-04-29/freifunk.png)

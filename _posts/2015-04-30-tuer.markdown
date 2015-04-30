@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Findet uns besser!"
+date: 2015-04-30 17:50:49
+---
+Mit unserem [Schneidplotter](https://wiki.chaospott.de/Schneidplotter) haben wir die Tür so gestaltet, dass Besucher sowohl die neuen Clubräume als auch das jetztige Fablab finden können.
+Wenn ihr vorbei kommt und im ersten Stock geschlossen ist, schaut auch im Keller vorbei.
+
+Ihr könnt uns nun nicht mehr verfehlen!
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-04-30/tuer01.jpg)
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-04-30/tuer02.jpg)
