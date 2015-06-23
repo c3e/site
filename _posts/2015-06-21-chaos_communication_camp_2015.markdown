@@ -7,3 +7,4 @@ Vom 13. bis 17. August sind wir auf dem [Chaos Communication Camp](https://event
 Zusammen mit Chaos-West werden wir ein [grandioses Village](https://events.ccc.de/camp/2015/wiki/Village:Chaos_West) aufbauen. Wenn ihr euch anschließen wollt, kommt einfach mittwochs am [Chaostreff](https://wiki.chaospott.de/Anfahrt) vorbei, um uns kennen zu lernen. Oder guckt einfach auf dem Camp bei uns rein!
 
 ![CC-BY-SA Nicohofmann]({{ site.url }}/media/2015-06-22/camp2011.jpg)
+(CC-BY-SA Nicohofmann)
