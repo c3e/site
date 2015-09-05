@@ -1,0 +1,12 @@
+---
+layout: post
+title: "GPN 15"
+date: 2015-06-14 18:21:23
+categories: Essen auf Rädern
+---
+Hacken, Gulasch, Vorträge, Cloud, Tschunk, Workshops, Lounge, Mate und Spaß am Gerät. Vom 4. - 6. Juni trafen sich Hacker aus Kralsruhe und Umgebung im Zentrum für Kunst und Medientechnologie an der Hochschule für Gestaltung (HfG) Karlsruhe. Da sich die Örtlichkeit über die letzten Jahre bewährt hat, fand auch die [Gulaschprogrammiernacht 15](https://entropia.de/GPN15) in der ehemaligen Munitionsfabrik statt. Wie auch in den letzten Jahren gab es ein gut gefülltes Vortragsprogramm, alte Konsolen und natürlich das traditionelle Gulasch. Wer die Vorträge verpasst hat, findet die Aufzeichnungen wie gewohnt auf [media.ccc.de](http://media.ccc.de/browse/conferences/gpn/gpn15/index.html). Auf Gulasch muss leider noch einige Tage gewartet werden. Die Empfehlungen der Redaktion:
+*  [Demoszene: Nachlese](http://media.ccc.de/browse/conferences/gpn/gpn15/gpn15-6672-demoszene_nachlese.html#video)
+*  [RobustIRC] (http://media.ccc.de/browse/conferences/gpn/gpn15/gpn15-6643-robustirc.html#video)
+*  [ Commit-Makrame: git-Antipatterns](http://media.ccc.de/browse/conferences/gpn/gpn15/gpn15-6916-commit-makrame_git-antipatterns.html#video)
+
+Wir bedanken uns an dieser Stelle recht herzlich bei allen Helfern und der Entropia für die schöne Veranstaltung.
