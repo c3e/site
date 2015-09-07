@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Besuch des GoA"
+date: 2015-06-24 20:51:23
+---
+Wenn sich Nerds an einem versteckten Ort am Rhein in Neuss versammeln, dann ist wieder 'Grillen ohne Anlass'.
+Bei trockenem Wetter und dieses Mal ohne Mückenplage fand am 2. Mai die fünfte Auflage des vom neusser Hackerspaces [fnordeingang](https://wwww.fnordeingang.de) organisierten Events statt.
+
+Über die Jahre hat sich die Veranstaltung vom Zusammensitzen im kleinen Kreis in eine große Party mit Grillen, Lagerfeuer, Strom, Musik und Licht. Durch seine versteckte Location hat das GoA seinen ganz eigenen Charme. Auch Internet ist durch [Freifunk](https://www.freifunk-rheinland.de) verfügbar. Mehr als 60 Leute hatten sich angemeldet, deutlich mehr sind gekommen.
+
+Besonderes Highlight war neben der Grill-Flatrate auch das Tschunk-Slusheis, das mit Trockeneis zubereitet wurde.
+
+Das GoA ist eine gute Gelegenheit Leute aus umliegenden Hackerspaces zu treffen, mittlerweile reisen viele aber auch weiter entfernt an.
+
+Wir freuen uns auf das nächste GoA!
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-06-24/goa1.jpg)
