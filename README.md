@@ -39,3 +39,4 @@ Der letzte Schritt setzt die Bilder auf eine einheitliche Breite.
 Wenn das Bild in der korrekten Größe und Ausrichtung vorliegt, kann es wie Folgt eingebunden werden.
 <pre><code>![Quelle: Chaospott]({{ site.url }}/media/Jahr-MM-TT/$Bild.jpg)
 </code></pre>
+
