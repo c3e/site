@@ -4,7 +4,7 @@ title: "Besuch des GoA"
 date: 2015-06-24 20:51:23
 categories: Essen auf Rädern
 ---
-Wenn sich Nerds an einem versteckten Ort am Rhein in Neuss versammeln, dann ist wieder „Grillen ohne Anlass“. Bei trockenem Wetter und dieses Mal ohne Mückenplage fand am 2. Mai die fünfte Auflage des vom neusser Hackerspace [fnordeingang](https://wwww.fnordeingang.de) organisierten Events statt.
+Wenn sich Nerds an einem versteckten Ort in Neuss am Rhein versammeln, dann ist wieder „Grillen ohne Anlass“. Bei trockenem Wetter und dieses Mal ohne Mückenplage fand am 2. Mai die fünfte Auflage des vom neusser Hackerspace [fnordeingang](https://wwww.fnordeingang.de) organisierten Events statt.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2015-06-24/goa1.jpg)
 
