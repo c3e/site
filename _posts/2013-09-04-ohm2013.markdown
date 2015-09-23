@@ -6,7 +6,7 @@ categories: Essen auf Rädern
 ---
 Vom 29. Juli bis zum 4. August schlugen wir zusammen mit dem [CCCMz](https://www.cccmz.de/) und anderen Entitäten aus Stuttgart und Wuppertal unsere Zelte in Geestmerambacht auf, um gemeinsam mit 3000 Hackern aus der ganzen Welt ein fünftägiges Outdoorfest zu feiern, die OHM.
 
-![OHM]({{ site.url }}/media/2014-10-17/2013-09-04/BILD1.jpg)
+![OHM]({{ site.url }}/media/2013-09-04/BILD1.jpg)
 
 Das Vortragsprogramm bot mit fünf parallel laufenden Vorträgen viele interessante Themen, die sich mit Hard- und Software aber auch mit Themen aus dem Bereich „Staatlicher Überwachung“ beschäftigten. Neben den Vorträgen wurden im Programm auch Workshops gelistet, in denen z.B. erste Schritte beim Schweißen, Löten oder der Programmierung von Mikrocontrollern gemacht werden konnten. Darüber hinaus waren in jedem „Village“ interessante Menschen und Projekte anzutreffen, deren Basteleien teilweise schon von vergangenen Veranstaltungen bekannt waren, bei denen aber die vorgenommenen Weiterentwicklungen genug Gesprächsstoff lieferten. Nachts sorgten viele Lichtbasteleien für eine schöne Atmosphäre. LED-Fackeln säumten auf dem ganzen Gelände die Wegesränder  und eine Laseranlage erzeugte über dem ganzen Camp coole Lichteffekte, von denen einige Hacker immer wieder automagisch angezogen wurden.
 
