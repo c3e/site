@@ -1,0 +1,9 @@
+---
+layout: post
+title: "PB:re:PC"
+date: 2015-10-09 13:00:37
+categories: Essen auf Rädern
+---
+Am 5. September 2015 begab sich eine kleine Gruppe Hacker aus dem Chaospott nach Paderborn, um dort, wie in den vergangenen Jahren, den [MTKJ e.V.](http://mtkj.de/) bei der Durchführung der Hardware-Schulung seines pb.re.pc-Projekts zu unterstützen. Dabei wurden diesmal acht Schülerinnen und Schüler bei ihrem ersten Aufbau eines PCs unterstützt. Der gemeinnützige Verein MTKJ setzt sich für Jugendliche und Kindern ein und möchte den verantwortungsvollen Umgang mit Medien und Technik fördern. Zu diesem Zweck führt der Verein Jugendliche und Kinder an das Thema heran.
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-10-09/mtkj-sep15-00.jpg)
