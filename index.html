@@ -6,13 +6,21 @@ layout: default
   <div class="row">
     {% for post in site.posts limit:4 %}
     <div class="col-md-3">
-      <h2>{{ post.title }}</h2>
+      <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+          </a>
+      </h2>
       <p>
        {{ post.content | truncatewords:20 }}
       </p>
       {% assign wordcount = post.content | number_of_words %}
       {% if wordcount > 20 %}
-        <p><a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" role="button">&gt; Weiterlesen</a></p>
+        <p>
+            <a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}" role="button">
+                &gt; Weiterlesen
+            </a>
+        </p>
       {% endif %}
     </div>
     {% endfor %}
