@@ -3,9 +3,8 @@ layout: post
 title: "ABBUC-Treffen"
 date: 2015-10-26 12:05:54
 ---
-Am 25. Oktober war der Atari Bit Byter User Club zu Gast in unseren Räumlichkeiten. Ab 10 Uhr wurden Neuigkeiten aus der 8bit-Szene ausgetauscht, gebastelt und gefachsimpelt. 
-
-
-Der ABBUC wurde 1985 gegründet und ist weltweit der größte Club für Atari 130 400 600 800 XL XE 8bit Computer.
+Am 25. Oktober war der [Atari Bit Byter User Club](http://www.abbuc.de/) zu Gast in unseren Räumlichkeiten. Ab 10 Uhr wurden bei einer kühlen Mate Neuigkeiten aus der 8bit-Szene ausgetauscht, gebastelt und die Schmuckstücke aus alten Tagen gezeigt.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2015-10-26/abbuc-treffen-okt15-00.jpg)
+
+Der ABBUC wurde 1985 gegründet und ist weltweit der größte Club für Atari 130 400 600 800 XL XE 8bit Computer. Neben den regelmäßig erscheinenden Magazinen, stellt der ABBUC Bau- und Schaltpläne zum Download bereit und kümmert sich um Hardware Neuauflagen und Neuentwicklungen.
