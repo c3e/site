@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CCCamp15"
-date: 2015-10-01 11:23:42
+date: 2015-11-01 11:23:42
 categories: Essen auf Rädern
 ---
 Vom 13. bis zum 17. August fand im Ziegeleipark Mildenberg das Chaos Communication Camp statt. Insgesamt tummelten sich auf dem alten Industrigelände 4500 Hacker aus der ganzen Welt.
