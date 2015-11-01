@@ -1,0 +1,26 @@
+---
+layout: post
+title: "CCCamp15"
+date: 2015-10-01 11:23:42
+categories: Essen auf Rädern
+---
+Vom 13. bis zum 17. August fand im Ziegeleipark Mildenberg das Chaos Communication Camp statt. Insgesamt tummelten sich auf dem alten Industrigelände 4500 Hacker aus der ganzen Welt.
+
+Für einige von uns war es das erste [Chaos Communication Camp](https://events.ccc.de/camp/2015/wiki/Main_Page), für manche gar die erste Veranstaltung des Chaos Computer Club überhaupt. Nun ist das Camp vorbei und die Zeit bis zum nächsten strebt (gefühlt) gegen unendlich. Das ist eine gute Gelegenheit, kurz zurückzublicken. Der Chaospott war in diesem Jahr Teil von [Chaos West](https://chaos-west.de/wiki/). Der Zusammenschluss von zahlreichen Hackerspaces und CCC-Erfas in NRW hat sich seit dem 31C3 hervorragend bewährt und wird sicherlich auch bei kommenden Events fortgeführt. Bei Chaos West waren schätzungsweise 150-200 Personen mit auf dem Camp, von uns alleine waren es ca. 15 Personen.
+
+Die Statistikabteilung hat gezählt und gerechnet:
+* 37 Datenklos
+* 7,2 km Glasfaserkabel
+* 10022 Geräte im WLAN
+* 29240 m Stromkabel
+* 30000 Liter Diesel für Generatoren
+* Downstream: 3,18 Gbit/s max.
+* Upstream: 7,51 Gbit/s max.
+
+Doch genug von all den trockenen Statistiken, hin zu einigen ausgewählten Impressionen:
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-11-01/cccamp15_00.jpg)
+
+![Quelle: Chaospott]({{ site.url }}/media/2015-11-01/cccamp15_01.jpg)
+
+Zum Schluss bleibt nur noch zu sagen: Vielen Dank an die Organisatoren des Camps und des Chaos West Village sowie den unzähligen, fleißigen Helfern! Wir sehen uns auf dem 32C3 oder einem anderen tollen Event, dass noch 2015 stattfinden wird. Nur das Camp, das dauert noch ca. 1460 Tage.
