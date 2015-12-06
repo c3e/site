@@ -23,7 +23,7 @@ layout: default
       return a[0] - b[0];
     }
     
-    $.getJSON("http://status.chaospott.de/history.json").done(function(dataContainer) {
+    $.getJSON("https://status.chaospott.de/history.json").done(function(dataContainer) {
       var overallTrue = 0, overallFalse = 0, lastTrue = 0, lastFalse = 0;
       var openTimeArray = [];
       var closedTimeArray = [];
@@ -248,7 +248,7 @@ layout: default
     });
 </script>
 <script>
-  $.getJSON("http://status.chaospott.de/status.json").done(function(data) {
+  $.getJSON("https://status.chaospott.de/status.json").done(function(data) {
     
     var d = moment.unix(data.state.lastchange);
     
