@@ -26,7 +26,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <script>
-          $.getJSON("http://status.chaospott.de/status.json").done(function(data) {
+          $.getJSON("https://status.chaospott.de/status.json").done(function(data) {
             if(data.state.open) {
               $( "#status_open" ).css( "display", "block" );
               $( "#status_bar" ).css( "borderColor", "#5CB85C" );
