@@ -9,3 +9,4 @@ url: "https://chaospott.de"
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+paginate: 5
