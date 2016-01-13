@@ -51,12 +51,12 @@ layout: default
 {% endfor %}
 
 <div class="page-navigation">
-	{% if previous_page %}
-	<a href="{{ previous_page_path }}">Zur&uuml;ck</a>
+	{% if paginator.previous_page %}
+	<a href="{{ paginator.previous_page_path }}">Zur&uuml;ck</a>
 	{% endif %}
-	 | Seite {{ page }} von {{ total pages }} | 
+	 | Seite {{ paginator.page }} von {{ paginator.total pages }} | 
 	{% if next_page %}
-	<a href="{{ next_page_path }}">Vor</a>
+	<a href="{{ paginator.next_page_path }}">Vor</a>
 	{% endif %}
 </div>
 
