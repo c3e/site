@@ -50,5 +50,5 @@ layout: default
 </script>
 {% endfor %}
 
-
+<div>{% if previous_page %}<a href="{{ previous_page_path }}">Zur&uuml;ck</a>{% endif %} | Seite {{ page }} von {{ total pages }} | {% if next_page %}<a href="{{ next_page_path }}">Vor</a>{% endif %}</div>
 
