@@ -1,0 +1,42 @@
+---
+layout: post
+title: "32C3"
+date: 2016-01-22 20:50:21
+categories: Essen auf Rädern
+---
+
+Der 32C3! Die Fakten sind schnell zusammen getragen. Vier Tage Vortragsprogramm mit insgesamt 12000 Besuchern. Wer sich allerdings vor dem 27. Dezember im Cyberspace umschaute, konnte in unzähligen Blogs und Podcasts den Eindruck gewinnen, dass der Congress mehr als eine viertägige Konferenz ist. Was ist also der Congress? Fangen wir mit dem Namen der Veranstaltung an. Für die Leute, die sich schon länger im Dunstkreis Chaos Computer Club bewegen, ist die Sache klar, wenn von dem Congress die Rede ist. Gemeint ist damit der Chaos Communication Congress, welcher jährlich vom 27. bis zum 30. Dezember in Hamburg stattfindet. Da der Name recht lang ist, hat sich die Kurzform aus Veranstaltungsnummer und C3 eingebürgert. Der Congress fand also zum 32. Mal statt. Der Vollständigkeit halber sei erwähnt, dass der Congress seine Wurzeln in Hamburg hat, wegen akutem Platzmangel nach Berlin zog und dem gleichen Grund wieder nach Hamburg verlegt wurde. Name, Ort und Teilnehmerzahl sind nun besprochen, aber wie sieht es auf dem Congress aus und was machen die ganzen Menschen vier Tage lang in einem Kongressgebäude?
+
+![Quelle: Chaospott](/media/2016-01-22/32c3_00.jpg)
+
+Auf jeder Ebene des Gebäudes tummelten sich Menschen und so weit das Auge reicht, sieht man Technik, Zeug und blinkende Leuchtdioden. Von den Aufzügen bis zur Toilette verwandelt sich das eher triste Gebäude in eine Landschaft aus bunter Farbe, angenehmer Musik und ruhigen Ecken. Bevölkert wird diese Landschaft von Hackern aus der ganzen Welt, die ihr Wissen und Form von Vorträgen, Workshops oder in privat Gesprächen miteinander teilen. Es wird also bei angenehmer Atmosphäre viel gequatscht. Wie kommt die ganze Technik nach Hamburg und wer baut diese auf?
+
+
+Schon lange vor Beginn des Congress sind viele Hacker damit beschäftigt, die Infrastruktur der Veranstaltung und die Assemblies aufzubauen. Ein Assembly ist als ein Ort zu verstehen, an dem Menschen gemeinsam Zeit verbringen, um zu Programmieren oder sich über ihre Ideen austauschen. Neben den Assemblies der CCC Erfas gibt es auch eine große Anzahl an themengebundenen Assemblies, die ihr Projekt vorstellen. Durch die räumliche Nähe einiger Hackerspaces gibt es jedes Jahr auch einige Meta-Assemblies, in der man viele Hacker aus der gleichen Region findet. In Halle 4 befand sich zum zweiten Mal Chaos-West, ein Zusammenschluss von Hackerspaces aus Nordrhein-Westfalen. Wer es gewöhnt ist, dass die Reise von Essen nach Dortmund oder Düsseldorf nicht lange dauert, brauchte auf dem Congress auch nur ein paar Schritte zu dem nächsten Assembly laufen. Auch die Aktivitäten im Umfeld des Chaos-West begannen schon viele Tage vor dem Congress. Audio- und Lichtequipment für eine Lounge mit Sofalandschaft musste zusammengestellt und an verschiedenen Stellen in NRW verladen werden. Dazu wurde ein LKW gemietet, welcher durch die Region fuhr, um das ganze Geraffel einzusammeln. An dieser Stelle geht ein großer DANK <3 an den Fahrer und die Helfer, die beim Ein- und Ausladen angepackt haben. Die Musik der DJs war nicht nur in Halle 4, sondern auch über einen Stream des VOC zu hören. Bei über 70 Hörerinnen könnte das Metaassembly schon fast für relevant gehalten werden. Einem Eintrag in der Wikipedia steht also nicht mehr im Weg. :)
+
+![Quelle: Chaospott](/media/2016-01-22/32c3_01.jpg)
+
+Neben den Scheidplottern, 3D-Druckern und Blinkenlights der Assemblies finden sich auf dem Congress auch noch viele weitere spannende Sachen aus Kunst, Kultur und Technik. In einer der Zwischenetagen war zum Beispiel einen alten Fernschreiber begutachten ausgestellt, der  über das Telefonnetz Kurznachrichten entgegen nahm. Die Geräuschkulisse des noch vollkommen mechanischen Geräts lies einige Besucherinnen in alten Zeiten schwelgen. Der Redaktion wurde berichtet, dass die Datenübertragungsrate ähnlich wie bei einem Weltempfänger bei ca. 50 Baud liegt. 1 Baud entspricht dabei einem Zeichen pro Sekunde. Aus heutiger Sicht nicht wirklich schnell, aber das manuelle Dekodieren der Daten wird dann doch etwas schwierig.
+
+![Quelle: Hong Phuc](/media/2016-01-22/32c3_02.jpg)
+
+An einer anderen Ecke des 32C3 waren die Coffeenerds zu finden, die ca. 20 kg Kaffeebohnen in 16g Portionen mit Hilfe einer Aero-Press in koffeinhaltige Heissgetränke verwandelt haben. Die spendenbasierte Kaffeebar war eine gern genutzte Alternative zum Kaffee des Cateringservice. Neben dem Kaffee wurden auch 44000 Flaschen Mate dazu genutzt, um die Veranstaltung möglichst ausgiebig genießen zu können.
+
+Neben den Vorträgen und dem ganzen anderen coolen Geraffel, gab es auch eine große Fülle an Workshops. Lockpicking, Arduino für Einsteiger oder Strickkurse sind nur einige Beispiele, die zeigen, dass diese Veranstaltung an Kreativität und Vielfalt schwer zu überbieten ist.
+
+Der Congress in Zahlen:
+
+* 140 Gbit/s verfügbare Bandbreite 
+* 21,4 Gbit/s max. ausgehende Datenübertragung 
+* 150 APs
+* 20k Einzelne Geräte
+* 8150 Geräte im Wlan
+* 2-3 Kameras pro Saal
+* Nur HLS- und webM-Streams
+* > 100TB für die Übertragung per Stream
+* 1700 Engel
+* 152 Talks
+* simultane Übersetzung von Vorträgen deutsch/englisch
+* > 100 selbst organisierte Vorträge
+* 12.000 Besucher
+* > 250 Assemblies
