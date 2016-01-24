@@ -1,4 +1,9 @@
-#Please, call me
+---
+layout: post
+title: "Pls call me"
+date: 2015-05-23 13:37:00
+categories: docpatch
+---
 
 Auf dem 32c3 präsentierten die Mitglieder unseres Clubs ihre selbstgebastelten Projekte in der Chaos West Assembly.
 Darunter befand sich dieser kleine Freund:
