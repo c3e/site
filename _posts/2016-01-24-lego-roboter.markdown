@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Pls call me"
-date: 2015-05-23 13:37:00
-categories: docpatch
+date: 2016-01-24 13:37:00
+categories: 32c3
 ---
 
 Auf dem 32c3 präsentierten die Mitglieder unseres Clubs ihre selbstgebastelten Projekte in der Chaos West Assembly.
@@ -23,5 +23,4 @@ So wurde das Steuerungsprogramm um einen HTTP Endpunkt erweitert, der die DTMF I
 
 Mal sehen was in Zukunft noch so aus Lego gebaut wird. 
 
-=/data/websites/pictures.vanfanel.de
 
