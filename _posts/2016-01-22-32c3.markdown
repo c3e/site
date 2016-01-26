@@ -33,10 +33,10 @@ Der Congress in Zahlen:
 * 8150 Geräte im Wlan
 * 2-3 Kameras pro Saal
 * Nur HLS- und webM-Streams
-* > 100TB für die Übertragung per Stream
+* \> 100TB für die Übertragung per Stream
 * 1700 Engel
 * 152 Talks
 * simultane Übersetzung von Vorträgen deutsch/englisch
-* > 100 selbst organisierte Vorträge
+* \> 100 selbst organisierte Vorträge
 * 12.000 Besucher
-* > 250 Assemblies
+* \> 250 Assemblies
