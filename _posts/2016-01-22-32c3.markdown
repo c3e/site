@@ -28,6 +28,7 @@ An einer anderen Ecke des 32C3 waren die Coffeenerds zu finden, die ca. 20 kg Ka
 Was macht der Nachwuchs zwischen den Jahren?
 
 Den Congress besuchen. Für Kinder und Jugendliche gibt auf dem Congress viele Dinge zu entdecken und die meisten Einsteigerworkshops sind auch für jüngere Hacker geeignet. Am zweiten Congresstag findet traditionell der Junghackertag statt, der sich an Kinder und Jugendliche ab 8 Jahren richtet. Das Projekt [„Chaos macht Schule“](https://ccc.de/schule) organisiert für diesen Tag mehrere Bastelprojekte, die mit und ohne Lötkolben zusammengebaut werden können. Dank einer großartigen Organisation konnte der Junghackertag 30 Löt- und Bastelplätze anbieten. Trotzdem war der Andrang so groß, dass einige Nachwuchshacker auf einen freien Platz warten mussten. Die Junghacker hatten die Wahl zwischen zwei Vibraionsrobotern und dem [Drawdio](https://learn.adafruit.com/drawdio). Für den Rappelzappel wird ein Schraubendreher, ein Seitenschneider und etwas Heißkleber benötigt. Die Elektronik wird in einer Lüsterklemme verschraubt und mit den Beinen, Motor und Batteriehalter zu einem Roboter zusammengeklebt. Um den [Pentabug](https://github.com/c3d2/pentabug) aufzubauen, wird ein Lötkolben benötigt. Mit der Bestückungsliste lassen sich die einzelnen Bauteile der Reihe auf der Platine befestigen. Nach einem Funktionstest, werden noch Beine, Augen und andere Verziehrungen aufgeklebt. Nach insgesamt 10 Stunden Bastelspaß konnten ca. 200 Junghacker mit lärmenden Elektronikspielzeug ausgestattet werden.
+
 Neden dem Junghackertag ist der [Kidspace](https://events.ccc.de/congress/2015/wiki/Static:Kidspace) eine weitere Anlaufstelle für Kinder. 
 Neben dem Bällebad und Retrokonsolen gibt es dort auch einige Workshops, in denen Roboter gebaut und eigene T-Shirts bedruckt werden können.
 
@@ -49,6 +50,7 @@ Der Congress in Zahlen?
 * \> 100 selbst organisierte Vorträge
 * 12.000 Besucher
 * \> 250 Assemblies
+* Längste Steckerleisten Daisy Chain: 18 Meter (6 Steckerleisten)
 
 Es folgt eine Auflistung empfehlenswerter Talks, ausdrücklich ohne die üblichen Verdächtigen wie Fnord News Show oder die Security Nightmares, die ebenfalls alle zu empfehlen sind:
 
@@ -57,3 +59,5 @@ Es folgt eine Auflistung empfehlenswerter Talks, ausdrücklich ohne die übliche
 * [Maritime Robotics von lilafisch](https://media.ccc.de/v/32c3-7265-maritime_robotics)
 * [Shopshifting von Karsten Nohl, Fabian Bräunlein und dexter](https://media.ccc.de/v/32c3-7368-shopshifting)
 * [Check your privileges! von Fefe](https://media.ccc.de/v/32c3-7284-check_your_privileges)
+
+Für die offen gebliebenen Fragen wird der Besuch des 33C3 oder einer anderen Veranstaltung des CCC empfohlen.
