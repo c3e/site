@@ -12,3 +12,4 @@ permalink: /:year/:month/:day/:title
 paginate: 5
 gems: [jekyll-paginate]
 paginate_path: "/blog/:num"
+include: ".well-known"
