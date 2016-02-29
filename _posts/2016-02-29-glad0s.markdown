@@ -4,5 +4,6 @@ title: "Glad0s"
 date: 2016-02-29 08:00:37
 categories: Neuigkeiten
 ---
+Wer Portal gespielt hat, wird an diesem Artikel Freude haben. In vielen Stunden wurde mit Hilfe unseres Drucker ein 3D-Modell von Glad0s ausgedruckt und aufwendig mit Elektronik- und Modellbaufertigkeiten zum Leben erweckt.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2016-02-29/glad0s.jpg)
