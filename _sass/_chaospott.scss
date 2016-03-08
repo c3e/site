@@ -2,7 +2,7 @@
   font-family: 'Share Tech';
   font-style: normal;
   font-weight: 400;
-  src: local('Share Tech'), local('ShareTech-Regular'), url(/fonts/ShareTech-Regular.ttf);
+  src: local('Share Tech'), local('ShareTech-Regular'), url(/fonts/ShareTech-Regular.woff2) format('woff2'), url(/fonts/ShareTech-Regular.ttf) format('truetype');
 }
 
 * {
