@@ -4,6 +4,6 @@ title: "GlaD0S"
 date: 2016-02-29 08:00:37
 categories: Neuigkeiten
 ---
-Wer Portal gespielt hat, wird an diesem Artikel Freude haben. In vielen Stunden wurde mit Hilfe unseres Drucker ein 3D-Modell von GlaDOS ausgedruckt und aufwendig mit Elektronik- und Modellbaufertigkeiten zum Leben erweckt. Die verwendeten 3D-Modelle sind in einem [Artikel auf instructables.com](www.instructables.com/id/A-fully-3D-printable-GlaDOS-Robotic-ceiling-arm-la/) verlinkt.
+Wer Portal gespielt hat, wird an diesem Artikel Freude haben. In vielen Stunden wurde mit Hilfe unseres Drucker ein 3D-Modell von GlaDOS ausgedruckt und aufwendig mit Elektronik- und Modellbaufertigkeiten zum Leben erweckt. Die verwendeten 3D-Modelle sind in einem [Artikel auf instructables.com](http://www.instructables.com/id/A-fully-3D-printable-GlaDOS-Robotic-ceiling-arm-la/) verlinkt.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2016-02-29/glad0s.jpg)
