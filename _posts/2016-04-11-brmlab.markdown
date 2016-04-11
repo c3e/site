@@ -4,7 +4,6 @@ title: "Zu Gast im brmlab"
 date: 2016-04-11 18:53:00
 categories: Essen auf Rädern
 ---
-
 Wer sich länger in der tschechischen Hauptstadt aufhält, sollte definitiv den Hackerspace in Prag besuchen. Das [brmlab](https://brmlab.cz/) liegt am Rande der Alstadt direkt an der Moldau. Nach einem kurzen Studium des Lageplans ist der Weg durch das etwas größere Gebäude leicht gefunden. Die Räumlichkeiten des brmlab erstrecken sich über zwei Etagen.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2016-04-11/brmlab0.jpg)
