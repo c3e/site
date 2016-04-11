@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Zu Gast im brmlab"
+date: 2016-04-11 18:53:00
+categories: Essen auf Rädern
+---
+
+Wer sich länger in der tschechischen Hauptstadt aufhält, sollte definitiv den Hackerspace in Prag besuchen. Das [brmlab](https://brmlab.cz/) liegt am Rande der Alstadt direkt an der Moldau. Nach einem kurzen Studium des Lageplans ist der Weg durch das etwas größere Gebäude leicht gefunden. Die Räumlichkeiten des brmlab erstrecken sich über zwei Etagen.
+
+![Quelle: Chaospott]({{ site.url }}/media/2016-04-11/brmlab0.jpg)
+
+![Quelle: Chaospott]({{ site.url }}/media/2016-02-11/brmlab1.jpg)
+
+Wer nach einer Führung fragt, wird mindestens eine Stunde beschäftigt sein, da die Räumlichkeiten bis unter die Decke mit verschiedensten Projekten und Technik vollgestopftsind.  Blitzordnung, Übertragung der NOAA-Wettersateliten und Reverse Engineering von Flashspeicher mit einem Mikroskop (Neophot 32) sind nur einige Bespiele für die große Anzahl an Bastelprojekten. Insgesamt ist der Besuch wirklich empfehlenswert, da neben dem interessanten Tecnikequipment auch die lokale Crew sehr freundlich und kommunikativ ist.
