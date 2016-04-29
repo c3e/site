@@ -25,8 +25,8 @@ gelingt, das komplexe Thema „Big Data“ verständlich herunterzubrechen,
 ohne dass dabei wichtige Aspekte unter den Tisch fallen.
 Wer also wissen möchte was Jaron Lanier in seinen eigenen Kühlschrank
 treibt und wer „Baby Big Data“ heimlich füttert, sollte sich unbedingt
-die vorerst letzte Aufführung am 20.05.2016 um 19:30 Uhr in der Heldenbar anschauen. Tickets
-gibt es [hier](https://theater-essen.eventim-inhouse.de/webshop/webticket/seatmap?tokenName=CSRFTOKEN&languages=de&languages=en&eventId=1194 "Tickets").
+die vorerst letzte Aufführung am 20.05.2016 um 19:30 Uhr in der [Heldenbar](http://www.schauspiel-essen.de/orte/heldenbar.htm) anschauen. Tickets
+gibt es [hier](http://www.schauspiel-essen.de/stuecke/ich-habe-nicht-zu-verbergen-mein-leben-mit-big-data.htm#vorstellungen "Tickets").
 
 Wir danken Carola Hannusch, Hermann Schmidt-Rahmer sowie dem übrigen
 Ensemble an dieser Stelle für die gute Zusammenarbeit und ein
