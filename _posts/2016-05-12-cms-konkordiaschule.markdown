@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Konkordiaschule Ddorf"
-date: 2015-05-12 15:00:00
+date: 2016-05-12 15:00:00
 categorie: CMS
 ---
 Im Rahmen von Chaos macht Schule waren wir am 28. April zu Gast an der [Konkordiaschule](http://konkordiaschule.de/) in Düsseldorf, um zusammen mit den Eltern der Schülerinnen und Schüler über Medienkompetenz zu sprechen. Nach einer kurzen Vorstellung unserer Arbeit im Chaos Computer Club sind wir zum eigentlichen Kernpunkt des Abends übergegangen.
