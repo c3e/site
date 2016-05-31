@@ -19,8 +19,6 @@ Neben den Vorträgen des Fahrplans sorgte ein weiterer Klassiker wieder für vie
 ![Quelle: Chaospott]({{ site.url }}/media/2016-05-31/gpn16-03.jpg)
 *Foto: Chaospott*
 
-Neben den vielen leuchtenden Projekten der Besucher, tauchten Scheinwerfer das Gebäude in buntes Licht, welches vorallem in den Abendstunden für eine großartige Atmosphäre sorgte. Durch den fließenden Übergang von Lounge und Hackcenter wurde die GPN zu einer großen Party, wo jeder, egal ob tanzend oder hackend auf dem Sofa, sein Plätzchen fand. Unser Dank gilt den Organisatoren und allen Trollen, welche die GPN zu einem schönen Ausflug gemacht haben. Make Gulasch great again!
-
 GPN in Zahlen:
 
 * 30 APs
@@ -36,3 +34,5 @@ Vortragsempfehlungen der Redaktion:
 * [Weltraumkommunikation](https://media.ccc.de/v/gpn16-7577-weltraumkommunikation)
 * [Wie baut man eigentlich Raumschiffe](https://media.ccc.de/v/gpn16-7623-wie_baut_man_eigentlich_raumschiffe)
 * [Services absichern](https://media.ccc.de/v/gpn16-7632-services_absichern)
+
+Neben den vielen leuchtenden Projekten der Besucher, tauchten Scheinwerfer das Gebäude in buntes Licht, welches vorallem in den Abendstunden für eine großartige Atmosphäre sorgte. Durch den fließenden Übergang von Lounge und Hackcenter wurde die GPN zu einer großen Party, wo jeder, egal ob tanzend oder hackend auf dem Sofa, sein Plätzchen fand. Unser Dank gilt den Organisatoren und allen Trollen, welche die GPN zu einem schönen Ausflug gemacht haben. Make Gulasch great again!
