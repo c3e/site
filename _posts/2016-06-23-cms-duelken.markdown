@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Konkordiaschule Ddorf"
+title: "CmS am AMG"
 date: 2016-06-23 15:00:00
 categorie: CMS
 ---
