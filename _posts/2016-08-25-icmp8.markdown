@@ -1,0 +1,13 @@
+---
+layout: post
+title: "ICMP 8"
+date: 2016-08-25 14:00:00
+categorie: Essen auf Rädern
+---
+
+Zusammen mit dem Chaos Cyber Club Aachen und Frankfuhrt haben wir uns auf den Weg nach Münchsteinach gemacht, um an der intergalaktischen Club Mate Party teilzunehmen. Die teilnehmenden Entitäten reisten auf ganz unterschiedlichen Wegen an und ließen sich auch nicht durch den Verlust des Kühlwassers an einem Fahrzeug davon abhalten, in den Heimatort der Club-Mate zu pilgern. In gemütlicher Atmosphäre schlugen wir für fünf Tage unsere Zelte an der Neuebersbachstraße auf.
+
+![Chaos macht Schule](/media/2016-08-25/icmp8-01.jpg)
+*Foto: telegnombert*
+
+Damit unser Technikgerümpel auch bei schlechtem Wetter trocken bleibt, haben wir uns ein großes Gemschaftszelt organisiert. In den ersten drei Tagen zeigte sich das Wetter mit purem Sonnenschein von seiner besten Seite, so dass viele Hacker ihre Zeit im Hängemattengarten verbrachten. Der SolarGeneral genoß ebenfalls das sonnige Wetter und markierte mit seiner hochleistungs LED in den Nachtstunden den Eingang des Zeltes. Der vierte Tag war ziemlich verregnet, was aber in anbetracht der regensicheren Forschungsstation kein Problem war. Immerhin konnten mit den Daten einer frisch ausgepackten Wettestation experementiert werden. Temperatur, Luftfeuchtigkeit, Niederschlag und Windgeschwindigkeit wurden per Funk in unser Zelt übertragen und aufgezeichnet. Außerhalb unser Forschungsstation sorgten Karaoke, ein Besuch in der Brauerei von Papa Loscher und das Mainboard-Roulette für einen abwechslungsreichen Urlaub.
