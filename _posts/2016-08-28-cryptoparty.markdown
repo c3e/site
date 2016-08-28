@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Umgang mit Passwörtern"
-date: 2016-08-28 13:00:37
+date: 2016-08-28 10:23:42
 categories: Cryptoparty
 ---
 
