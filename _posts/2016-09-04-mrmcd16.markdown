@@ -6,12 +6,5 @@ categorie: Essen auf Rädern
 ---
 Vom 2. bis zum 4. September fanden in Darmstad die [MetaRheinMainChaosDays](https://mrmcd.net) statt. Obwohl die „Diagnose kritisch“ war, sorgten das perfektes Wetter, das Programm und die Gestaltung des Gebäudes für die besten MRMCDs aller Zeiten. Die Veranstaltung fand wie gewohnt an der h_da statt, so dass sich zum Vorjahr lediglich die Nomenklatur der Vortragsräume geändert hat. Sowohl die Namensgebung der Räumlichkeiten als auch die Dekorierung des Gebäudes passte zum Motto „Diagnose: kritisch“. Wer in den letzten Jahren die vorgestellten Themen auf Veranstaltungen des Chaos Computer Clubs verfolgt hat, stellt fest, dass informationsverarbeitende Systeme mittlerweile auch in teilweise lebenswichtigen Geräten verbaut werden. Welche Sicherheitsvorkehrungen in z.B. einem Herzmonitor getroffen werden und welche Daten bestimmte Waagen an den Hersteller schicken, kann in den Aufzeichnungen auf [media.ccc.de](https://media.ccc.de) nachgeschaut werden. Die Diagnose ist definitiv kritisch.
 
-![Quelle: Chaospott]({{ site.url }}/media/2016-09-04/mrmcd16-01.jpg)
-*Foto: Chaospott*
 
 Das Rahmenprogramm wurde dieses Jahr wieder durch Live-Musik von Stagewar komplettiert. Am zweiten Abend füllten für eine Stunde die Metall-Liebhaber die Lounge und sorgten für gute Laune. Nachdem kleinen Konzert klang der Abend mit elektronischer Musik und kühlen Getränken in gemütlicher Atmosphäre aus. Vorallem die Beleuchtung aber auch der Hängemattengarten des CCCFFM verbreiteten entspannung und gute Laune. Lediglich das traditionelle Gyros vom Grill wurde dieses Jahr vermisst. Trotzdem waren es die besten MRMCDs aller Zeiten, für die wir uns herzlich bedanken.
-
-Vortragsempfehlungen der Redaktion:
-
-* Fooo
-* Baar
