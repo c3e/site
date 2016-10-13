@@ -5,9 +5,10 @@ date: 2016-10-13 11:01:30
 categories: CmS
 ---
 
-Vom 7. bis zum 9. Oktober traf sich das Projekt „Chaos macht Schule“ im Linuxhotel zum jährlichen Bundestreffen. Die dreitägige Veranstaltung wurde zu einem Großteil genutzt, um den Junghackertag auf dem 33. Chaos Communication Congress zu planen. Neben der Organisation von Werkzeug und Material wurden, neue Bastelprojekte für den Junhackertag vorgestellt und ausprobiert. Auf dem Congress werden drei Bastelprojekte angeboten, die mit und ohne Lötkolben aufgebaut werden können. Das erste Projekt ist eine lichtsensitive Alarmanlage, die in einer Lüsterklemme aufgebaut wird und Schränke und Schubladen bewachen kann. Benötigt wird hier nur ein Tropen Heißkleber und ein Phasenprüfer, den sicher jeder in der Brusttasche hat, „falls man mal telefonieren muss“. Das zweite Projekt ist ein bunter LED-Stern, der sich besonsers für Lötanfänger eignet. Das dritte Projekt ist die Blinkenr0cket, die wir für die Fortgeschrittenen Speziallötexperten anbieten, da dort SMD-Bauteile bestückt werden müssen.
+Vom 7. bis zum 9. Oktober traf sich das Projekt „Chaos macht Schule“ im Linuxhotel zum jährlichen Bundestreffen. Die dreitägige Veranstaltung wurde zu einem Großteil genutzt, um den Junghackertag auf dem 33. Chaos Communication Congress zu planen. Neben der Organisation von Werkzeug und Material wurden, neue Bastelprojekte für den Junhackertag vorgestellt und ausprobiert.
 
 ![Quelle: Chaospott](/media/2016-10-13/cms-bundesttreffen-01.jpg)
 *Foto: Chaospott*
 
-Wir bedanken uns für die rege Teilnahme und freuen uns auf den Congress. 
+Auf dem Congress werden drei Bastelprojekte angeboten, die mit und ohne Lötkolben aufgebaut werden können. Das erste Projekt ist eine lichtsensitive Alarmanlage, die in einer Lüsterklemme aufgebaut wird und Schränke und Schubladen bewachen kann. Benötigt wird hier nur ein Tropen Heißkleber und ein Phasenprüfer, den sicher jeder in der Brusttasche hat, „falls man mal telefonieren muss“. Das zweite Projekt ist ein bunter LED-Stern, der sich besonsers für Lötanfänger eignet. Das dritte Projekt ist die Blinkenr0cket, die wir für die Fortgeschrittenen Speziallötexperten anbieten, da dort SMD-Bauteile bestückt werden müssen.
+Wir bedanken uns für die rege Teilnahme und freuen uns auf den Congress.
