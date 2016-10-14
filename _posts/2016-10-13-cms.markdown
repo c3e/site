@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "CmS-Bundesttreffen"
+title: "CmS-Bundestreffen"
 date: 2016-10-13 11:01:30
 categories: CmS
 ---
-
 Vom 7. bis zum 9. Oktober traf sich das Projekt „Chaos macht Schule“ im Linuxhotel zum jährlichen Bundestreffen. Die dreitägige Veranstaltung wurde zu einem Großteil genutzt, um den Junghackertag auf dem 33. Chaos Communication Congress zu planen. Neben der Organisation von Werkzeug und Material wurden neue Bastelprojekte für den Junhackertag vorgestellt und ausprobiert.
 
 ![Quelle: Chaospott](/media/2016-10-13/cms-bundesttreffen-01.jpg)
