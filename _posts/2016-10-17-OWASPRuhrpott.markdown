@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OWASP Stammtisch“ "
+title: "OWASP Stammtisch"
 date: 2016-10-17 14:24:30
 categories: owasp
 ---
