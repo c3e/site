@@ -9,6 +9,6 @@ categories: Code for Ruhr
 
 Am 24. November findet das nächste Treffen vom [OK Lab Ruhrgebiet](http://codefor.de/ruhrgebiet/) statt. Es werden Anwendungen mit offenen Daten gebaut und diskutiert. Los geht es um 19 Uhr in der Sibyllastraße 9, 
 
-Du bist Coder*in, Designer*in, Journalist*in, politisch aktiv oder einfach nur interessiert? Dann komm doch vorbei! Lass uns zusammen den Ruhrpott voranbringen!
+Du bist Coder*in*, Designer*in*, Journalist*in*, politisch aktiv oder einfach nur interessiert? Dann komm doch vorbei! Lass uns zusammen den Ruhrpott voranbringen!
 
 Bring am besten deinen Computer mit.
