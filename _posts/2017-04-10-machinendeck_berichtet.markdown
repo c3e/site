@@ -14,4 +14,4 @@ Die erste Prototyp der neuen Deckenplatten ist fast fertig. Aktuell wird der Hol
 
 Neben der Deckenbeleuchtung wurde ein LED-Display fertiggestellt, das über mehrere MAX7219 getrieben wird. Die Ansteuerung übernimmt ein ESP8266, der z.B. die aktuelle Zeit via NTP  oder Temperaturwerte der Räumlichkeiten über das MQTT-Protokoll abfragt und anzeigt. 
 
-Das Angebot der Datenreisen wurde in den letzten Wochen um ein Dashboard erweitert. Eine Grafana-Instanz zeigt beispielsweise die Statistiken unserer Netzwerkinfrastruktur an.  Weitere Datenquellen werden in nacher Zukunft folgen. Wir wünschen weiterhin viel Spaß beim Basteln und laden alle Interessierten Entitäten ein, uns einmal zu besuchen.
+Das Angebot der Datenreisen wurde in den letzten Wochen um ein Dashboard erweitert. Eine Grafana-Instanz zeigt beispielsweise die Statistiken unserer Netzwerkinfrastruktur an.  Weitere Datenquellen werden in naher Zukunft folgen. Wir wünschen weiterhin viel Spaß beim Basteln und laden alle Interessierten Entitäten ein, uns einmal zu besuchen.
