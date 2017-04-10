@@ -8,7 +8,7 @@ Auf dem Maschinendeck haben sich in den letzten Wochen viele Leute getummelt, di
 
 ![Quelle: Chaospott]({{ site.url }}/media/2017-04-10/maschinendeck_berichtet_00.jpg)
 
-Die erste Prototyp der neuen Deckenplatten ist fast fertig. Aktuell wird der Holzrahmen gefertigt und die LED-Stränge zusammengelötet, um die Platten der abgehangenen Decke gegen ein buntes Pixeldisplay zu tauschen. Füe die einzelnen Pixel werden Leuchtdioden mit  vier Farbkanälen (RGBW) verwendet, die  in einer Matrix von 8x8 LEDs aufgebaut werden. Angesteuert wird das ganze Display über einen Mikrocontroller, der über sein USB-Interface Bilddaten entgegennimmt und daraus die Daten für die angeschlossenen Pixel berechnet. 
+Die erste Prototyp der neuen Deckenplatten ist fast fertig. Aktuell wird der Holzrahmen gefertigt und die LED-Stränge zusammengelötet, um die Platten der abgehangenen Decke gegen ein buntes Pixeldisplay zu tauschen. Für die einzelnen Pixel werden Leuchtdioden mit  vier Farbkanälen (RGBW) verwendet, die  in einer Matrix von 8x8 LEDs aufgebaut werden. Angesteuert wird das ganze Display über einen Mikrocontroller, der über sein USB-Interface Bilddaten entgegennimmt und daraus die Daten für die angeschlossenen Pixel berechnet. 
 
 ![Quelle: Chaospott]({{ site.url }}/media/2017-04-10/maschinendeck_berichtet_01.jpg)
 
