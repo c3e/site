@@ -6,39 +6,38 @@
 }
 
 * {
-  background-color:transparent;
+  background-color: transparent;
   font-family: $base-font-family;
 }
 
-body, .jumbotron {
-  background-color:$background-color;
+body,
+.jumbotron {
+  background-color: $background-color;
 }
 
 body {
-  padding-top:52px;
+  padding-top: 52px;
 }
 
 .jumbotron {
-  margin:0;
-  padding:0;
-
+  margin: 0;
+  padding: 0;
   .post-title {
-    font-size:26px;
-    font-weight:bold;
+    font-size: 26px;
+    font-weight: bold;
   }
-
   &>hr {
-    background-color:#333;
-    height:1px;
+    background-color: #333;
+    height: 1px;
     border: 3px #333 solid;
-    width:300px;
+    width: 300px;
   }
 }
 
 .navbar {
-  background-color:$background-color;
-  border:none;
-
+  background-color: #bdbfa8;
+  border: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   .divider-vertical {
     height: 20px;
     margin: 14px 9px;
@@ -48,27 +47,24 @@ body {
 }
 
 ul.navbar-nav li a {
-  color:$nav-link-color !important;
+  color: $nav-link-color !important;
 }
 
 .btn-default {
-  border:0;
-  background-color:transparent;
+  border: 0;
+  background-color: transparent;
   color: $nav-link-color;
 }
 
 a {
-  color:$nav-link-color;
-
+  color: $nav-link-color;
   &:visited {
-    color:$nav-link-color;
+    color: $nav-link-color;
   }
 }
 
-
 .row {
-  padding:50px 0;
-
+  padding: 50px 0;
   &-centered {
     text-align: center;
     margin: 0;
@@ -76,54 +72,53 @@ a {
 }
 
 #large-header {
-  background:#222 url('/images/logowall.svg') center top;
+  background: #222 url('/images/logowall.svg') center top;
   background-size: 450px;
-  height:300px;
-  margin:0 0 100px 0;
-  padding:0;
-
+  height: 300px;
+  margin: 0 0 100px 0;
+  padding: 0;
   img {
-    position:relative;
-    top:30px;
+    position: relative;
+    top: 30px;
     width: 300px;
   }
 }
 
 .col-centered {
-  display:inline-block;
-  float:none;
-  text-align:left;
-  margin-right:-4px;
+  display: inline-block;
+  float: none;
+  text-align: left;
+  margin-right: -4px;
 }
 
 ul.nav>li>a {
-  color:$nav-link-color;
+  color: $nav-link-color;
 }
 
 .post-content img {
   display: block;
-  margin:auto;
+  margin: auto;
 }
 
-#status_open, #status_closed {
-  display:none;
-  border:0;
+#status_open,
+#status_closed {
+  display: none;
+  border: 0;
 }
 
 #status_open a {
-  color:#5CB85C !important;
+  color: #5CB85C !important;
 }
 
 #status_closed a {
-  color:#D9534F !important;
+  color: #D9534F !important;
 }
 
 #status_bar {
-  margin:0;
-  border-width:2px 0;
-  border-color:transparent;
+  margin: 0;
+  border-width: 2px 0;
+  border-color: transparent;
 }
-
 
 .navbar-inverse .divider-vertical {
   border-right-color: #222222;
@@ -134,16 +129,13 @@ ul.nav>li>a {
   #large-header {
     display: none;
   }
-
   .navbar-header {
-    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
   }
-
   .navbar-brand {
     display: block;
   }
-
-  .navbar-collapse .nav > .divider-vertical {
+  .navbar-collapse .nav>.divider-vertical {
     display: none;
   }
 }
@@ -156,21 +148,20 @@ ul.nav>li>a {
 
 rect.bordered {
   stroke: $background-color;
-  stroke-width:1px;
+  stroke-width: 1px;
 }
-
 
 #posts {
   div div p img {
     max-width: 123px;
-    float:left;
+    float: left;
     margin-right: 5px;
   }
 }
 
 .elevator-button {
-  text-align: center; 
-  margin: auto; 
+  text-align: center;
+  margin: auto;
   cursor: pointer;
   color: $nav-link-color;
 }
