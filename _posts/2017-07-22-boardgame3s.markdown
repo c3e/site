@@ -13,10 +13,10 @@ Datum: **Samstag, 19.8.2017 ab 13 Uhr**
 Ort: Foobar/Chaospott, Höchstparterre (oben)
 
 ### Spiele?
-Bitte tragt hier [1] ein, was ihr mitbringen wollt, oder was ihr euch wünscht, das jemand anders es mitbringt.  
+Bitte tragt [hier](https://pads.chaospott.de/p/boardgamE%C2%B3s-0x2) ein, was ihr mitbringen wollt, oder was ihr euch wünscht, damit jemand anders es mitbringt.  
 Hintergrund: Ich möchte nicht wieder Auer-Kisten voll Spielen mitschleppen  
 
-Ich werf hier nochmal meinen Vorrat an verfügbaren Spielen rein [2][3]
+Ich werf [hier](https://murmel.areafunky.net/seafile/f/d5033b1a7e/?raw=1) und [hier](https://murmel.areafunky.net/seafile/f/77359a7195/?raw=1) nochmal meinen Vorrat an verfügbaren Spielen rein [2][3]
 
 ## Zweite gute Nachricht:
 Wir würden das ganze gern als **regelmäßige Veranstaltung** etablieren, und zwar **am 3. Samstag jedes Monats**.  
@@ -26,7 +26,3 @@ Viele Grüße
 xpac
 
 * Es waren 20+ Kohlenstoffeinheiten über den Tag verteilt da
-
-[1] https://pads.chaospott.de/p/boardgamE%C2%B3s-0x2  
-[2] https://murmel.areafunky.net/seafile/f/d5033b1a7e/?raw=1  
-[3] https://murmel.areafunky.net/seafile/f/77359a7195/?raw=1  
