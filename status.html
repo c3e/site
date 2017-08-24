@@ -81,6 +81,7 @@ layout: default
 
           } else {
             dayCountCurrent = 0;
+            console.log(dayStart.format(timeFormat));
             dayCountCurrentStart = dayStart.clone();
             dayCountClosed++;
           }
@@ -124,7 +125,9 @@ layout: default
       var dayCountCurrentText = "";
       var dayCountHighText = "";
 
-      if(dayCountCurrent > 1)
+      console.log(dayCountCurrent);
+
+      if(dayCountCurrent > 1 || dayCountCurrent == 0)
         dayCountCurrentText = dayCountCurrent + " days (" + dayCountCurrentStart.format(dateFormat) + " - " + dayCountCurrentEnd.format(dateFormat) + ")";
       else
         dayCountCurrentText = dayCountCurrent + " day (" + dayCountCurrentStart.format(dateFormat) + ")";
