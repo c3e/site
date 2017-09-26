@@ -5,7 +5,7 @@ date: 2017-09-26 07:04:00
 categories: Code for Ruhr
 ---
 
-![Code for Ruhr](/media/2016-09-26/code-for-ruhr.png)
+![Code for Ruhr](/media/2017-09-26/code-for-ruhr.png)
 
 Am 26. September findet das nächste Community-Treffen des [Open Knowledge Lab Ruhrgebiet](https://codefor.de/ruhrgebiet/) statt. Das OK Lab Ruhr beschäftigt sich mit der Nutzung und Förderung offener Daten.
 
