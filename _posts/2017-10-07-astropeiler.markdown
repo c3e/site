@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Astropeiler"
+title: "Astrotour"
 date: 2017-10-07 21:58:00
 categorie: Essen auf Rädern
 ---
