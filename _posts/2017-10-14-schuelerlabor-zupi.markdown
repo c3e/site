@@ -19,4 +19,4 @@ Wo?: Chaospott, Sibyllastr. 9 (Hinterhof),
 
 Anmeldung: christian.karl@uni-due.de
 
-Weitere Infos unter: www.zukunftspiloten.vdi.de
+Weitere Infos unter: [zukunftspiloten.vdi.de](https://zukunftspiloten.vdi.de)
