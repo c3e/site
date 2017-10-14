@@ -18,4 +18,5 @@ Wo?: Chaospott, Sibyllastr. 9 (Hinterhof),
 45136 Essen 
 
 Anmeldung: christian.karl@uni-due.de
+
 Weitere Infos unter: www.zukunftspiloten.vdi.de
