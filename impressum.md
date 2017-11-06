@@ -18,9 +18,9 @@ Eingetragen im Vereinsregister des Amtsgericht Essen unter der Nummer VR 5179.
 
 **Vertretungsberechtigte**
 
-- Christian Roschow (Vorsitzender)
-- Oliver Delpy (Stellvetretender Vorsitzender)
-- Matthias Lindhorst (Schatzmeister)
+- Sebastian Surminski (Vorsitzender)
+- Bastian Geißler (Stellvetretender Vorsitzender)
+- Jürgen Stuber (Schatzmeister)
 
 Der Vorstand ist unter der Anschrift des Herausgebers oder via E-Mail an <vorstand@die-foobar.de> erreichbar.
 
