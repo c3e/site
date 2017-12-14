@@ -1,6 +1,8 @@
-FROM jekyll/jekyll
+from jekyll/jekyll as builder
+add . /srv/jekyll
+run mkdir /site
+run whoami
+run jekyll build --source /srv/jekyll --destination /tmp
 
-ADD . /srv/jekyll
-WORKDIR /srv/jekyll
-
-CMD jekyll serve -H 0.0.0.0
+from nginx:alpine
+copy --from=builder /tmp /usr/share/nginx/html
