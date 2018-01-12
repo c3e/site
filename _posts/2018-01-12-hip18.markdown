@@ -6,25 +6,32 @@ categorie: hip
 ---
 ![Quelle: Chaospott](/media/2018-01-12/hip_logo.png)
 
-Es ist wieder soweit. Vom 23.-25. Februar findet die [dritte Hack im Pott](https://hackimpott.de/) statt. Diesmal steigt die Veranstaltung im Falkenzentrum Süd an der [Holsterhauser Str. 200 in 45147 Essen](https://www.openstreetmap.org/?mlat=51.4366&mlon=6.9817#map=16/51.4366/6.9817&layers=N).
+Es ist wieder soweit. Vom 23.-25. Februar findet die [dritte Hack im Pott](https://hackimpott.de/) statt. Diesmal steigt die Veranstaltung im Falkenzentrum Süd an der [Holsterhauser Str. 200 in 45147 Essen](https://www.openstreetmap.org/?mlat=51.4366&mlon=6.9817#map=16/51.4366/6.9817).
+
 
 ## Was ist die Hack im Pott?
 
 Die HIP ist eine kleine, gemütliche Veranstaltung des [Chaospotts](https://chaospott.de/). Konzeptionell hat die HIP durchaus Ähnlichkeit mit einem Barcamp, wobei der Schwerpunkt auf Workshops und nicht auf Vorträgen liegt.
 
+
 ## Aber ich kann doch nicht hacken!
 
 Das glauben wir nicht. Jeder kann was und in der Regel finden sich auch Leute die genau das interessant finden. Es kommt dabei nicht darauf an den rhetorisch perfekten Vortrag zu halten und auf Hochglanz polierte Slides zu zeigen. Es geht viel mehr ums machen. Ganz im Sinne des Mottos des [Gründungsaufrufs des CCC](https://berlin.ccc.de/wiki/TUWAT.TXT) und dem Motto des [34c3](https://events.ccc.de/congress/2017/): Tuwat! Thematisch sind der Phantasie dabei fast keine Grenzen gesetzt. In den vergangenen Jahren gab es  Workshops zu ganz unterschiedlichen Themen. Angefangen bei Einsteigerworkshops für Git, über Pixelart mit Bügelperlen bis hin zu Foodhacking war alles dabei. Anders als ein echtes Barcamp zwingen wir niemanden einen Workshop oder Vortrag zu halten. Aber wir freuen uns natürlich über zahlreiche Workshops, denn die Veranstaltung steht und fällt mit dem Engagement der Teilnehmer.
+
 
 ## Was bekomme ich für mein Ticket?
 
 Es gibt gutes Hackerfrühstück, wie man es von den mrmcds oder den Easterheggs kennt. Dazu kommt, um dem Namen gerecht zu werden, eine Hack-Flatrate (auch vegan!). Ansonsten gibt es drei Tage nette galaktische Wesen, viel Spaß am Gerät und natürlich viel feiner Fug.
 
+
 ## Wie ist das mit dem Ticket und den [Kohlen](https://www.youtube.com/watch?v=UHho6PJiPKI)?
 
 Die Hack im Pott findet dieses Jahr das erste Mal nicht in den Räumen des Chaospotts statt, sondern im Falkenzentrum Süd. Damit haben wir Platz für bis zu 50 Teilnehmer. Wenn du also dabei sein willst, dann solltest du dir jetzt [ein Ticket klicken](https://tickets.hackimpott.de/hip/2018/). Die Tickets gibt es schon ab 13,37 €.
+
 
 ## Ich möchte einen Workshop halten, was muss ich tun?
 
 Das freut uns! Dann trage deinen Workshop bitte im Wiki ein. Fertig. Wenn du spezielles Werkzeug oder Material brauchst, musst du dich allerdings selbst darum kümmern, dass es in den Pott kommt. Kleinigkeiten können wir gerne mitbringen, aber wenn es mehr wird oder spezieller ist, sprengt das leider den Rahmen dessen, was wir leisten können. 
 
+
+Wir tunwat und freuen uns auf die HIP 18.
