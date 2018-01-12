@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Joblinge in GE"
+date: 2017-10-25 12:30:00
+categorie: cms
+---
+Jungen Menschen eine Perspektive bieten. Das haben sich die Joblinge zur Aufgabe gemacht und wir haben das Projekt am 23. Oktober mit einem ganztägigen Workshop unterstützt. In einem zweistündigen Themenblock haben wir über die Arbeit des Chaos Computer Clubs und über die mediale Dasrstellung von Hackern gesprochen. Im Anschluss haben wir über ein Thema gesprochen, das jeden betrifft, der sich in der digitalen Welt bewegt - Passwörter. Da die meisten Menschen mehr als einen Account bei einem Dienst im Internet haben, zeigten wir, wie man mit Passwörtern sinnvoll umgeht. Dazu stellten wir mehrere Methoden vor und diskutierten die Vor- und Nachteile.
+
+![Quelle: Chaospott](/media/2017-10-25/joblinge-00.jpg)
+*Foto: Chaospott*
+
+Nach der Mittagspause wurde unser Workshop noch praktischer. In kleinen Experimente lernten wir die Funktionsweise von Leuchtdioden, Widerständen und Transistoren kennen. Natürlich ist es in der begrenzten Zeit nicht möglich ein Elektrotechnikstudium zu absolvieren, aber vielleicht konnten wir bei einigen der gut 20 Teilnehmerinnen und Teilnehmer das Interesse für einen technischen Beruf wecken.
