@@ -1,0 +1,39 @@
+.cal_date {
+  font-weight: bold;
+}
+
+.cal_date, .cal_day, .cal_time {
+  display: block;
+}
+
+.cal_summary {
+  font-weight: bold;
+  display: block;
+}
+
+.cal_description {
+  font-style: italic;
+  display: block;
+  min-height: 1em;
+}
+
+.cal_datetime {
+  float: left;
+  width: 8em;
+  text-align: right;
+  text-decoration: inherit;
+}
+
+.cal_descriptionbox {
+  margin-left: 10em;
+  min-height: 3em;
+}
+
+.cal_entry {
+  clear: both;
+  margin-bottom: 2em;
+}
+
+.cal_location .fa {
+  margin-right: 0.3em;
+}
