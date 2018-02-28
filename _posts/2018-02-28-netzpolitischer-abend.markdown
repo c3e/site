@@ -8,6 +8,6 @@ Am kommenden Montag, den 5. März 2018, besucht der Essener Bundestagsabgeordnet
 
 Wir Hacker beginnen damit eine Gesprächsreihe mit unseren demokratischen Vertreten in Berlin. Dabei wollen wir uns, unsere Beschäftigungen und Expertise sowie den Hackerspace vorstellen und unsere Mitwirkung bei der Digitalisierung anbieten.
 
-In der Diskussion mit dem grünen Sprecher für Forschung, Wissenschaft und Hochschule und Obmann im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung wird "Chaos macht Schule", die bundesweite Initiative des CCC zur Förderung von Medienkompetenz und Technikverständnis bei Schülern, Eltern und Lehrern im Mittelpunkt stehen. Aber auch andere aktuelle Themen wie Datenschutz/-Sparsamkeit, Offene Daten, Freie Software in öffentlichen Einrichtungen, Netzneutralität und allgemeiner "Cyber" werden angesprochen.
+In der Diskussion mit dem grünen Sprecher für Forschung, Wissenschaft und Hochschule und Obmann im Ausschuss für Bildung, Forschung und Technikfolgenabschätzung wird "Chaos macht Schule", die bundesweite Initiative des CCC zur Förderung von Medienkompetenz und Technikverständnis bei Schülern, Eltern und Lehrern im Mittelpunkt stehen. Aber auch andere aktuelle Themen wie Datenschutz und -sparsamkeit, offene Daten, freie Software in öffentlichen Einrichtungen, Netzneutralität und allgemeiner „Cyber“ werden angesprochen.
 
 Jede interessierte Besucherin ist herzlich eingeladen!
