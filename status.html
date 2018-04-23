@@ -250,7 +250,7 @@ layout: default
     });
 </script>
 <script>
-  $.getJSON("https://status.chaospott.de/status.json").done(function(data) {
+  $.getJSON("https://newstatus.chaospott.de/api").done(function(data) {
     
     var d = moment.unix(data.state.lastchange);
     
