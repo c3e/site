@@ -256,7 +256,7 @@ layout: default
     
     var currentStreak = Math.floor(Date.now() / 1000) - data.state.lastchange;
     
-    if(data.state.open) {
+    if(!data.sensors.door_locked[0].value || !data.sensors.door_locked[1].value ) {
       $( "#status td:last" ).html("open");
       $( "#status" ).addClass( 'success' );
     } else {

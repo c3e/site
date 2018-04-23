@@ -30,8 +30,8 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <script>
-          $.getJSON("https://status.chaospott.de/status.json").done(function(data) {
-            if(data.state.open) {
+          $.getJSON("https://newstatus.chaospott.de/api").done(function(data) {
+            if(!data.sensors.door_locked[0].value || !data.sensors.door_locked[1].value ) {
               $( "#status_open" ).css( "display", "block" );
               $( "#status_bar" ).css( "borderColor", "#5CB85C" );
             } else {
