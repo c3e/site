@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demo gegen neues NRW-Polizeigesetz"
-date: 2018-07-18 14:53:37
+date: 2018-07-28 13:37:37
 categories: Essen auf Rädern
 ---
 ![Demo](/media/2014-07-28/demo.jpg)
