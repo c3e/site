@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Demo gegen neues NRW-Polizeigesetz"
+date: 2018-07-18 14:53:37
+categories: Essen auf Rädern
+---
+![Demo](/media/2014-07-28/demo.jpg)
+
+Am 7. Juli sind zahlreiche Mitglieder des Chaospotts nach Düsseldorf zur Demo gegen das neue NRW-Polizeigesetz gefahren. Zusammen mit Mitgliedern anderer Hackerspaces wurde mit großen Bannern und Schildern die Ablehnung gegen die Änderungen des Gesetzes kundgetan. Nach Angaben des Veranstalters haben 18.000 Menschen teilgenommen.
+
+Die Verschärfung des Polizeigesetzes hat für Hackerspaces wie den Chaospott eine besondere Relevanz durch kürzlich aus fragwürdigen Gründen durchgeführten Hausdurchsuchungen in den Hackerspaces in [Augsburg](https://openlab-augsburg.de/) und [Dortmund](https://www.chaostreff-dortmund.de/).
+
+Einen Überblick über die Situation und eine Einschätzung gibt [Logbuch Netzpolitik](https://logbuch-netzpolitik.de/lnp260-eine-hausdurchsuchung-kommt-selten-allein).
+
