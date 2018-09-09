@@ -31,7 +31,7 @@
       <ul class="nav navbar-nav navbar-right">
         <script>
           $.getJSON("https://status.chaospott.de/api/").done(function(data) {
-            if(!data.sensors.door_locked[0].value || !data.sensors.door_locked[1].value ) {
+            if(!data.state.open ) {
               $( "#status_open" ).css( "display", "block" );
               $( "#status_bar" ).css( "borderColor", "#5CB85C" );
             } else {
