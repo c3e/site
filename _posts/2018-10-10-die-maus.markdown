@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Die Maus"
+date: 2018-10-10 13:35:00
+categories: cms
+---
 Am 3. Oktober hieß es im Chaospott: Türen auf! Die Sendung mit der Maus veranstaltet einmal im Jahr ein Tag der offenen Tür, an dem die kleinen Mäuse die Möglichkeit verschiedenste Firmen und Vereine zu besuchen. In diesem Jahr haben wir die Türen unserer Bastel- und Erfinderwerkstatt geöffnet und einen Elektronikworkshop angeboten. Zwanzig Jugendliche haben in dem ca. einstündigen Workshop einen LED-Stern auf einer Holzplatte zusammengelötet. Passend zum Thema haben wir mit einer Folge Sachgeschichten zum Thema LED begonnen. Da diese Bauteile mittlerweile in vielen Leuchtmitteln, Anzeigen und Scheinwerfern verbaut werden, lohnt sich ein Blick auf die Herstellung der filigranen Bauteile. Bevor der praktische Teil des Workshops beginnen konnte, musste noch geklärt werden, an welchen Merkmalen die Anode von der Kathode einer Leuchtdiode unterschieden werden kann. Die Sicherheitsunterweisung durfte auch nicht fehlen, da ein Lötkolben ein ziemlich heißes Werkzeug ist. Nachdem der theoretische Teil abgeschlossen war, wurde das Material zusammengesammelt und mit der praktischen Arbeit begonnen.
 
 ![Quelle: Chaospott](/media/2018-10-10/die-maus-00.jpg)
