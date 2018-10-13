@@ -1,7 +1,5 @@
 from jekyll/jekyll as builder
 add . /srv/jekyll
-run mkdir /site
-run whoami
 run jekyll build --source /srv/jekyll --destination /tmp
 
 from nginx:alpine
