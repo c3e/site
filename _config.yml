@@ -10,7 +10,7 @@ url: "https://chaospott.de"
 markdown: kramdown
 permalink: /:year/:month/:day/:title
 paginate: 5
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "/blog/:num"
 include: [
   ".well-known"
