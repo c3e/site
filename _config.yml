@@ -6,6 +6,8 @@ description: >
   Alle Interessierten sind herzlich zu unserem Treff eingeladen.
 baseurl: ""
 url: "https://chaospott.de"
+# set timezone
+timezone: Europe/Berlin
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title:output_ext
