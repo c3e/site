@@ -9,4 +9,6 @@ Am 16. und 17. November 2018 fand im [Falkenzentrum Süd](https://www.openstreet
 ![Playcom](/media/2018-11-18/playcom-00.jpg)
 *Foto: Chaospott*
 
-Neben der Bastel- und Erfinderwerkstatt konnten an alten Konsolen Klassiker aus den 80er und 90er Jahren gespielt werden. Über den Tag verteilt wurden sich packende Duelle bei Mario Kart geliefert. Bei einigen Jugendlichen sorge der Neupreis von 60 DM für Super Mario für Verwirrung, da sich man sich nicht vorstellen konnte, wie man für so ein verpixeltes Spiel Geld ausgeben kann. Neben Spiel, Spaß und Spannung sorgen sich die Falken für die Verpflegung der helfenden Hände. Wir bedanken uns an dieser Stelle für die Materialspenden, die Einladung zur Placom und freuen uns auf die nächste Iteration.
+Neben der Bastel- und Erfinderwerkstatt konnten an alten Konsolen Klassiker aus den 80er und 90er Jahren gespielt werden. Über den Tag verteilt wurden sich packende Duelle bei Mario Kart geliefert. Bei einigen Jugendlichen sorgte der Neupreis von 60 DM für Super Mario für Verwirrung, da man sich nicht vorstellen konnte, wie man für so ein verpixeltes Spiel Geld ausgeben kann. Neben Spiel, Spaß und Spannung sorgten die Falken für die Verpflegung der helfenden Hände. Wir bedanken uns an dieser Stelle für die Materialspenden, die Einladung zur Playcom und freuen uns auf die nächste Iteration.
+
+
