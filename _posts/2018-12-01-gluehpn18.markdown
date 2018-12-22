@@ -5,7 +5,7 @@ date: 2018-12-19 19:00:02
 categories: Essen auf Rädern
 ---
 
-Am Wochenende vom 23. bis 25. November ist eine kleine Gruppe des Chaospott zusammen mit ca. 300 weiteren Teilnehmern der Einladung des Entropia e.V. zur Glühweinprogrammiernacht in Karlsruhe gefolgt. Wie auch die Gulaschprogrammiernacht fand diese im ZKM statt.
+Am Wochenende vom 23. bis 25. November ist eine kleine Gruppe des Chaospott zusammen mit ca. 300 weiteren Teilnehmern der Einladung des Entropia e.V. zur Glühweinprogrammiernacht in Karlsruhe gefolgt. Wie auch die Gulaschprogrammiernacht fand diese in der hfg statt.
 
 Im Gegensatz zur größeren GPN wird die GlühPN nach dem "least effort"-Prinzip ausgerichtet, wobei auf ein großes Vortragsprogramm verzichtet und der Fokus stärker auf ein gemütliches Beisammensein gelegt wird. Dazu wurden wieder einige Sofas und Hängematten in den Lichthöfen des ZKM installiert. Trotzdem gab es auch ein kleines Rahmenprogramm, wobei am Freitag Abend der Film "All Creatures Welcome" gezeigt und am Samstag Abend eine Runde Hacker Jeopardy gespielt wurde. Zudem lohnte sich der Rundgang über die angrenzende "Open Codes"-Ausstellung, in der wir auch noch unsere Fähigkeiten im Lesen von binärem ASCII ein wenig trainiert haben.
 
