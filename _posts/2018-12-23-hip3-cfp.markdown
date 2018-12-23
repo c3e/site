@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Es wird HIP!"
+date: 2018-12-23 18:42:02
+categorie: hip
+---
+![Quelle: Chaospott](/media/2018-01-12/hip_logo.png)
+
+Es geht weiter: Die nächste [Hack im Pott](https://hackimpott.de) steht an!
+Vom 22.-24.02.2019 geht es wie im Jahr zuvor in das [Falkenzentrum Süd](https://hackimpott.de/anfahrt.html) in Essen.
+
+## Was ist die HIP?
+Wir sind eine kleine, gemütliche Veranstaltung des Chaospotts. Konzeptionell hat die HIP durchaus Ähnlichkeit mit einem Barcamp, wobei der Schwerpunkt auf Workshops und nicht auf Vorträgen liegt. Seit der HIP2 sind wir in das Falkenzentrum Süd gezogen, da wir dort mehr Platz als in den eigenen Räumlichkeiten haben. Die HIP zeichnet eine gemütliche Atmosphäre, Frühstück den ganzen Tag, verschiedene Workshop- und Hands-On-Runden und natürlich Hack und Hacken aus. Und keine Sorge: wir können auch vegan! :)
+
+## Mehr Input!
+Damit uns dies alles gelingt, rufen wir zur Beteiligung auf. Wir sind auf euren Input und euer Engagement angewiesen. Daher haben wir nun unseren [Call for Participation](https://fahrplan.hackimpott.de/hip3/cfp) veröffentlicht, welcher auf eure Teilnahme wartet.
+Jeder kann hacken, da sind wir fest von überzeugt – in der Regel gibt es auch Leute, die genau dein Spezialgebiet interessant finden. Es geht dabei nicht um den perfekten Vortrag oder Workshop, sondern um etwas zu machen. Thematisch setzen wir dabei keine Grenzen.
+In den letzten Jahren gab es Docker- und Git-Workshops, Pixelart mit Bügelperlen, Foodhacking, VR und vieles mehr. Wir zwingen niemanden, einen Workshop zu halten. Aber wir freuen uns über jeden (auch jeden Vortrag), denn alles steht und fällt mit dem Engagement der Teilnehmer.
+
+## Mehr Output!
+Wenn ihr euch mehr Informationen einholen wollt, könnt ihr dies auf [unserer Webseite](https://hackimpott.de) tun, weiterhin findet ihr noch einiges in unserem [Wiki](https://wiki.hackimpott.de). Dort würden wir uns auch über ein paar Infos zu eurer Einreichung freuen!
+Ansonsten informieren wir euch auch regelmäßig via [Twitter](https://twitter.com/HackImPott) und [Mastodon](https://chaos.social/@hackimpott) über Neuerungen.
+
+Tickets für die HIP3 wird es Anfang Januar nach dem 35c3 geben, haltet
+dazu die Augen in der KW2 offen. Keine Sorge, die Tickets werden
+rechtzeitig angekündigt.
+
+Wir würden uns freuen, euch als HIPster begrüßen zu dürfen!
