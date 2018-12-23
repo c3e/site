@@ -3,7 +3,7 @@ layout: post
 title: "35C3 Everywhere"
 date: 2018-12-23 13:37:02
 ---
-![35C3everywhere](/media/2018-11-23/35c3-everywhere.png)
+![35C3everywhere](/media/2018-12-23/35c3-everywhere.png)
 *Foto: 35c3.bleeptrack.de*
 
 Vom 27. - 30. Dezember findet in Leipzig der 35. Chaos Communication Congress statt. Wir zeigen in diesem Zeitraum die Streams der Vorgräge und laden dazu alle interesierten in unsere Räumlichkeiten ein. Unsere Türen sind jeweils ab 11 Uhr geöffnet.
