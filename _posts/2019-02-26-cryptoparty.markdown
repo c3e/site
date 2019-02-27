@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Backup? Datenverlust vermeiden!"
+title: "Cryptoparty: Festplattenverschlüsselung"
 date: 2019-02-26 15:00:00
 categories: Cryptoparty
 ---
