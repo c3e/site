@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cryptoparty: Festplattenverschlüsselung"
+title: "Cryptoparty: Festplatten Verschlüsselung"
 date: 2019-02-26 15:00:00
 categories: Cryptoparty
 ---
