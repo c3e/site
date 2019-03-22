@@ -1,56 +1,59 @@
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <hr id="status_bar">
-  <div class="container">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="//chaospott.de">
-        chaospott
-      </a>
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
+    <hr id="status_bar">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="//chaospott.de">
+                chaospott
+            </a>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="/">Home</a></li>
+                <li class="divider-vertical"></li>
+                <li><a href="/blog/">Logbuch</a></li>
+                <li class="divider-vertical"></li>
+                <li><a href="/#about">&Uuml;ber uns</a></li>
+                <li class="divider-vertical"></li>
+                <li><a href="#contact">Kontakt</a></li>
+                <li class="divider-vertical"></li>
+                <li><a href="https://dokuwiki.chaospott.de">Wiki</a></li>
+                <li class="divider-vertical"></li>
+                <li><a href="https://podcast.chaospott.de">Podcast</a></li>
+                <li class="divider-vertical"></li>
+                <li><a href="https://chaospott.de/calendar.html">Termine</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <script>
+                    $.getJSON("https://status.chaospott.de/api/").done(function (data) {
+                        if (data.state.open) {
+                            $("#status_open").css("display", "block");
+                            $("#status_bar").css("borderColor", "#5CB85C");
+                        } else {
+                            $("#status_closed").css("display", "block");
+                            $("#status_bar").css("borderColor", "#D9534F");
+                        }
+                    });
+                </script>
+                <li id="status_open">
+                    <a href="/status.html" style="color:#5CB85C !important;">
+                        <i class="fa fa-unlock"></i> Raumstatus
+                    </a>
+                </li>
+                <li id="status_closed">
+                    <a href="/status.html">
+                        <i class="fa fa-lock"></i> Raumstatus
+                    </a>
+                </li>
+            </ul>
+        </div>
     </div>
-    <div class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li><a href="/">Home</a></li>
-        <li class="divider-vertical"></li>
-        <li><a href="/blog/">Logbuch</a></li>
-        <li class="divider-vertical"></li>
-        <li><a href="/#about">&Uuml;ber uns</a></li>
-        <li class="divider-vertical"></li>
-        <li><a href="#contact">Kontakt</a></li>
-        <li class="divider-vertical"></li>
-        <li><a href="https://dokuwiki.chaospott.de">Wiki</a></li>
-        <li class="divider-vertical"></li>
-        <li><a href="https://podcast.chaospott.de">Podcast</a></li>
-        <li class="divider-vertical"></li>
-        <li><a href="https://chaospott.de/calendar.html">Termine</a></li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <script>
-          $.getJSON("https://status.chaospott.de/api/").done(function(data) {
-            if(data.state.open ) {
-              $( "#status_open" ).css( "display", "block" );
-              $( "#status_bar" ).css( "borderColor", "#5CB85C" );
-            } else {
-              $( "#status_closed" ).css( "display", "block" );
-              $( "#status_bar" ).css( "borderColor", "#D9534F" );
-	          }
-          });
-        </script>
-        <li id="status_open">
-          <a href="/status.html" style="color:#5CB85C !important;">
-            <i class="fa fa-unlock"></i> Raumstatus
-          </a>
-        </li>
-        <li id="status_closed">
-          <a href="/status.html">
-            <i class="fa fa-lock"></i> Raumstatus
-          </a>
-        </li>
-      </ul>
-    </div>
-  </div>
 </nav>
+<div style="margin-bottom: 0;" class="alert alert-warning text-center">
+    <p><a href="https://pledge2019.eu/">Verhindert Artikel 13!</a> Ruft eure Abgeordneten an! Geht demonstrieren!</p>
+</div>
