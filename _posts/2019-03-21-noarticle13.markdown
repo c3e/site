@@ -10,7 +10,7 @@ Was zunächst gut klingt, wird aufgrund gravierender Mängel in der Implementati
 
 War es bislang so, dass Plattformen an Uploads ihrer User keine Schuld trugen, es sei denn, sie löschten etwas mutwillig nicht, von dem sie wussten, dass es nicht lizensiert war, soll ab sofort nahezu jede Plattform dafür haften, was ihre User hochladen und das bereits, bevor der Inhalt gemeldet wird.
 
-Auch wenn Axel Voss [die Notwendigkeit von Uploadfiltern dementiert](https://orange.handelsblatt.com/artikel/56303), stellt sich die Frage, wie Plattformen sich anders absichern sollen, als jeden einzelnen Upload einzeln zu Überprüfen und gegebenfalls zu blockieren, was wie er selbst formuliert, der Einsatz von *"Erkennungsoftware* sei, bei anderen Menschen jedoch als Uploadfilter bekannt ist.
+Auch wenn Axel Voss [die Notwendigkeit von Uploadfiltern dementiert](https://orange.handelsblatt.com/artikel/56303), stellt sich die Frage, wie Plattformen sich anders absichern sollen, als jeden einzelnen Upload einzeln zu Überprüfen und gegebenfalls zu blockieren, was wie er selbst formuliert, der Einsatz von *"Erkennungsoftware"* sei, bei anderen Menschen jedoch als Uploadfilter bekannt ist.
 Diese sind immer Fehleranfällig, können eine legale Parodie nicht von einem illegalen re-upload mit anderer Tonspur unterscheiden und bieten viele weitere Probleme.
 
 Zudem trifft diese Regelung auch viele Stellen, deren Hauptgeschäft nicht die Bereitstellung von User-Generated-Content ist, etwa den Chaospott, es kann sein, dass dieser Blog, die Cloud, da sie eine "teilen"-Funktion besitzt, unser git-server, da dort public uploads möglich sind, sowie viele weitere Service nach der neuen Richtline gefiltert werden müssten oder der Chaospott Verträge mit allen Rechteinhabern schliessen müsste.
@@ -19,4 +19,5 @@ Zudem trifft diese Regelung auch viele Stellen, deren Hauptgeschäft nicht die B
 Neben diesem gravierenden Artikel wirkt Artikel 11, nun in Artikel 15 umbenannt, geradezu harmlos. Darin wird festgelegt, dass Websites dafür Geld verlangen können, dass auf sie verlinkt wird, eine Reglung, die leicht dazu führen kann, dass Menschen sich aus Angst vor Kostenfallen nicht mehr trauen ihre Quellen anzugeben und kleinere Suchmaschinen in den Ruin getrieben werden. Das Resultat wäre eine noch größere Monokultur der Firmen, die man gerade zu regulieren versucht.
 
 Eine ausführlichere, undifferenziertere, ältere Version dieses Textes auf Englisch findet sich [hier](https://kindergarten.chaospott.de/eu_copyright/)
+
 **Dieser Text wurde von Cryptkiddie verfasst und kann sich noch ändern oder entfernt werden. Er gibt nicht die Meinung des Chaospotts wieder**
