@@ -9,7 +9,7 @@ jekyll + bootstrap
 
 ### Blogeinträge
 #### Text
-Blogeinträge werden in dem Verzeichnis „_posts“ abgelegt. Um einen Blogeintrag zu verfassen legt man eine Datei mit dem Schema „Jahr-MM-TT-Titel.markdown“ an. Der Blogeintrag beginnt mit folgenden Metadaten:
+Blogeinträge werden in dem Verzeichnis „web/\_posts“ abgelegt. Um einen Blogeintrag zu verfassen legt man eine Datei mit dem Schema „Jahr-MM-TT-Titel.markdown“ an. Der Blogeintrag beginnt mit folgenden Metadaten:
 <pre><code>---
 layout: post
 title: "Neues Update für DocPatch"
