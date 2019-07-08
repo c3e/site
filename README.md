@@ -1,8 +1,9 @@
-site
+# site
 
-==
 
-Chaospott Seite / Blog
+Die Chaospott Seite / Der Blog
+
+Zu finden auf [chaospott.de](https://chaospott.de)
 
 
 jekyll + bootstrap
