@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Sommerfest c3RE"
+date: 2019-07-20 07:03:00
+categorie: Essen auf Rädern
+---
+Der Chaostreff Recklinghausen lud vom 5. bis 7. Juli alle galaktische Entitäten zum Sommerfest in die Hackerhütte ein. Wir sind der Einladung gefolgt und besuchten den Hackerspace an der ehemaligen Schachtanlage 7 der [Zeche General Blumenthal](https://de.wikipedia.org/wiki/Zeche_General_Blumenthal). Nachdem die Zeche im jahre 1992 stillgelegt wurde, bemüht sich der [Blumenthal7 e.V.](https://www.blumenthal7.de/) als Trägerverein um die Erhaltung und Instantsetzung des Industriedenkmals. 
+
+Seit 2015 ist die [Hackerhütte](https://wiki.c3re.de/index.php?title=Hackerspace) des [c3RE](https://www.c3re.de/) der Anlaufpunkt für technikinteressierte Menschen im Kreis Recklinghausen. Während des Sommerfests konnten sich die die Gäste das alte und in die Jahre gekommene Zechengelände anschauen. Besonders die Schalt- und Steuertafeln des Grubenlüfters und der Fördermaschine waren beliebte Fotomotive und boten einen Eindruck der damaligen Technik. Neben der abenteuerlichen Geländeführung standen Workshops und Vorträge zu den Themen LoRaWAN, LightPainting und Bienenzucht auf dem Programm. 
+
+![Quelle: Chaospott](/media/2019-07-20/sommerfest-c3re-00.jpg)
+*Foto: Chaospott*
