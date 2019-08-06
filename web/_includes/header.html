@@ -33,7 +33,7 @@
                     $.getJSON("https://status.chaospott.de/api/").done(function (data) {
                         if (data.state.open) {
                             $("#status_open").css("display", "block");
-                            $("#status_bar").css("borderColor", "#5CB85C");
+                            $("#status_bar").css("borderColor", "#29A900");
                         } else {
                             $("#status_closed").css("display", "block");
                             $("#status_bar").css("borderColor", "#D9534F");
@@ -41,7 +41,7 @@
                     });
                 </script>
                 <li id="status_open">
-                    <a href="/status.html" style="color:#5CB85C !important;">
+                    <a href="/status.html" style="color:#29A900 !important;">
                         <i class="fa fa-unlock"></i> Raumstatus
                     </a>
                 </li>
