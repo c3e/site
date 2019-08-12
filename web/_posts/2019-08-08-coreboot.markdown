@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Coreboot flashen"
+title: "coreboot flashen"
 date: 2019-08-08 16:03:00
 ---
 
-Das Projekt [Coreboot](https://de.wikipedia.org/wiki/Coreboot) hat sich zum Ziel gesetzt, ein freies BIOS zu schaffen. Coreboot initialisiert die Hardware des Rechners und hat damit die Kernaufgabe erledigt, so dass im weiteren Verlauf Gerätetreiber geladen und ein Kernel gestartet werden kann. 
+Das Projekt [coreboot](https://de.wikipedia.org/wiki/Coreboot) hat sich zum Ziel gesetzt, ein freies BIOS zu schaffen. coreboot initialisiert die Hardware des Rechners und hat damit die Kernaufgabe erledigt, so dass im weiteren Verlauf Gerätetreiber geladen und ein Kernel gestartet werden kann. 
 
 ![Quelle: Chaospott](/media/2019-08-08/coreboot.jpg)
 *Foto: Chaospott*
 
-Um Coreboot zu nutzen muss der Flashrom beschrieben werden. Dazu wird ein USB-Programmer und ein passender IC-Testclip benötigt. Der Clip wird direkt auf den Flashrom gesteckt und verbindet die Anschlusskontakte mit dem Programmer. Mit der Firmware Distribution „Skulls“ steht für das Thinkpad Modell X230 eine kompilierte [Firmware](https://github.com/merge/skulls) zur Verfügung. Neben der Firmware stellt das Projekt auch eine ausführliche Anleitung für das Flashen des ROM zur Verfügung.
+Um coreboot zu nutzen muss der Flashrom beschrieben werden. Dazu wird ein USB-Programmer und ein passender IC-Testclip benötigt. Der Clip wird direkt auf den Flashrom gesteckt und verbindet die Anschlusskontakte mit dem Programmer. Mit der Firmware Distribution „Skulls“ steht für das Thinkpad Modell X230 eine kompilierte [Firmware](https://github.com/merge/skulls) zur Verfügung. Neben der Firmware stellt das Projekt auch eine ausführliche Anleitung für das Flashen des ROM zur Verfügung.
 
-So ist es mit freunlicher Unterstützung von Daniel gelungen, das BIOS eines X230 durch Coreboot zu ersetzen. Falls eure Hardware von Coreboot unterstützt wird, ihr euch aber vor einem Hardwareschaden scheut, könnt ihr euch bei uns melden. Wir unterstützen euch gerne beim Flashen des ROM. [Unterstützte Geräte](https://www.coreboot.org/status/board-status.html) werden in einer Liste gesammelt und wer sich noch weiter informieren möchte, dem sei der Vortrag [„Open Source Firmware“](https://media.ccc.de/v/froscon2019-2405-open_source_firmware) von der [FrOSCon14](https://www.froscon.de/) empfohlen.
+So ist es mit freunlicher Unterstützung von Daniel gelungen, das BIOS eines X230 durch coreboot zu ersetzen. Falls eure Hardware von coreboot unterstützt wird, ihr euch aber vor einem Hardwareschaden scheut, könnt ihr euch bei uns melden. Wir unterstützen euch gerne beim Flashen des ROM. [Unterstützte Geräte](https://www.coreboot.org/status/board-status.html) werden in einer Liste gesammelt und wer sich noch weiter informieren möchte, dem sei der Vortrag [„Open Source Firmware“](https://media.ccc.de/v/froscon2019-2405-open_source_firmware) von der [FrOSCon14](https://www.froscon.de/) empfohlen.
