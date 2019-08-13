@@ -3,8 +3,6 @@ layout: post
 title: Über uns
 ---
 
-# Über uns
-
 Wir sind der Erfa-Kreis (Erfahrungsaustauschkreis) des Chaos Computer Clubs in Essen. Wir sind eine Gruppe von intergalaktischen Wesen, die das Interesse am kreativen Umgang mit Technik teilen und gerne gestalterisch tätig werden.
 
 ## Willkommen
