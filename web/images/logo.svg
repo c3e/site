@@ -14,8 +14,8 @@
    viewBox="0 0 451.28078 451.28078"
    id="svg3422"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="logo-undurchsichtig.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
   <defs
      id="defs3424" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="251.12319"
-     inkscape:cy="244.36924"
+     inkscape:cx="165.05176"
+     inkscape:cy="72.940669"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,13 +57,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(206.04209,-462.89908)">
-    <path
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:10.44480228;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 19.598319,468.12148 c -121.740949,0 -220.418009,98.67705 -220.418009,220.418 0,121.74094 98.67706,220.41799 220.418009,220.41799 121.740931,0 220.417981,-98.67705 220.417981,-220.41799 0,-121.74095 -98.67705,-220.418 -220.417981,-220.418 z"
-       id="path5058-3"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="706"
-       inkscape:export-ydpi="706" />
     <rect
        style="display:inline;opacity:1;fill:none;stroke:none"
        id="rect4060"
