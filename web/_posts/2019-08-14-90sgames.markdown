@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Petit Foo: Games der 90er"
+date: 2019-08-14 00:12:00
+---
+
+wer erinnert sich noch an 'Die Siedler', 'Alarmstufe Rot' oder 'Lemmings'? Am Mittwoch werden im Rahmen unserer Vortragsserie 'Petit Foo' populäre Computerspiele der 90er Jahre vorgestellt, die mittlerweile als Open
+Source weiterleben und so verbessert und erweitert werden und auch auf aktueller Hardware und mit modernen Betriebssystemen lauffähig sind. Der Vortrag beginnt am Mittwoch, dem 14. August um 20:00 Uhr.
+
+Schwelgt mit uns in Erinnerungen an die 'guten alten Zeiten' oder entdeckt Spiele, die nativ auf eurem
+Linux-Betriebssystem laufen.
+
