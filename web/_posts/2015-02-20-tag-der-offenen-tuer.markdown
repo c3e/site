@@ -11,4 +11,4 @@ Unser Rahmenprogramm bietet u. a. Folgendes:
 * Bespielbare Retro-Konsolen in unserem Konsolenmuseum
 * Hardwareausstellung. Wie sieht eigentlich ein Server von innen aus? 
 
-Das vorläufige Programm und weitere Hinweise finden sich im [Wiki](https://wiki.chaospott.de/Tag_der_offenen_Tür). Wir freuen uns auf zahlreiche Gäste.
+Das vorläufige Programm und weitere Hinweise finden sich im [Wiki](https://dokuwiki.chaospott.de/events:tag_der_offenen_tur). Wir freuen uns auf zahlreiche Gäste.

@@ -67,7 +67,7 @@ Darauf folgte eine Projektbesprechung. Die Aachener stellten uns zuerst ihre Pro
 
 ![CCCAC]({{ site.url }}/media/2013-02-10/EaR_Aachen_18.JPG)
 
-Nachdem wir uns davon erholt hatten, präsentierten wir kurz unsere Chaos macht Schule Folien. Wir besprachen auch noch weitere Projekte wie beispielsweise unser [Hacksofa](https://wiki.chaospott.de/Hackersofa), [DocPatch](https://gg.docpatch.org/) und natürlich unser [Essen auf Rädern](https://wiki.chaospott.de/Essen_auf_Rädern) Projekt, wovon sie gerade Teil sind.
+Nachdem wir uns davon erholt hatten, präsentierten wir kurz unsere Chaos macht Schule Folien. Wir besprachen auch noch weitere Projekte wie beispielsweise unser [Hacksofa](https://dokuwiki.chaospott.de/projekte:hackersofa:start), [DocPatch](https://gg.docpatch.org/) und natürlich unser [Essen auf Rädern](https://dokuwiki.chaospott.de/events:essen_auf_radern:start) Projekt, wovon sie gerade Teil sind.
 
 
 #### Fazit

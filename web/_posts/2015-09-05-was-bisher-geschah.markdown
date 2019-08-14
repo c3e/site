@@ -8,7 +8,7 @@ In den letzten Monaten hat sich in unseren Räumlichkeiten wieder einiges verän
 
 ![Quelle: Chaospott]({{ site.url }}/media/2015-09-05/was-bisher-geschah-00.jpg)
 
-Für die passende Beleuchtung sorgt der [LED-Tower](https://wiki.chaospott.de/LED_Tower), an dem derzeit noch gebastelt wird, damit sich die Animationen auch per Ethernet steuern lassen.
+Für die passende Beleuchtung sorgt der [LED-Tower](https://dokuwiki.chaospott.de/projekte:led_tower:start), an dem derzeit noch gebastelt wird, damit sich die Animationen auch per Ethernet steuern lassen.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2015-09-05/was-bisher-geschah-01.jpg)
 
