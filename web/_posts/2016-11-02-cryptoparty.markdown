@@ -10,4 +10,4 @@ Am 8. November 2016 veranstaltet der CCC-Essen in seinen Räumlichkeiten (Sibyll
 
 Neben einem Einführungsvortrag wird sich die nächste Cryptoparty ausschließlich um verschlüsselte und signierte Kommunkation von E-Mails drehen. Wir zeigen euch, wie ein GPG erzeugt wird und wie dieser genutzt werden kann, um E-Mails zu verschlüsseln und zu signieren.
 
-Weitere Informationen zu den Inhalten befinden sich im [Wiki](https://wiki.chaospott.de/CryptoParty).
+Weitere Informationen zu den Inhalten befinden sich im [Wiki](https://dokuwiki.chaospott.de/events:crypto_party:crypto_party).

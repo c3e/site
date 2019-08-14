@@ -8,4 +8,4 @@ categories: Cryptoparty
 
 Am 12. Januar 2016 (19 Uhr) veranstaltet der CCC-Essen in seinen Räumlichkeiten (Sibyllastr. 9, Essen-Süd) die nächste Cryptoparty und lädt dazu alle Interessierten ein. Da unsere Räume nur begrenzt Platz bieten, wird um eine Anmeldung per Email an cryptoparty@ccc-essen.de gebeten. Bei entsprechendem Interesse wird es auch weitere Cryptoparties geben.
 
-Weitere Informationen zu den Inhalten befinden sich im [Wiki](https://wiki.chaospott.de/CryptoParty).
+Weitere Informationen zu den Inhalten befinden sich im [Wiki](https://dokuwiki.chaospott.de/events:crypto_party:crypto_party).

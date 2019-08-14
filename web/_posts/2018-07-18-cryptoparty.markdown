@@ -12,4 +12,4 @@ Der Workshop findet am **14. August 2018** statt und beginnt um **19 Uhr** in de
 
 Die Teilnahme ist kostenlos. Auf Grund des begrenzten Platzangebots wird um eine vorherige Anmeldung per E-Mail an **cryptoparty@chaospott.de** gebeten.
 
-Weitere Informationen und das Programm sind unter [Wiki](https://wiki.chaospott.de/CryptoParty) zu finden.
+Weitere Informationen und das Programm sind unter [Wiki](https://dokuwiki.chaospott.de/events:crypto_party:crypto_party) zu finden.
