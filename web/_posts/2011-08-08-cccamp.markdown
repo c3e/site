@@ -9,6 +9,4 @@ Eine Delegation des Chaostreff Essen ist am Montag nach Finowfurt gereist, um ih
 
 Unser Zelt befindet sich an der Ecke Buzz-Aldrin-Bul'var/Launch Pad Road.
 
-![Freifunk Graph]({{ site.url }}/media/2011-08-08/63zfo0.jpg)
-
-Ein großartigen Rückblick gibt es [hier](https://www.youtube.com/watch?v=aqFDnW2eCnM).
+Ein großartigen Rückblick gibt es [hier](https://media.ccc.de/v/28c3-4932-de-camp_review_2011).
