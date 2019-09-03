@@ -28,7 +28,7 @@
                 <li class="divider-vertical"></li>
                 <li><a href="https://chaospott.de/calendar.html">Termine</a></li>
             </ul>
-            <ul class="nav navbar-nav navbar-right">Raumstatus: 
+            <ul class="nav navbar-nav navbar-right"> 
                 <script>
                     $.getJSON("https://status.chaospott.de/api/").done(function (data) {
                         if (data.state.open) {
@@ -41,12 +41,12 @@
                     });
                 </script>
                 <li id="status_open">
-                    <a href="/status.html" style="color:#29A900 !important;">
+                    Raumstatus: <a href="/status.html" style="color:#29A900 !important;">
                         <i class="fa fa-unlock"></i> offen
                     </a>
                 </li>
                 <li id="status_closed">
-                    <a href="/status.html">
+                    Raumstatus: <a href="/status.html">
                         <i class="fa fa-lock"></i> geschlossen
                     </a>
                 </li>
