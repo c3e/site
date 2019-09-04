@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container" id="posts">
-  <div class="row">
+  <div class="row" style="padding-bottom:0px;">
     {% for post in site.posts limit:4 %}
     <div class="col-md-3">
       <h2>
@@ -25,7 +25,7 @@ layout: default
     </div>
     {% endfor %}
   </div>
-<div class="row-centered align-text-top"><p>Weitere Nachrichten finden sich <a href="https://chaospott.de/blog/">in unserem Logbuch.</a></p></div>
+<div class="row-centered align-text-top" style="padding-bottom:50px;"><p>Weitere Nachrichten finden sich <a href="https://chaospott.de/blog/">in unserem Logbuch.</a></p></div>
 </div>
 <hr>
 <div class="container" id="about">
