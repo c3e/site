@@ -29,7 +29,7 @@ Adresse: **Sibyllastr. 9 (Hinterhof), 45136 Essen**
 
 Der Eingang befindet sich im Hinterhof und ist über die Durchfahrt erreichbar. Unsere Clubräume befinden sich sowohl in der 1. Etage als auch im Keller des Gebäudes. Das Klingeln, bei uns, löst einen automatischen Prozess aus, der die Tür aufdrückt. Parken ist im Innenhof nicht möglich!
 
-{% include <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.023171186447144%2C51.43781821394546%2C7.026711702346803%2C51.43918421058423&amp;layer=mapnik&amp;marker=51.43850121737138%2C7.024941444396973" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.43850&amp;mlon=7.02494#map=19/51.43850/7.02494">Größere Karte anzeigen</a></small> %}
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.023171186447144%2C51.43781821394546%2C7.026711702346803%2C51.43918421058423&amp;layer=mapnik&amp;marker=51.43850121737138%2C7.024941444396973" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.43850&amp;mlon=7.02494#map=19/51.43850/7.02494">Größere Karte anzeigen</a></small>
 
 
 
