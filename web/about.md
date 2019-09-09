@@ -5,15 +5,11 @@ title: Über uns
 
 Wir sind der Erfa-Kreis (Erfahrungsaustauschkreis) des Chaos Computer Clubs in Essen. Wir sind eine Gruppe von intergalaktischen Wesen, die das Interesse am kreativen Umgang mit Technik teilen und gerne gestalterisch tätig werden.
 
-
-
-## Willkommen
-
 Seit 2009 befassen wir uns im Chaospott mit Technik und Gesellschaft. Bei uns geht es nicht nur um Hard- und Software, sondern auch um Datenschutz, Netzpolitik und deren gesellschaftliche Auswirkungen. In unseren Clubräumen haben wir nicht nur eine große Lounge und eine Küche, ein Elektroniklabor und eine Werkstatt, sondern auch Plätze um konzentriert zu arbeiten. Auch das gesellschaftliche Beisammensein kommt bei uns nicht zu kurz. Spieleabende, gemeinsames Kochen oder einfach nur Fachsimpeln machen uns Spaß.
 
 
 
-## Was machen wir?
+## {:.post-title} Was machen wir?
 
 Jeder kann hier die Dinge realisieren, die ihn interessieren. Wir bieten Werkzeuge, Arbeitsflächen und natürlich fachkundiges Miteinander.
 Dadurch sind schon einige Projekte entstanden:
@@ -24,7 +20,7 @@ Viele weitere Projekte findest du [in unserem Wiki](https://dokuwiki.chaospott.d
 
 
 
-## Und sonst so?
+## {:.post-title} Und sonst so?
 
 Wir machen noch viel mehr, auch für Nichtmitglieder, Profis oder die, die es noch werden wollen.
 * Mit dem Projekt 'Chaos macht Schule' besuchen wir Schulen, machen Workshops und Vorträge zum Thema Internet, Datenschutz, Urheberrecht und noch vielem mehr.
@@ -34,7 +30,7 @@ In [unserem Kalender](https://chaospott.de/calendar.html) finden sich alle Veran
 
 
 
-## Interesse?
+## {:.post-title} Interesse?
 
 Dann komme einfach bei unserem offenen Chaostreff mittwochs ab 19 Uhr in unserem Hackerspace vorbei. Lass dir von einem Mitglied eine Führung durch die Clubräume geben. Wir werden uns große Mühe geben alle deine Fragen zu beantworten.
 
@@ -44,7 +40,7 @@ Kontaktinformationen, unsere Adresse und eine detaillierte Anfahrtsbeschreibung 
 
 
 
-## Andere Hackerspaces
+## {:.post-title} Andere Hackerspaces
 
 Im näheren Umkreis gibt es viele andere Hackerspaces, mit denen wir regelmäßigen Austausch pflegen.
 
