@@ -1,6 +1,7 @@
+---
 layout: post
 title: "Maschinendeck berichtet"
-date: 2019-10-16 14:12:15
+date: 2019-10-16 20:58:15
 ---
 Es gibt Neuigkeiten vom Maschinendeck! In den vergangenen Wochen und Monaten wurde fleißig an Projekten gebastelt, Geräte angeschafft und an der Infrastruktur des Clubs gewerkelt.
 
