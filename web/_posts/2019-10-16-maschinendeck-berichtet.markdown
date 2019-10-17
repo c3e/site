@@ -13,7 +13,7 @@ Das Elektroniklabor hat weiteren Zuwachs bekommen. Dank einer Spende konnten wir
 ![Quelle: Chaospott](/media/2019-10-16/maschinendeck-berichtet-ultimaker.jpg)
 *Foto: Chaospott*
 
-Auch das Fablab konnte durch eine Spende um einen [Ultimaker 3](https://dokuwiki.chaospott.de/geraete:3_d-drucker:start) erweitert werden. Durch den Dual-Extruder können zwei Materialien gleichzeitig verwendet werden, um Gegenstände auszudrucken. Dadurch ist es z. B. möglich, Modelle zweifarbig zu drucken oder wasserlösliches Stützmaterial zu verwenden. Für die beide Drucker wurden Materialhalter gedruckt, auf mit denen sich z. B. das PLA einfach abrollen lässt.
+Auch das Fablab konnte durch eine Spende um einen [Ultimaker 3](https://dokuwiki.chaospott.de/geraete:3_d-drucker:start) erweitert werden. Durch den Dual-Extruder kann ein Druck aus zwei unterschiedlichen Materialien angefertigt werden. Dadurch ist es z. B. möglich, Modelle zweifarbig zu drucken oder wasserlösliches Stützmaterial zu verwenden. Für die beide Drucker wurden Materialhalter gedruckt, auf mit denen sich z. B. das PLA einfach abrollen lässt.
 
 ![Quelle: Chaospott](/media/2019-10-16/maschinendeck-berichtet-mqtt-sensor-aktor.jpg)
 *Foto: Chaospott*
