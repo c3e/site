@@ -56,4 +56,6 @@ Im näheren Umkreis gibt es viele andere Hackerspaces, mit denen wir regelmäßi
 
 Auf CCC-Veranstaltungen wie dem Chaos Communication Congress arbeiten wir zusammen als [Chaos West](https://chaos-west.de/).
 
-Weitere Termine und Neuigkeiten aus dem Umkreis des CCC findet ihr unter [cpu.ccc.de](https://cpu.ccc.de/).
+Weitere Termine und Neuigkeiten aus dem Umkreis des CCC findest du unter [cpu.ccc.de](https://cpu.ccc.de/).
+
+Eine Übersicht über Hackerspaces weltweit findest du auf [hackerspaces.org](https://wiki.hackerspaces.org/List_of_Hacker_Spaces).
