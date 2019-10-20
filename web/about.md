@@ -37,7 +37,7 @@ In [unserem Kalender](https://chaospott.de/calendar.html) finden sich alle Veran
 
 Dann komme einfach bei unserem offenen Chaostreff mittwochs ab 19 Uhr in unserem Hackerspace vorbei. Lass dir von einem Mitglied eine Führung durch die Clubräume geben. Wir werden uns große Mühe geben alle deine Fragen zu beantworten.
 
-Bist du unsicher, ob der Club etwas für dich ist oder suchst du Ansprechpartner für den ersten Clubbesuch? Schau mal bei [unseren Chaospatinnen](https://chaospott.de/contact.html#chaospatinnen) vorbei.
+Bist du unsicher, ob der Club etwas für dich ist oder suchst du Ansprechpartner für den ersten Clubbesuch? Schau mal bei [unseren Chaospatinnen](https://chaospott.de/location.html#chaospatinnen) vorbei.
 
 Kontaktinformationen, unsere Adresse und eine detaillierte Anfahrtsbeschreibung findest du [hier](/contact.html).
 

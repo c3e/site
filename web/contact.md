@@ -19,8 +19,8 @@ Telefonisch sind wir sehr schlecht zu erreichen.
 ## Mailing-Listen
 Die meiste clubinterne Kommunikation läuft über Mailinglisten. 
 
-* Club-Kommunikation läuft über die [Mailingliste discuss@lists.chaospott.de](https://lists.chaospott.de/listinfo/discuss). Wenn du an Alltagskommunikation und Diskussionen interessiert bist, ist das die richtige Liste für dich.
-* Wenn du nur an Veranstaltungen interessiert bist, melde dich doch auf [unserer Events-Mailingliste](https://lists.chaospott.de/listinfo/discuss) an!
+* Club-Kommunikation läuft über die [Discuss-Mailingliste: discuss@lists.chaospott.de](https://lists.chaospott.de/listinfo/discuss). Wenn du an Alltagskommunikation und Diskussionen interessiert bist, ist das die richtige Liste für dich.
+* Wenn du nur an Veranstaltungen interessiert bist, melde dich doch auf [unserer Events-Mailingliste: events@lists.chaospott.de](https://lists.chaospott.de/listinfo/discuss) an!
 
 ---
 
