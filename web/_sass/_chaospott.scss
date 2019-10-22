@@ -138,6 +138,9 @@ ul.nav>li>a {
   .navbar-collapse .nav>.divider-vertical {
     display: none;
   }
+  .navbar-collapse {
+    max-height: 400px;
+  }
 }
 
 @media (min-width: 768px) {
