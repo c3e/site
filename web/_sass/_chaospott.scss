@@ -46,6 +46,10 @@ body {
   }
 }
 
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+    max-height: 400px;
+}
+
 ul.navbar-nav li a {
   color: $nav-link-color !important;
 }
@@ -137,9 +141,6 @@ ul.nav>li>a {
   }
   .navbar-collapse .nav>.divider-vertical {
     display: none;
-  }
-  .navbar-collapse {
-    max-height: 400px;
   }
 }
 
