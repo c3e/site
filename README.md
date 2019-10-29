@@ -25,9 +25,7 @@ Bilder für Blogeinträge werden unterhalb von Media in einem eigenen Verzeichni
 <pre><code>~/site/media/jahr-mm-tt
 </code></pre>
 
-Als erstes sollte man die Exif-Daten (z.B. Geoinformation) der Bilder entfernen. 
-
-Als erstes werden alle relevanten Metadaten entfernt. Dabei wird auch die „Rotation“ des Bildes entfernt.
+Als erstes sollte man die Exif-Daten (z.B. Geoinformation) der Bilder entfernen. Dabei wird auch die „Rotation“ des Bildes entfernt.
 <pre><code>exiftool -all= $Bild
 </code></pre>
 
