@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Freifunk-Treffen am 6. Mai"
-date: 2015-04-29 23:42:23
+date: 2015-04-29 15:42:23
 ---
-Am 6. Mai 2015 ab 19:00 Uhr findet in unseren Clubräumen ein Treffen des [Freifunk Ruhrgebiet](https://freifunk-ruhrgebiet.de/) statt. Dieses wird in Zukunft immer am ersten Mittwoch im Monat stattfinden.
+Am 6. Mai 2015 ab 19:00 Uhr findet in unseren Clubräumen ein Treffen des [Freifunk Ruhrgebiet](https://freifunk-ruhrgebiet.de/) statt. Dieses wird in Zukunft am ersten Mittwoch im Monat stattfinden.
 
 Ziel ist es Freifunk in Essen weiter zu entwickeln und größere Gebäude zu erschließen. Wir stehen schon in Kontakt zu verschiedenen Kirchen.
 
