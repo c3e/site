@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vortrag OAuth Security"
-date: 2018-11-05 23:25:00
+date: 2018-11-05 13:25:00
 categories: OWASP
 ---
 ![OWASP Ruhrpott](/media/2016-10-17/owasp-ruhrpott.png)
