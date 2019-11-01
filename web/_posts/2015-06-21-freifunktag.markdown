@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "6. Freifunktag in Essen"
-date: 2015-06-21 22:23:23
+date: 2015-06-21 20:23:23
 ---
-Am Wochenende des 4. und 5. Juli 2015 findet im [Linuxhotel](http://www.linuxhotel.de) in Essen der [6. Freifunktag](https://wiki.freifunk-rheinland.net/Freifunktag/2015-07) statt.
+Am Wochenende des 4. und 5. Juli 2015 findet im [Linuxhotel](https://www.linuxhotel.de) in Essen der [6. Freifunktag](https://wiki.freifunk-rheinland.net/Freifunktag/2015-07) statt.
 
 Neben Vorträgen und Workshops rund um das Thema Freifunk wird es auch viel Raum für Socializing geben. Fester Bestandteil ist auch das Grillen am Abend.
 
