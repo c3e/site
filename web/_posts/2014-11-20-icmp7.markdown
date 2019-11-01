@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ICMP 7"
-date: 2014-11-20 23:42:00
+date: 2014-11-20 19:42:00
 categories: Essen auf Rädern
 ---
 Egal ob mit dem Motorrad, Minivan oder stilecht mit dem Lieblingstransporteuer inklusive garantierter Verspätung, auch als DB bekannt, haben auch in diesem Jahr haben wieder zahlreiche Chaoten den Weg zur ICMP gefunden.
