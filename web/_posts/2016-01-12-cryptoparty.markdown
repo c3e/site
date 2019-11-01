@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Verschlüsselung?"
-date: 2016-01-02 10:50:37
+date: 2016-01-12 10:50:37
 categories: Cryptoparty
 ---
 ![CryptoParty](/media/2014-07-04/web_800px.png)
