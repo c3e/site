@@ -1,6 +1,6 @@
 ---
 layout: post
-titel: "/dev/tal"
+title: "/dev/tal"
 date: 2012-09-10 13:33:45
 categories: Essen aud Rädern
 ---
