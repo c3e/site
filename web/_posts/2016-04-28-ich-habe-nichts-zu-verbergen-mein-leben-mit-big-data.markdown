@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ich habe nichts zu verbergen"
-date: 2016-04-27 22:00:00
+date: 2016-04-28 22:00:00
 categories: Kunst und Kultur
 ---
 Bereits im Frühling des vergangenen Jahres bat uns Carola Hannusch,
