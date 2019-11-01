@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Atari Bit Byter User Club
+title: "Atari Bit Byter User Club"
 date: 2019-11-01 15:49:54
 ---
 Am 26. Oktober war der [Atari Bit Byter User Club](http://www.abbuc.de/) zu Gast im Chaospott. Die Mitglieder des ABBUC treffen sich nach der jährlichen Hauptversammlung in unseren Räumlichkeiten, um Neuigkeiten aus der 8bit-Szene auszutauschen, Hardware in Stand zu setzen und Schmuckstücke aus alten Tagen zu zeigen.
