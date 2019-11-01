@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maschinendeck berichtet"
-date: 2018-07-14 11:29:00
+date: 2018-07-13 11:29:00
 ---
 In unseren Clubräumen hat sich in den letzten Monaten wieder einiges getan. Im Obergeschoss haben wir die Sofaecke verlegt, damit wir im Hackcenter noch etwas mehr Platz haben. Dieser Raum wird gerne von externen Gruppen wie OWASP oder Code for Ruhrgebiet für ihre Themenabende genutzt. Falls ihr für eine Veranstaltung einen großen Raum mit Tischen, Stühlen und Leinwand sucht, schreibt uns eine E-Mail auf unsere [Mailingliste](https://lists.chaospott.de/listinfo/discuss).
 
