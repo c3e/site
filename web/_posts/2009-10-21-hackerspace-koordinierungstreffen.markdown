@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erstes Hackerspace-Koordinierungstreffen"
-date: 2009-10-21 23:42:00
+date: 2009-10-21 19:42:00
 ---
 Am Dienstag, den 03. November, findet statt im Zuge des Chaostreffs im [UpH](https://www.unperfekthaus.de/) das erste Koordinierungstreffen zur geplanten Hackerspacegründung statt. Los geht es um 20 Uhr.
 
