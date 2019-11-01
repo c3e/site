@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emoticon"
-date: 2019-09-28 13:18:42
+date: 2019-09-29 13:18:42
 categories: cms
 ---
 Am 28. September haben wir mit einem Lötworkshop an der „Emoticon“ teilgenommen. Ab 12 Uhr konnten Nachwuchshacker einen LED-Stern basteln, in der virtuellen Realität Spiele ausprobieren oder an einem Siebdruckworkshop teilnehmen. Die Veranstaltung fand im [Falkenzentrum Süd](https://www.openstreetmap.org/?mlat=51.43664&mlon=6.98190#map=18/51.43664/6.98190) als Nachfolge der [Playcom](https://chaospott.de/2018/11/18/rueckblick-placom.html) statt und ca. 50 Gäste haben den Weg zur Halben Höhe gefunden.
