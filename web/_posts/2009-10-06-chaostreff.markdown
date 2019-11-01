@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chaostreff 6.10.09"
-date: 2009-10-06 23:42:00
+date: 2009-10-06 19:42:00
 ---
 Nach kurzer Raumsuche haben wir es uns auf dem Internet-Sofa gemütlich gemacht. Unsere Gruppe wuchs im Laufe des Abends von 3 auf 5 Leute an, worüber wir uns sehr gefreut haben, zumal auch ein „Neuer“ mit dabei war.
 
