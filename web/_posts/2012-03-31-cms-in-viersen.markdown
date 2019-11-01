@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: "CMS in Viersen"
+title: "CMS in Viersen"
 date: 2012-03-31 10:18:29
 categories: CmS
 ---
