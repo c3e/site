@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Labortage19"
+date: 2019-11-11 13:23:42
+---
+ Vom 8. bis 10. November fanden in Bochum die Labortage statt. Unter dem Motto „Ach, ich lass das jetzt so“ lud [Das Labor](https://das-labor.org/) zu einem Wochenende unter technikinteressierten Lebewesen nach Bochum ein. Vorträge, Workshops und der übliche Bastelspaß stand auf dem Programm.
+
+![Quelle: Chaospott]({{ site.url }}/media/2019-11-11/labortage19.jpg)
+
+ Freitag haben wir gelernt, wie das Kameramodul des Game Boy Bilder intern abspeichert und wie man diese Daten auf einen aktuellen Computer überträgt. Auch der Samstag bot ein interessantess Programm aus Vorträgen und Workshops. Darüber hinaus konnte man sich die Zeit mit einem Capture the Flag vertreiben und unter anderem FlipDot-Displays über ein Netzwerkinterface ansteuern. Für die Aufnahme einer Folge „[Sibyllinische Neuigkeiten](https://podcast.chaospott.de/)“ haben wir auch Zeit und einen ruhigen Platz gefunden. In Folge 30 gibt es unter anderem Neuigkeiten von der Hacker eG. Insgesamt verging die Zeit auf den Labortagen wie im Flug, sodass wir überrascht waren, als das Closing-Event auf dem Programm stand.
