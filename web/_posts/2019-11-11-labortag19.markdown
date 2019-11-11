@@ -3,7 +3,7 @@ layout: post
 title: "Labortage19"
 date: 2019-11-11 13:23:42
 ---
- Vom 8. bis 10. November fanden in Bochum die Labortage statt. Unter dem Motto „Ach, ich lass das jetzt so“ lud [Das Labor](https://das-labor.org/) zu einem Wochenende unter technikinteressierten Lebewesen nach Bochum ein. Vorträge, Workshops und der übliche Bastelspaß stand auf dem Programm.
+ Vom 8. bis 10. November fanden in Bochum die Labortage statt. Unter dem Motto „Ach, ich lass das jetzt so“ lud [Das Labor](https://das-labor.org/) zu einem Wochenende unter technikinteressierten Lebewesen nach Bochum ein. Vorträge, Workshops und der übliche Bastelspaß standen auf dem Programm.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2019-11-11/labortage19.jpg)
 
