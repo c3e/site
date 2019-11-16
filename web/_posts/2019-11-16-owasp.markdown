@@ -1,0 +1,21 @@
+---
+layout: post
+title: "OWASP Stammtisch"
+date: 2019-11-16 15:38:00
+categories: owasp
+---
+Der OWASP Ruhrpott Stammtisch lädt am 25.11.2019 um 18:30 zum nächsten Workshop in die Räumlichkeiten des Chaospott in Essen ein.
+
+In diesem Workshop wird es darum gehen, verschiedene Schutzmaßnahmen in Microsoft Windows zu identifizieren und zu umgehen, um anschließend eigene Programme ausführen zu können. Die Teilnehmer können nach einer kurzen Einführung die verschiedenen Wege direkt an einer virtuellen Maschine ausprobieren.
+
+Die Themengebiete sind:
+
+   * Kiosk Bypass
+   * Software Restriction Policies
+   * AppLocker
+
+Für den Workshop wird ein Laptop mit installiertem VirtualBox (oder ähnlich) benötigt.
+
+Eine Anmeldung für den Workshop ist nicht nötig, jedoch bitten wir darum euch im [Meetup](https://www.meetup.com/de-DE/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/) einzutragen, damit genügend Platz für alle Teilnehmer zur Verfügung steht.
+
+Nähere Informationen zu den Workshops, Terminen und Treffpunkten findet Ihr wie gewohnt auf unserer [Webseite](https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Ruhrpott).
