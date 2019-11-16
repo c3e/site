@@ -4,7 +4,7 @@ title: "Der CCCFFM wird 10"
 date: 2019-11-16 10:07:23
 ---
 
-Der CCCFFM ist 10 Jahre alt geworden. Am 03. Oktober 2009 hat sich der Chaos Computer Club Frankfurt e.V. zum Gründungstreffen versammelt. Zehn Jahre später hat der Erfa in Frankfurt knapp 100 Mitglieder und hat vor ca. 5 Jahren sein HQ in der Häusergasse 2 aufgeschlagen.
+Der [CCCFFM](https://ccc-ffm.de/) ist 10 Jahre alt geworden. Am 03. Oktober 2009 hat sich der Chaos Computer Club Frankfurt e.V. zum Gründungstreffen versammelt. Zehn Jahre später hat der Erfa in Frankfurt knapp 100 Mitglieder und hat vor ca. 5 Jahren sein HQ in der Häusergasse 2 aufgeschlagen.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2019-11-16/10-jahre-cccffm.jpg)
 
