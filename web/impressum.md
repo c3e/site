@@ -3,7 +3,7 @@ layout: post
 title: Impressum
 ---
 
-**Kontakt**
+## Kontakt
 
 Herausgeber dieses Webangebotes ist der
 
@@ -16,14 +16,14 @@ Telefon:  [+49(0)201 857883460](tel:+49201857883460)
 
 Eingetragen im Vereinsregister des Amtsgericht Essen unter der Nummer VR 5179.
 
-**Vertretungsberechtigte**
+## Vertretungsberechtigte
 
-- Sebastian Surminski (Vorsitzender)
-- Bastian Geißler (Stellvetretender Vorsitzender)
+- Christian Roschow (Vorsitzender)
+- Sebastian Surminski (Stellvetretender Vorsitzender)
 - Jürgen Stuber (Schatzmeister)
 
 Der Vorstand ist unter der Anschrift des Herausgebers oder via E-Mail an <vorstand@die-foobar.de> erreichbar.
 
-**Inhalt**
+## Inhalt
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV sind die jeweils angegebenen Autoren der Beiträge. Diese sind unter der Anschrift des Herausgebers oder via E-Mail an <info@chaospott.de> erreichbar.
