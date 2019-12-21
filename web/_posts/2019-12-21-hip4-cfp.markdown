@@ -1,0 +1,10 @@
+---
+layout: post
+title: "HIP 4: CfP gestartet"
+date: 2019-12-19 13:37:02
+---
+Knapp zwei Monate vor dem Start der nächsten Hack im Pott starten wir heute den [Call for Participation](https://pretalx.chaospott.de/hip4/cfp). Wie letztes Mal sind wir wieder auf der Suche nach hippen Workshops und Vorträgen, welche die Hack im Pott wieder zu einem tollen Ereignis machen.
+
+Wie immer gilt: Der Themenwahl sind fast keine Grenzen gesetzt. Wenn du also eine tolle Idee hast, die du gerne umsetzen möchtest, reiche sie gern ein. Aber auch, wenn du jemanden kennst, der etwas Spannendes zeigen oder erzählen kann, kannst du dies gerne einreichen.
+
+Weiter Informationen erhaltet ihr auf der Seite des [CfP](https://pretalx.chaospott.de/hip4/cfp).
