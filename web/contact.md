@@ -5,6 +5,7 @@ title: Kontakt
 
 Am besten sind wir via E-Mail zu erreichen:
 
+* **Erstbesuch und Einführung:** [chaospatinnen@chaospott.de](mailto:chaospatinnen@chaospott.de)
 * **Allgemeine Anfragen:** [info@chaospott.de](mailto:info@chaospott.de)
 * **Presseanfragen:** [presse@chaospott.de](mailto:presse@chaospott.de)
 
@@ -26,9 +27,10 @@ Die meiste clubinterne Kommunikation läuft über Mailinglisten.
 
 ## Social Media
 
-Zusätzlich sind wir auch auf Twitter und Github zu finden.
+Zusätzlich sind wir auch auf Mastodon, Twitter und Github zu finden.
 
-* **Twitter:** [@chaospott](https://twitter.com/chaospott) zeigt kleine Einblicke aus dem Clubleben
+* **Mastodon:** [@chaospott@chaos.social](https://chaos.social/@chaospott) zeigt kleine Einblicke aus dem Clubleben
+* **Twitter:** [@chaospott](https://twitter.com/chaospott) zeigt die gleichen Einblicke wie auf Mastodon
 * **Github:** [@c3e](https://github.com/c3e) hostet Quellcode für zahlreiche Clubprojekte
 
 ---
