@@ -1,0 +1,74 @@
+---
+layout: post
+title: "36C3 Rückblick"
+date: 2020-01-13 13:57:42
+---
+
+Vom 27. bis 30. Dezember fand der jährliche Kongress des Chaos Computer Clubs in Leipzig statt. Der 36. Chaos Communication Congress stand unter dem Motto „Resource exhaustion“ und bot neben dem Vortragprogramm wieder viele Workshops und Raum für Kreativität. Vier Tage bevölkerten 17.000 Menschen die Messe Leipzig, um sich über Kust, Kultur und Technik auszutauschen.
+
+### Junghackertag
+
+Auf dem 28C3 veranstaltete „[Chaos macht Schule](https://www.ccc.de/schule)“ das erste Mal den Junghackertag mit dem Ziel, junge Menschen für Technik zu begeistern. Seit dem ist auch der Junghackertag ähnlich, wie der gesamte Kongress gewachsen. Auf dem letzten Chaos Communication Congress im BCC nahmen insgesamt zehn junge Menschen am Junghackertag teil. Nach der Veranstaltung war klar, dass wir auf dem 29C3 wieder einen Junghackertag organisieren würden, da wir für viele leuchtende Augen bei den Junghackern und ihren Eltern sorgten. In den folgenden Jahren wurde das Angebot des Jungackertages auch durch andere Gruppen mit Workshops, Rätseln und kleineren Vorträgen bereichert. Auf dem 36C3 meldeten sich zum Junghackertag mehrere 100 Menschen an und die Anzahl an helfenden Händen ist ebenfalls weiter angestiegen. In der Hardware-Area von „Chaos macht Schule“ verlöteten die Junghacker die Bauteile der „Blinken Rocket“ oder erstellten einen Stern aus Leuchtdioden.
+
+![Foto LED-Stern]({{ site.url }}/media/2020-01-13/36c3-led-stern.jpg)
+*LED-Stern von [Chaospott](https://chaospott.de) [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+
+Darüber hinaus bereicherten wieder viele Projekte und Interessensgruppen das Programm des [Junghackertages](https://events.ccc.de/congress/2019/wiki/index.php/Projects:Junghackertag) mit einem Angebot.
+
+### Chaos Post
+
+Seit dem 34c3 formiert sich zunehmend umfangreicher auch die Chaos Post, kurz c3post und findet sich auch hier wieder. Diese ermöglicht es Teilnehmern das Event noch auf eine gänzlich andere Art und Weise kennenzulernen. Jeder kann an andere Entitäten eine kurze Nachricht zu schreiben, entweder ganz old school per Hand oder auch mithilfe von Schreibmaschinen. Diese Botschaften werden dann möglichst sinnhaft adressiert, z. B. mit Nickname des Empfängers, seiner Assembly, dem DECT oder was sonst so gefällt. Mithilfe dieser internen Adressierung stellen nun wieder andere - sogenannte Chaos Boten und ebenfalls beliebige Kongressteilnehmer - die Karte an den Empfänger zu. Das hierzu notwendige Durchfragen und Nachforschen hat schon zu so manch schöner Begegnung geführt.
+Die ganze Organisation im Hintergrund, dem sogenannten Backoffice, welches sich auch um den Versand der Karten an Adressen außerhalb des 36C3 kümmert, wurde auch von uns aus Essen tatkräftig unterstützt. Schließlich konnten wir auf einem post-congress-post-workshop alle zufrieden feststellen: Mit über 33.000 Postkarten haben wir auch dieses Jahr wieder viel Spaß auf dem Kongress gefördert.
+
+### Vorträge
+
+Wie bereits im letzten Jahr hat auch diesmal wieder Chaos West eine eigene Bühne mit spannenden Themen und Vorträgen auf die Beine gestellt und damit nicht nur den Chaospott sondern auch Kongressteilnehmer darüber hinaus begeistert. Das Vortragsprogramm für den 36C3 untergliedert sich in die Themen Art & Culture, CCC, Ethics, Society & Politics, Hardware & Making, Resilience & Sustainability, Science und Security. Für die Unterhaltung in den Abendstunden sorgte der Entertainment Track. Dort wurden zum Beispiel Robotkämpfe ausgetragen oder Jeopardy mit Hackerthemen gespielt.
+
+**Empfehlungen der Redaktion:**
+
+* [#mifail oder: Mit Gigaset wäre das nicht passiert!](https://media.ccc.de/v/36c3-10576-mifail_oder_mit_gigaset_ware_das_nicht_passiert) von zivillian, ST, LaForge
+
+* [BahnMining - Pünktlichkeit ist eine Zier](https://media.ccc.de/v/36c3-10652-bahnmining_-_punktlichkeit_ist_eine_zier) von David Kriesel
+
+* [Let’s play Infokrieg](https://media.ccc.de/v/36c3-10639-let_s_play_infokrieg) von Arne Vogelsang
+
+* [Security Nightmares 0x14](https://media.ccc.de/v/36c3-11164-security_nightmares_0x14) von Frank und Ron
+
+* [Hirne Hacken](https://media.ccc.de/v/36c3-11175-hirne_hacken) von Linus Neumann
+
+* [Finfisher verklagen](https://media.ccc.de/v/36c3-11217-finfisher_verklagen) von Thorsten Schröder und Ulf Buermeyer
+
+Neben den obligatorischen Aufzeichnugen der Beiträge, welche selbstverständlich über media.ccc.de abrufbar sind, wurde die Halle auch mit stimmungsvoller Live-Musik bespielt, sowohl die Band [Systemabsturz](https://twitter.com/system_absturz) als auch Alle Farben gaben sich und uns die Ehre. Kurz vor dem Kongress veröffentlicht Systemabsturz ihre erste Single, die ihr bei [Netzpolitik.org](https://netzpolitik.org/2019/die-erste-single-von-systemabsturz-verdaechtig) unter der CC0-Lizenz bekommt.
+
+### Kunst
+
+Rund um den Kongress gibt es jedes Jahr viele Installationen zu den verschiedensten Themen zu bestaunen. Ein sehr großes FlipDot-Display verbreitete vier Tage lang das typische Geräusch, welches erklingt, wenn die einzelnen Anzeigeelemente ihe Position wechseln. Genauere Informationen zu dieser Installation können im Chaosradio [Folge 255](https://media.ccc.de/v/36c3-117-chaosradio-255#t=5720) ab der Zeitmarke 1:35 h nach gehört bzw. nachgesehen werden.
+
+*FlipDot-Wall von [Chaospott](https://chaospott.de) [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+
+Ein Projekt der [Haecksen](https://www.haecksen.org/) hat sich das Ziel gesetzt, die Leistungen von Frauen in der Entwicklung von Computern sichtbar zu machen. Dazu wurden an verschiedenen Orten „[Memorials](https://www.haecksen.org/memorials/)“ aufgebaut. Die liebevoll gestalteten Gedenkstätten illustrieren das Leben und die Leistungen der jeweiligen Persönlichkeit. Mit welchen Themen sich die Haecksen noch beschäftigen, ist dem [Jahresrückblick des CCC](https://media.ccc.de/v/36c3-11225-der_dezentrale_jahresruckblick_des_ccc#t=1409) zu entnehmen.
+
+![Kollage Memorials]({{ site.url }}/media/2020-01-13/36c3-memorials.jpg)
+*[Memorials](https://www.haecksen.org/wp-content/uploads/2019/09/Collage-Memorial5-1024x768.jpg) von Leena Simon [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+
+### Berichte über den Congress
+
+Mit dem Beginn der Veranstaltung wird selbstverständlich auf den verschiedensten Kanälen über den Chaos Communication Congress berichtet. Wir haben verschiedene Beiträge zum 36C3 zusammengetragen.
+
+* [Teckids](https://www.teckids.org/de/neuigkeiten/2020/01/09/hacknfun-x-mas-edition-2019/) (Blogbeitrag)
+
+* [Hacksaar](https://www.hacksaar.de/aachen-an-der-saar-auf-dem-36c3/) (Blogbeitrag)
+
+* [Verschwörhaus](https://verschwoerhaus.de/resource-exhaustion-wir-waren-auf-dem-36c3/) (Blogbeitrag)
+
+* [Commander1024](https://www.commander1024.de/wordpress/2020/01/co2-neutral-zum-36c3/) (Blogbeitrag)
+
+* [taz](https://taz.de/Mit-Kind-auf-dem-36C3/!5648807/) (Zeitungsbeitrag)
+
+* [Sendegarten](https://www.sendegarten.de/2019/12/29/seg091-36c3-tag-2/) (Podcast)
+
+* [Freakshow](https://freakshow.fm/fs245-lazy-letty?t=1%3A23%3A54) (Podcast)
+
+### Preverving Congress Feeling
+
+Nach vier langen Kongresstagen, traten die meisten Chaospoller den Heimweg ins Ruhrgebiet an, um gemeinsam das neue Jahr zu begrüßen. Nach dem Wiedereintritt in die Realität gelungen war, warf der Kurzvortrag „Preverving Congress Feeling“ in unserer Vortragsreihe „Petit foo“ die Frage auf, was wir vom 36. Chaos Communication Congress mitnehmen und über das kommende Jahr bewahren sollen. Viele der Anwesenden waren sich einig, dass wir die Aufmerksamkeit auf den Umgang mit den uns zur Verfügung stehenden Ressourcen richten sollten.
