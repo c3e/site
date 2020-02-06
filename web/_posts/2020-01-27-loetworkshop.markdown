@@ -11,3 +11,5 @@ Ihr interessiert euch für Elektronik und möchtet lernen, wie man Schaltungen l
 Beginn der Veranstaltung ist um **19 Uhr**. Wenn der Workshop euer Interesse weckt, könnt ihr euch unter **info@chaospott.de** anmelden. Auch Gäste, die mal wieder einen Bausatz löten möchten, sind herzlich eingeladen.
 
 Wenn ihr keine Zeit habt, ist das auch kein Problem: Ihr könnt auch einen Bausatz zusammen mit einer ausführlichen Anleitung bekommen und selbstständig in unserer Elektronikwerkstatt löten. Meldet euch dafür einfach unter **info@chaospott.de**.
+
+**Update:** Alle Plätze sind vergeben. Aufgrund des großen Interesses wird es im März/April einen weiteren Workshop geben. Er wird rechtzeitig angekündigt werden.
