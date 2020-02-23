@@ -9,8 +9,6 @@ Am besten sind wir via E-Mail zu erreichen:
 * **Allgemeine Anfragen:** [info@chaospott.de](mailto:info@chaospott.de)
 * **Presseanfragen:** [presse@chaospott.de](mailto:presse@chaospott.de)
 
-Gerne auch [verschlüsselt per GPG](https://chaospott.de/media/ccc-essen.pgp). 
-
 
 Telefonisch sind wir sehr schlecht zu erreichen.
 
