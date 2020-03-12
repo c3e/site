@@ -9,6 +9,6 @@ Am 29. Februar haben wir unsere Zusammenarbeit mit dem [Zentrum für Lehrerbildu
 ![Quelle: Chaospott]({{ site.url }}/media/2020-03-08/2020-03-08-cms-ude.jpg)
 *Workshop an der UDE [Chaospott](https://chaospott.de) [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
 
-Der praktische Teil des Workshops hat sich mit der Frage beschäftigt, wie man Passwörter erstellt und verwaltet, um im Alltag sinnvolle und merkbare Passwörter nutzen zu können. Zum Abschluss des Tages haben wir mit den Teilnehmerinnen und Teilnehmern diskutiert, welche Daten uns als Person ausmachen und wie sensibel wir mit diesen Daten umgehen. Dazu konnten wir in groben Zügen skizzieren, wie soziale Funktionieren und welche Kosten für den Betrieb anfallen.
+Der praktische Teil des Workshops hat sich mit der Frage beschäftigt, wie man Passwörter erstellt und verwaltet, um im Alltag sinnvolle und merkbare Passwörter nutzen zu können. Zum Abschluss des Tages haben wir mit den Teilnehmerinnen und Teilnehmern diskutiert, welche Daten uns als Person ausmachen und wie sensibel wir mit diesen Daten umgehen. Dazu konnten wir in groben Zügen skizzieren, wie soziale funktionieren und welche Kosten für den Betrieb anfallen.
 
 Wir bedanken uns an dieser Stelle für die Einladung und freuen uns, dass das Zentrum für Lehrerbildung den Workshop „Digitale Selbstverteidigung“ auch in das [Programm](https://zlb.uni-due.de/buat/) des Sommersemesters aufgenommen hat.
