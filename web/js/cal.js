@@ -212,4 +212,4 @@ function requestFailed(status) {
     document.getElementById('calendar').textContent = 'Something has gone wrong. Try reloading the page.'
 }
 
-xhrRequest('https://cloud.chaospott.de/remote.php/dav/public-calendars/5HM7B0ZOLEYC3QD0?export', processData, requestFailed)
+xhrRequest('https://cloud.chaospott.ru/remote.php/dav/public-calendars/5HM7B0ZOLEYC3QD0?export', processData, requestFailed)
