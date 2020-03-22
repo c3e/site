@@ -12,7 +12,7 @@ Traditionelle Kommunikation bot die Chaospost, prominent und bestens ausgestatte
 
 Ebenfalls attraktiv, die zahlreichen Vorträge und Workshops zwischen kopfförderlichen Puschelohren bis zu kopffordernden Themen mit hilfreichem Vorwissen über Booten und Kernelstarten. Anerkennung und Beifall den unermüdlichen Kämpfern für freie und befreite Hardware beim Start des Rechners. Und natürlich das im Halse stecken bleibende Gelächter über die plumpen Pannen bei der Sicherung kritischer Infrastruktur oder des Schutzes der Ewigkeitsdaten im Medizinbetrieb.
 
-![Quelle: Chaospott]({{ site.url }}/media/2020-03-22/2020-03-22-hip4-01-workshop.jpg)
+![Quelle: Chaospott]({{ site.url }}/media/2020-03-22/2020-03-22-hip4-00-workshop.jpg)
 *Workshops auf der HIP [Chaospott](https://chaospott.de) [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
 
 Weil außerhalb des Chaos nicht immer Perfektion herrscht, konnte, zum großen Bedauern des Autors dieser Zeile, eine Attraktion fortschreitenden Alters aus einem angrenzenden Ausland leider seine beliebten Vorträge nicht halten. Eine Instruierung zur Genossenschaft „formerly known as“ HackerEG aus der großen Hauptstadt musste aus Gesundheitsgründen unbestimmt verschoben werden. Allerdings können Vorträge vergangener Veranstaltungen auf [media.ccc.de](https://media.ccc.de/search/?q=hacker+eg) nachgeschaut werden. Rege genutzt wurde stattdessen die Möglichkeit zur direkten Kommunikation über Sprache, man sah sich schon damals nicht jede Woche und dass es eine der letzten Gelegenheiten des Jahres ist, hatte kaum jemand auf dem Monitor.
