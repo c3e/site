@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Virtueller Chaostreff"
-date: 2020-03-29 22:27:00
+date: 2020-03-28 22:27:00
 ---
 Aufgrund der aktuellen COVID19-Situation haben wir unsere Clubaktivitäten vollständig in den Cyberspace verlegt. 
 
