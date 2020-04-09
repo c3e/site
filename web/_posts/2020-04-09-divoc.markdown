@@ -3,11 +3,10 @@ layout: post
 title: "diVOC"
 date: 2020-04-09 08:43:23
 ---
+April 2020, die Hackspaces in ganz Deutschland sind geschlossen und alle Veranstalltungen abgesagt. Das Chaos verschwindet aus den gemeinsamen Spaces, Werkstätten und Bastelecken und zieht sich ins eigene Wohnzimmer zurück. Eine sichtbare Gemeinschaft wird es nur dank des heimlichen Helden des Chaos: Der Infrastruktur. Häufig übersehen und als selbstverständlich angesehen erlauben dezentrale, nichtkommerzielle und trackingfreie Services, dass Chaos weiter Chaos sein kann. Diese sonst etwas versteckten Services werden sichtbarer denn je. Video- oder Audiokonferenzsysteme erlauben es die Hackspaces in den virtuellen Raum zu übertragen, Pads, Gits und Wikis weiter gemeinsam zu arbeiten. Es ist Zeit, zuhause zu bleiben, nicht aber sich zu verstecken.
 
 ![Quelle: Chaospott]({{ site.url }}/media/2020-04-09/2020-04-09-hiddenservice_hiddenservice-logo-transparent.png)
 *Logo diVOC [faab_e](https://twitter.com/faab_e)*
-
-April 2020, die Hackspaces in ganz Deutschland sind geschlossen und alle Veranstalltungen abgesagt. Das Chaos verschwindet aus den gemeinsamen Spaces, Werkstätten und Bastelecken und zieht sich ins eigene Wohnzimmer zurück. Eine sichtbare Gemeinschaft wird es nur dank des heimlichen Helden des Chaos: Der Infrastruktur. Häufig übersehen und als selbstverständlich angesehen erlauben dezentrale, nichtkommerzielle und trackingfreie Services, dass Chaos weiter Chaos sein kann. Diese sonst etwas versteckten Services werden sichtbarer denn je. Video- oder Audiokonferenzsysteme erlauben es die Hackspaces in den virtuellen Raum zu übertragen, Pads, Gits und Wikis weiter gemeinsam zu arbeiten. Es ist Zeit, zuhause zu bleiben, nicht aber sich zu verstecken.
 
 Wir glauben, auch unsere Veranstaltungen können so stattfinden und wollen uns an einem digitalen, verteilten Online-Chaos versuchen. Immerhin sollt ihr an Ostern nicht auf euch allein gestellt sein! Daher haben wir ein Osterei für euch versteckt: Am 11. und 12. April findet das erste Online-Chaos unter dem Motto „Hidden Service“ statt. Das ganze Event wird auf media.ccc.de gestreamt und die Teilnahme ist natürlich kostenlos. Alle Informationen und den Fahrplan findet ihr demnächst unter [di.c3voc.de/](https://di.c3voc.de/) und auf Twitter unter [@dic3voc](https://twitter.com/dic3voc) sowie im Fediverse unter [@dic3voc@chaos.social](https://chaos.social/@dic3voc).
 
