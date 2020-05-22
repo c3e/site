@@ -110,7 +110,7 @@ Event.prototype.toHTML = function () {
         })
     }
 
-    if (this.component.getFirstPropertyValue("status") == "CANCELLED") {
+    if (this.event.component.getFirstPropertyValue("status") == "CANCELLED") {
         div_cal.style.textDecoration = 'line-through'
     }
 
