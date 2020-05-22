@@ -129,6 +129,14 @@ function parseIcalData(data) {
 
     events.map(function (e) {
         var event = new ICAL.Event(e)
+        if (event.component.getFirstPropertyValue("status") == "CANCELLED") {
+            console.log(event)
+            if (!(cancelledEvents[event.uid] instanceof Array)) {
+                cancelledEvents[event.uid] = []
+            }
+
+            cancelledEvents[event.uid].push(event.startDate.toJSDate().getTime())
+        }
 
         if (event.isRecurring()) {
             var expand = event.iterator()
@@ -145,16 +153,7 @@ function parseIcalData(data) {
                 }
             }
         } else if (eventInTimeRange(event, timeRangeStart, timeRangeStop)) {
-            if (event.component.getFirstPropertyValue("status") == "CANCELLED") {
-                console.log(event)
-                if (!(cancelledEvents[event.uid] instanceof Array)) {
-                    cancelledEvents[event.uid] = []
-                }
-
-                cancelledEvents[event.uid].push(event.startDate.toJSDate().getTime())
-            } else {
-                eventList.push(new Event(event.startDate, event))
-            }
+            eventList.push(new Event(event.startDate, event))
         }
     })
 }
