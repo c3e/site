@@ -110,7 +110,7 @@ Event.prototype.toHTML = function () {
         })
     }
 
-    if (this.isCancelled()) {
+    if (this.component.getFirstPropertyValue("status") == "CANCELLED") {
         div_cal.style.textDecoration = 'line-through'
     }
 
@@ -130,7 +130,7 @@ function parseIcalData(data) {
     events.map(function (e) {
         var event = new ICAL.Event(e)
         if (event.component.getFirstPropertyValue("status") == "CANCELLED") {
-            console.log(event)
+//            console.log(event)
             if (!(cancelledEvents[event.uid] instanceof Array)) {
                 cancelledEvents[event.uid] = []
             }
