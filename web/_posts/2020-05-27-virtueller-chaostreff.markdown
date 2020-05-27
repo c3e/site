@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Virtueller Chaostreff und Petit Foo"
-date: 2020-05-27 22:27:00
+date: 2020-05-27 20:27:00
 ---
 Aufgrund der aktuellen COVID19-Situation haben wir unsere Clubaktivitäten vollständig in den Cyberspace verlegt. Der Treff im Mumble-Server hat sich bewährt, er wird regelmäßig zum Austausch verwendet. Besonders zu unserem traditionellen Mittwochstreff sind viele Leute anwesend. Auch die wöchentlichen Kurzvorträge "Petit Foo" haben wir erfolgreich fortgeführt. Hierbei haben wir verschiedene Tools wie Nextcloud Talk und Big Blue Button für Bildübertragung verwendet und sehr gute Erfahrungen gemacht. Auch ein virtueller Filmabend über 'Watch2Gether' wurde durchgeführt.
 
