@@ -15,6 +15,8 @@ Die Maillinglisten bilden traditionell einen Schwerpunkt unserer Kommunikation, 
 * IRC: #chaospott @ hackint.org
 * Mumble: mumble.chaospott.de
 
+## Update vom 5. Juli
+Der Techniker lässt informieren, es geht wieder.
 
 Mit informierenden Grüßen
 
