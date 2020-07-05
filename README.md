@@ -1,4 +1,6 @@
-# site
+# site LEGACY
+
+**Dieses Repo wurde abgelöst durch [dieses](https://git.chaospott.de/Chaospott/site). Bitte pusht ab sofort dort hin, wenn ihr eure Änderungen auch sehen wollt**
 
 Die Chaospott Seite / Der Blog
 
