@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Coronavirus Update: Club für Mitglieder wieder eingeschränkt geöffnet"
+date: 2020-09-01 18:00:00
+---
+Die Clubräume sind eingeschränkt wieder für Mitglieder geöffnet. Die Öffnung soll es in erster Linie ermöglichen, dass Mitglieder wieder an ihren Projekten und in der Werkstatt arbeiten können. Während der Schließungszeit wurden umfangreiche Renovierungen und Verbesserungen der Clubräume durchgeführt.
+
+Externe Besucher sollen auch weiterhin nicht spontan in die Clubräume, sondern zum virtuellen Chaostreff kommen. Gäste können mit Voranmeldung an [chaospatinnen@chaospott.de](mailto:chaospatinnen@chaospott.de) auch auf einen Besuch vorbeikommen.
+
+Aufgrund der aktuellen COVID19-Situation haben wir unsere Chaostreffen vollständig in den Cyberspace verlegt. Der Treff im Mumble-Server hat sich bewährt, er wird regelmäßig zum Austausch verwendet. Besonders zu unserem traditionellen Mittwochstreff sind viele Leute anwesend. Auch die wöchentlichen Kurzvorträge "Petit Foo" haben wir erfolgreich fortgeführt. Hierbei haben wir verschiedene Tools wie Nextcloud Talk und Big Blue Button für Bildübertragung verwendet und sehr gute Erfahrungen gemacht. Auch ein virtueller Filmabend über 'Watch2Gether' wurde durchgeführt.
+
+Um sich mit unserem virtuellen Chaostreff zu verbinden benötigt man einen Mumble-Client, der für zahlreiche Betriebssysteme [zur Verfügung steht](https://www.mumble.info/downloads/). Zum Verbinden im Mumble-Client als Server einfach *“mumble.chaospott.de”* eingeben.
+
+Die Kurzvorträge "Petit Foo" finden mittwochs um 20:00 Uhr im Raum "Lounge" auf unserem Mumble-Server statt. Gäste sind herzlich eingeladen!
